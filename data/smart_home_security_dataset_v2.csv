@@ -1,0 +1,3001 @@
+device_type,password_changed,password_strength,mfa_enabled,update_frequency,latest_firmware,wifi_security,guest_network,remote_access,communication_encryption,data_encryption,manufacturer_reputation,unused_services_disabled,security_logs,permission_review,data_minimization,security_score,risk_level
+Smart Lock,1,2,0,1,0,1,1,1,1,1,2,1,1,1,1,67,Medium
+Smart Speaker,0,2,0,2,1,0,0,1,1,0,2,1,1,1,1,56,Medium
+Smart Sensor,0,0,1,1,0,1,1,0,0,1,0,1,0,0,1,38,High
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,0,1,1,1,92,Very Low
+Smart Lock,0,2,0,0,0,0,0,1,0,1,2,0,0,0,1,27,Critical
+Smart Sensor,1,2,0,1,0,1,0,2,1,1,0,0,0,1,0,54,High
+Smart Lock,0,2,1,2,1,2,1,2,0,1,1,1,0,0,1,75,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Thermostat,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,29,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,0,0,94,Very Low
+Smart Sensor,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,18,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,16,Critical
+Camera,1,2,1,1,0,1,1,2,1,1,1,1,1,0,0,73,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,0,1,1,1,0,1,87,Low
+Smart Lock,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,94,Very Low
+Camera,1,2,1,2,0,2,1,2,1,1,1,1,0,1,1,86,Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6,Critical
+Thermostat,0,0,0,2,0,2,0,1,1,1,2,1,1,1,1,54,High
+Smart Lock,1,2,0,1,1,0,0,1,1,1,0,1,1,0,1,62,Medium
+Camera,1,2,1,1,1,1,1,2,1,1,1,1,1,1,1,89,Low
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Camera,1,2,1,1,1,2,1,1,1,1,1,0,1,1,1,85,Low
+Smart Sensor,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Lock,1,2,1,2,1,2,0,2,1,1,1,0,1,1,1,90,Very Low
+Camera,1,1,0,0,0,0,1,0,0,0,2,1,0,0,1,29,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,8,Critical
+Smart Speaker,1,1,1,1,0,1,1,0,1,1,1,0,1,0,0,57,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Thermostat,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,15,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,2,0,2,1,1,0,1,0,0,2,0,0,0,1,43,High
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,1,2,1,2,1,2,0,2,1,1,2,1,1,0,1,93,Very Low
+Camera,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,0,2,0,2,1,0,0,1,1,1,0,0,1,0,1,53,High
+Smart Sensor,0,0,1,2,1,0,0,0,0,0,0,1,1,0,0,36,High
+Camera,1,0,1,1,1,1,1,2,1,1,1,0,1,0,0,71,Medium
+Thermostat,1,1,0,1,0,2,1,1,1,0,1,1,0,0,1,52,High
+Camera,1,1,1,1,1,2,1,2,1,1,2,1,1,1,1,91,Very Low
+Camera,1,0,1,0,1,2,0,0,1,0,1,0,1,1,0,53,High
+Thermostat,1,2,1,2,1,0,1,2,1,1,2,1,1,0,1,89,Low
+Thermostat,1,0,0,1,1,1,0,1,0,0,0,0,0,1,1,39,High
+Camera,1,0,1,2,1,1,1,1,1,1,2,0,1,1,0,77,Low
+Camera,1,2,1,0,0,2,0,1,0,0,1,1,0,1,0,49,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,7,Critical
+Camera,0,0,0,0,1,1,0,1,1,0,2,0,0,1,0,33,Critical
+Camera,1,2,1,0,1,1,0,1,1,1,2,1,1,0,1,75,Low
+Camera,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,2,1,2,1,1,1,2,1,1,1,1,0,0,0,86,Low
+Camera,1,1,1,1,1,2,0,0,1,0,1,0,0,0,1,60,Medium
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,1,0,0,1,1,2,1,1,1,0,0,0,0,0,0,49,High
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Lock,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,0,2,0,1,1,2,1,1,1,1,1,1,0,1,1,67,Medium
+Smart Speaker,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,10,Critical
+Camera,0,1,1,1,0,2,1,1,1,0,0,1,1,0,1,52,High
+Smart Sensor,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,10,Critical
+Smart Speaker,1,2,0,2,0,0,0,0,1,0,0,0,0,0,0,36,High
+Camera,0,2,1,2,1,0,1,1,0,1,2,1,1,1,1,70,Medium
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,0,1,93,Very Low
+Thermostat,1,0,1,2,1,2,1,0,1,0,2,0,1,1,1,72,Medium
+Smart Lock,1,2,0,0,1,2,1,2,0,0,2,1,0,0,1,59,Medium
+Smart Sensor,1,2,1,1,0,0,0,0,1,1,2,0,0,0,0,53,High
+Camera,1,2,1,1,1,2,0,2,1,1,1,0,1,1,1,85,Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,1,1,1,0,0,88,Low
+Smart Speaker,1,1,1,0,0,1,1,0,0,1,0,0,1,0,0,42,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,0,1,0,2,1,1,1,0,1,0,1,0,1,1,0,47,High
+Smart Sensor,1,1,1,2,1,2,1,0,1,1,1,0,0,1,1,80,Low
+Thermostat,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6,Critical
+Camera,1,2,0,2,1,2,0,1,1,1,1,0,0,0,1,71,Medium
+Camera,1,1,0,1,1,1,0,0,1,1,2,1,0,0,0,57,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Speaker,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1,17,Critical
+Smart Sensor,1,2,1,2,0,0,0,1,1,1,2,1,0,0,0,66,Medium
+Smart Speaker,1,1,0,2,0,2,0,1,1,1,2,1,0,0,1,63,Medium
+Camera,0,2,0,2,1,1,1,2,1,1,2,1,1,0,0,70,Medium
+Smart Sensor,1,1,1,2,0,2,1,2,1,1,2,1,1,1,1,86,Low
+Smart Lock,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,14,Critical
+Smart Speaker,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,18,Critical
+Smart Speaker,1,0,1,1,0,2,1,2,1,1,1,1,1,1,1,75,Low
+Thermostat,1,0,1,1,0,2,0,1,1,0,1,1,1,0,1,56,Medium
+Camera,1,1,0,2,1,1,0,2,1,1,2,1,1,0,1,75,Low
+Thermostat,0,2,1,2,0,2,0,1,0,0,1,1,0,1,1,52,High
+Thermostat,0,2,1,1,1,2,1,2,1,1,2,1,1,1,1,85,Low
+Smart Lock,0,2,1,2,1,1,1,2,1,1,2,1,1,1,1,86,Low
+Camera,1,2,1,1,1,1,0,2,0,0,2,0,1,0,1,64,Medium
+Camera,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,15,Critical
+Smart Speaker,1,2,0,0,0,0,1,2,0,0,2,1,1,1,1,46,High
+Thermostat,1,0,0,0,0,2,0,2,0,0,1,0,1,0,1,33,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,0,0,1,2,1,0,0,1,1,0,1,0,0,34,Critical
+Thermostat,1,2,1,2,1,2,0,1,1,1,2,1,1,1,0,89,Low
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,1,1,0,1,1,92,Very Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,1,1,1,0,1,1,1,1,0,1,1,1,0,0,1,63,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,1,2,1,1,1,2,1,1,2,0,1,1,1,92,Very Low
+Smart Sensor,1,1,0,2,0,1,1,0,0,1,1,0,1,1,1,50,High
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,6,Critical
+Camera,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,12,Critical
+Thermostat,0,1,0,2,0,1,0,0,1,1,0,0,1,0,0,36,High
+Smart Speaker,1,0,0,0,0,1,0,0,0,0,2,1,0,1,0,25,Critical
+Camera,1,0,0,1,0,2,0,2,0,0,1,1,1,0,0,39,High
+Smart Lock,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Sensor,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,22,Critical
+Thermostat,1,1,0,2,0,0,0,1,0,0,0,0,1,0,0,30,Critical
+Smart Lock,0,2,1,0,0,1,0,1,1,1,0,0,0,0,0,42,High
+Thermostat,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12,Critical
+Smart Sensor,1,2,1,0,1,1,1,2,1,0,1,1,1,0,0,70,Medium
+Thermostat,0,2,0,1,1,2,1,1,1,1,1,0,1,0,1,62,Medium
+Smart Sensor,1,2,1,1,1,2,1,2,1,1,2,1,0,0,1,90,Very Low
+Smart Sensor,1,0,0,1,0,1,1,0,0,0,2,0,1,0,0,29,Critical
+Thermostat,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,12,Critical
+Smart Sensor,1,1,0,2,1,0,1,2,0,1,1,0,1,0,1,61,Medium
+Thermostat,1,1,0,1,1,2,1,2,1,1,2,1,1,0,1,78,Low
+Camera,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,0,1,0,0,1,1,1,1,1,1,2,1,0,1,1,56,Medium
+Smart Speaker,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Lock,1,0,0,1,0,1,1,0,1,0,1,1,1,1,0,42,High
+Thermostat,0,2,0,1,0,0,0,1,1,0,0,1,0,0,1,32,Critical
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,0,0,2,1,2,1,1,1,1,2,0,1,1,1,74,Medium
+Camera,1,1,0,1,0,1,0,0,0,0,2,0,1,1,0,32,Critical
+Thermostat,0,0,0,0,1,0,1,1,1,0,2,1,0,0,0,34,Critical
+Smart Lock,1,1,0,0,0,2,0,1,1,1,2,0,1,1,0,51,High
+Thermostat,1,0,1,1,1,2,0,0,0,0,1,1,0,0,0,49,High
+Camera,0,0,0,1,0,2,0,1,0,0,1,0,0,0,0,19,Critical
+Smart Lock,1,2,0,2,1,2,1,1,1,1,2,0,1,1,1,82,Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Thermostat,0,2,1,1,0,2,0,1,0,0,2,0,1,0,1,44,High
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,0,0,2,0,1,1,2,1,1,2,1,1,0,1,65,Medium
+Smart Speaker,1,0,1,2,1,0,0,1,1,1,0,0,0,0,1,63,Medium
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,2,0,2,0,1,1,0,0,1,1,1,0,1,0,53,High
+Smart Speaker,0,2,1,2,0,0,0,0,1,0,0,0,0,0,1,39,High
+Thermostat,1,0,0,1,0,2,1,0,1,1,1,0,0,1,0,48,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6,Critical
+Smart Speaker,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,23,Critical
+Camera,0,1,1,2,1,2,0,0,0,0,2,1,1,0,0,52,High
+Smart Sensor,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,1,1,2,1,2,0,1,1,1,2,1,1,1,1,88,Low
+Smart Lock,1,1,1,1,1,2,0,2,0,1,2,0,0,1,1,73,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,1,1,0,1,2,1,1,1,0,1,0,1,0,1,55,Medium
+Camera,1,0,1,0,1,2,1,1,0,0,1,1,1,1,1,60,Medium
+Camera,1,1,1,0,1,1,1,1,0,1,2,0,1,0,1,63,Medium
+Smart Sensor,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,17,Critical
+Camera,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,14,Critical
+Thermostat,1,1,1,1,1,0,0,2,0,0,1,1,1,1,1,61,Medium
+Smart Sensor,1,1,1,1,1,2,0,2,1,1,1,0,0,1,0,76,Low
+Smart Speaker,0,2,1,2,1,2,0,2,1,1,2,1,1,1,1,86,Low
+Thermostat,0,2,1,0,1,0,0,0,0,0,0,1,0,0,0,32,Critical
+Thermostat,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Lock,1,1,0,2,0,0,1,0,1,1,2,1,0,0,0,52,High
+Smart Lock,1,2,1,1,1,2,1,1,1,1,2,1,1,1,0,88,Low
+Camera,1,1,1,2,1,1,0,1,1,1,1,1,1,1,1,82,Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,Critical
+Thermostat,1,2,1,0,1,1,0,2,1,1,0,0,1,1,0,71,Medium
+Camera,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,10,Critical
+Thermostat,0,1,1,0,1,1,1,0,1,0,1,0,0,1,1,48,High
+Smart Sensor,1,0,0,1,0,1,0,0,0,0,1,0,0,0,1,24,Critical
+Smart Speaker,1,2,0,0,1,0,0,1,0,0,0,1,0,0,0,36,High
+Smart Lock,1,1,0,1,0,1,1,0,0,0,0,0,0,1,1,33,Critical
+Smart Sensor,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,20,Critical
+Thermostat,1,2,1,2,1,1,0,1,1,1,2,1,1,1,1,88,Low
+Smart Speaker,1,0,1,1,0,1,0,0,1,0,2,1,1,1,1,53,High
+Camera,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,16,Critical
+Smart Lock,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,23,Critical
+Camera,1,0,1,1,1,2,1,1,0,0,2,1,0,1,1,65,Medium
+Smart Speaker,1,2,1,0,0,0,1,1,0,0,1,1,0,1,1,48,High
+Smart Speaker,0,2,1,2,0,0,0,2,0,1,0,1,0,1,1,54,High
+Thermostat,1,2,1,2,1,2,0,2,1,1,1,1,1,1,1,94,Very Low
+Smart Sensor,1,1,1,2,1,0,1,2,1,1,2,0,0,0,1,79,Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Lock,1,1,1,2,1,1,1,2,1,0,2,1,1,0,1,81,Low
+Thermostat,0,1,1,1,0,1,1,1,0,1,1,0,1,1,1,49,High
+Camera,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Smart Sensor,1,1,1,2,1,2,0,1,1,1,1,0,1,0,1,79,Low
+Camera,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Smart Speaker,1,1,0,2,0,0,0,1,0,0,0,0,0,0,0,28,Critical
+Smart Speaker,1,2,0,2,0,0,1,0,0,1,1,1,0,1,1,52,High
+Smart Speaker,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,27,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Thermostat,1,2,1,2,1,2,1,1,0,1,2,1,1,1,1,88,Low
+Smart Sensor,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Lock,1,2,0,0,1,0,1,0,0,1,0,0,1,1,0,45,High
+Smart Sensor,0,0,1,2,1,0,1,2,1,0,2,1,0,0,1,61,Medium
+Thermostat,1,1,1,2,0,0,1,2,0,1,1,1,0,1,1,66,Medium
+Thermostat,1,1,1,0,0,1,0,2,1,0,1,0,0,1,0,49,High
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Lock,1,1,1,2,1,2,0,2,1,1,2,1,1,0,1,89,Low
+Smart Speaker,1,0,1,0,1,2,0,2,1,0,1,1,0,1,1,66,Medium
+Smart Speaker,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,30,Critical
+Camera,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,13,Critical
+Smart Sensor,1,1,0,2,1,2,1,2,1,1,2,1,1,1,1,86,Low
+Camera,1,2,1,2,1,2,1,2,1,0,2,1,1,1,1,92,Very Low
+Camera,1,2,1,2,1,2,1,2,1,0,2,1,1,1,1,92,Very Low
+Smart Speaker,1,0,0,2,0,1,0,0,0,0,0,0,1,0,0,26,Critical
+Smart Speaker,1,1,1,1,1,2,1,2,1,1,1,0,1,0,1,82,Low
+Smart Sensor,1,1,1,0,0,0,0,2,0,0,1,0,1,1,1,42,High
+Smart Lock,1,2,0,2,1,1,0,2,1,1,1,1,1,1,1,80,Low
+Smart Speaker,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Thermostat,0,1,1,1,0,1,0,2,0,0,2,1,0,1,1,45,High
+Smart Speaker,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,89,Low
+Thermostat,1,0,0,1,0,2,0,1,0,0,2,0,0,0,0,31,Critical
+Smart Lock,1,2,1,1,0,2,1,2,1,1,2,1,1,1,1,85,Low
+Camera,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6,Critical
+Smart Sensor,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,9,Critical
+Smart Sensor,0,1,0,1,1,0,1,1,1,1,2,1,1,1,1,59,Medium
+Smart Lock,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,9,Critical
+Thermostat,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Thermostat,0,0,1,0,0,2,1,1,0,0,1,1,0,1,1,38,High
+Smart Lock,1,2,1,1,0,0,1,1,1,0,1,1,0,1,1,61,Medium
+Smart Sensor,0,0,0,1,1,0,1,1,0,1,2,0,1,0,1,40,High
+Smart Lock,1,1,1,2,0,1,0,2,0,1,2,1,1,1,1,70,Medium
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,1,0,1,1,94,Very Low
+Camera,1,1,1,2,1,1,1,2,0,1,2,0,1,1,1,80,Low
+Smart Sensor,1,1,0,2,0,1,0,1,0,0,1,1,1,1,1,46,High
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Speaker,1,2,1,1,1,1,1,1,1,0,1,1,1,1,0,74,Medium
+Camera,1,2,1,2,1,1,1,1,1,1,1,1,1,0,1,87,Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,Critical
+Camera,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,0,0,0,0,1,1,0,0,1,1,0,0,1,1,1,38,High
+Thermostat,1,1,0,2,1,0,1,0,1,1,1,0,0,0,0,56,Medium
+Smart Sensor,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,20,Critical
+Smart Lock,0,1,0,1,0,1,0,1,1,1,0,1,0,0,0,37,High
+Camera,1,0,1,2,0,1,1,0,1,1,1,1,1,1,1,68,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,10,Critical
+Thermostat,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,11,Critical
+Camera,1,0,0,0,0,2,0,2,1,1,1,1,0,0,0,48,High
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,24,Critical
+Smart Speaker,1,0,0,2,0,1,1,2,1,1,0,0,1,0,0,54,High
+Smart Speaker,1,2,1,1,1,2,1,1,0,1,2,1,1,1,1,83,Low
+Smart Lock,1,2,1,0,1,2,0,2,1,1,1,0,1,1,1,80,Low
+Smart Lock,0,1,0,1,1,2,1,0,0,0,1,1,0,1,1,43,High
+Smart Lock,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Thermostat,1,1,0,2,1,2,1,2,1,0,1,1,1,1,0,73,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Camera,1,1,0,1,1,0,0,2,1,1,1,0,0,0,1,58,Medium
+Smart Sensor,1,1,1,1,1,0,1,2,1,0,2,1,0,0,1,70,Medium
+Thermostat,0,2,0,1,1,2,1,1,1,1,2,1,0,1,1,69,Medium
+Smart Sensor,0,0,0,1,0,1,0,1,1,0,1,1,0,0,1,30,Critical
+Camera,0,0,0,2,1,2,0,0,0,1,0,0,0,1,0,39,High
+Smart Sensor,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,90,Very Low
+Smart Lock,1,1,0,2,0,0,1,2,1,0,1,0,0,0,1,49,High
+Camera,1,2,1,2,1,2,1,2,0,1,1,1,1,0,1,87,Low
+Camera,1,0,0,2,1,2,1,2,1,0,2,1,0,1,0,69,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Thermostat,1,1,1,1,1,2,0,1,1,1,1,1,0,1,1,79,Low
+Smart Speaker,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,16,Critical
+Thermostat,1,0,1,0,0,2,0,1,0,0,1,0,0,1,0,37,High
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,1,1,0,1,1,91,Very Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Critical
+Smart Lock,0,0,1,2,0,1,0,0,0,0,0,0,1,0,0,26,Critical
+Smart Sensor,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,77,Low
+Thermostat,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,10,Critical
+Smart Sensor,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,30,Critical
+Camera,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,0,1,2,0,2,0,0,0,1,1,1,0,1,1,58,Medium
+Thermostat,1,1,1,0,1,0,0,0,1,0,0,0,1,0,0,44,High
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,2,0,0,1,1,90,Very Low
+Smart Speaker,1,0,0,0,0,0,0,0,1,1,2,0,0,0,1,33,Critical
+Smart Lock,1,2,1,2,1,1,0,1,0,1,2,0,1,1,1,76,Low
+Smart Lock,1,0,0,2,0,1,0,0,0,1,0,1,1,0,1,41,High
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,5,Critical
+Smart Sensor,1,1,1,2,0,2,1,0,1,1,1,1,0,1,1,74,Medium
+Smart Speaker,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,18,Critical
+Smart Sensor,0,0,0,2,0,1,1,0,0,1,2,0,1,1,0,35,High
+Smart Speaker,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0,45,High
+Smart Speaker,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,7,Critical
+Smart Lock,1,0,1,1,0,0,1,1,0,1,1,1,1,1,0,52,High
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,1,0,0,1,0,1,0,1,0,0,2,1,0,0,1,34,Critical
+Smart Lock,1,1,1,0,0,1,0,2,1,0,2,0,0,0,0,48,High
+Thermostat,1,0,0,1,1,1,0,1,1,0,0,0,0,0,1,44,High
+Smart Lock,0,2,0,0,0,1,0,0,0,0,1,1,1,0,0,20,Critical
+Camera,1,1,0,1,1,0,1,2,0,0,1,1,0,0,0,47,High
+Smart Sensor,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Camera,0,0,0,1,1,2,0,1,0,0,2,0,0,0,0,31,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Camera,1,2,1,0,0,1,0,1,1,0,0,0,0,1,1,50,High
+Thermostat,0,0,0,1,0,1,1,2,0,1,2,1,0,0,1,40,High
+Smart Speaker,1,0,0,0,0,0,0,2,1,1,1,0,0,0,0,36,High
+Camera,0,1,0,1,0,0,1,0,1,1,0,0,1,1,1,37,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,2,1,2,1,2,1,1,0,1,1,0,1,1,1,82,Low
+Camera,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,21,Critical
+Smart Speaker,1,0,1,1,1,1,1,1,0,0,2,0,0,1,1,57,Medium
+Thermostat,0,2,1,2,1,1,1,2,1,1,1,1,1,0,1,81,Low
+Smart Lock,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,13,Critical
+Smart Speaker,1,2,0,2,1,2,0,1,0,1,2,0,1,1,0,67,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,2,0,0,1,1,0,1,0,1,2,0,0,1,0,51,High
+Smart Sensor,0,1,0,0,0,2,1,2,0,1,2,1,0,0,1,43,High
+Smart Lock,0,1,0,2,0,2,0,2,1,1,1,0,0,1,0,51,High
+Smart Lock,1,1,1,2,1,1,1,2,1,1,1,1,1,0,1,87,Low
+Camera,1,2,0,2,1,2,0,1,1,1,1,0,1,0,1,73,Medium
+Thermostat,1,1,1,1,1,2,0,0,0,0,2,1,1,0,1,60,Medium
+Smart Sensor,1,2,0,0,1,1,1,2,1,0,2,1,1,1,1,68,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Camera,1,1,1,2,1,2,1,2,1,0,1,1,1,1,1,86,Low
+Camera,0,1,1,0,0,2,0,1,0,0,2,0,1,1,1,38,High
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,1,1,0,1,1,0,0,0,0,0,1,1,0,1,0,38,High
+Thermostat,1,1,0,2,0,2,1,0,0,1,2,0,1,0,1,53,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,14,Critical
+Camera,0,1,1,1,0,1,0,1,0,0,1,0,0,0,1,32,Critical
+Smart Speaker,1,1,1,1,0,1,0,1,1,1,2,1,1,0,0,63,Medium
+Camera,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,90,Very Low
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,7,Critical
+Thermostat,1,1,0,1,1,0,0,0,0,1,1,1,1,1,1,51,High
+Smart Speaker,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,0,0,0,0,0,0,0,1,0,0,0,1,33,Critical
+Thermostat,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,26,Critical
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,0,1,1,94,Very Low
+Smart Sensor,1,2,1,2,1,2,1,2,0,1,1,1,1,1,1,90,Very Low
+Camera,1,0,1,0,0,2,1,1,1,0,1,1,0,0,0,50,High
+Smart Lock,1,1,0,0,0,1,0,2,0,1,0,0,1,0,0,36,High
+Camera,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,9,Critical
+Thermostat,1,2,1,0,1,1,0,1,0,1,2,1,1,0,0,64,Medium
+Smart Speaker,0,2,0,1,1,2,0,1,0,0,2,1,1,1,0,48,High
+Smart Lock,1,1,0,2,1,1,0,0,0,0,2,0,0,0,0,42,High
+Thermostat,1,1,0,0,1,0,0,0,0,0,2,0,0,1,0,31,Critical
+Camera,1,2,0,1,1,2,0,1,0,1,2,1,0,1,1,67,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Lock,0,0,1,2,0,1,1,0,0,1,2,0,1,1,0,45,High
+Smart Lock,1,0,1,1,1,2,0,0,1,0,0,1,1,0,0,57,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Thermostat,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,14,Critical
+Smart Speaker,1,0,1,0,0,0,0,0,0,0,2,0,0,0,0,24,Critical
+Camera,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,27,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,0,1,95,Very Low
+Smart Sensor,1,1,0,2,0,2,1,1,1,1,1,0,0,0,1,61,Medium
+Smart Speaker,1,2,1,0,1,0,0,0,1,0,1,0,1,1,0,53,High
+Smart Lock,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,15,Critical
+Smart Lock,1,0,1,1,1,1,1,2,1,1,2,0,1,1,0,76,Low
+Camera,1,1,1,2,0,2,1,2,0,1,1,1,1,1,0,73,Medium
+Camera,1,2,0,1,0,1,1,2,1,1,0,0,1,1,1,63,Medium
+Camera,1,1,0,2,1,0,1,0,0,0,0,0,0,1,0,41,High
+Smart Lock,0,1,0,0,0,0,0,1,1,0,1,1,1,1,0,27,Critical
+Camera,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,35,High
+Smart Speaker,1,1,1,2,1,2,1,1,1,1,1,0,1,1,0,83,Low
+Camera,1,1,0,2,0,2,1,2,1,1,1,1,0,1,1,72,Medium
+Smart Speaker,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,1,0,1,93,Very Low
+Smart Speaker,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,21,Critical
+Smart Sensor,1,1,0,2,0,1,0,0,1,1,1,0,1,1,1,54,High
+Thermostat,0,0,0,0,1,0,1,0,1,0,2,0,1,0,1,31,Critical
+Camera,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,14,Critical
+Smart Lock,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6,Critical
+Smart Speaker,1,0,1,0,1,0,1,1,0,0,0,1,0,0,1,45,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,2,0,2,1,0,0,2,1,0,1,1,0,0,1,63,Medium
+Camera,0,2,0,2,0,0,0,0,0,0,2,1,0,1,0,29,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,2,1,0,1,1,1,2,0,1,1,1,1,0,1,73,Medium
+Smart Lock,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,12,Critical
+Camera,1,2,1,2,1,1,1,2,1,1,2,0,1,1,1,92,Very Low
+Smart Sensor,1,1,0,2,0,1,1,2,1,0,2,0,1,1,1,60,Medium
+Camera,1,2,1,1,1,0,0,2,1,0,1,0,1,1,1,69,Medium
+Smart Speaker,0,2,1,2,1,0,1,1,1,1,1,1,0,0,1,71,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,12,Critical
+Smart Sensor,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Camera,0,1,1,2,1,0,0,0,1,1,2,1,1,0,1,63,Medium
+Smart Sensor,1,0,1,2,1,0,1,1,0,1,0,1,1,1,1,68,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,0,0,1,1,2,1,1,1,1,2,1,0,1,0,58,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,1,0,1,1,1,94,Very Low
+Smart Speaker,0,0,0,1,0,1,0,2,1,0,2,0,0,1,1,35,High
+Camera,1,0,0,0,1,1,1,2,0,0,1,0,1,1,0,43,High
+Thermostat,1,0,0,2,1,2,1,0,0,1,0,0,1,0,0,52,High
+Smart Sensor,1,1,1,2,1,0,1,2,0,0,2,1,0,1,0,67,Medium
+Smart Speaker,0,1,0,0,0,0,1,1,0,1,1,1,1,0,0,28,Critical
+Smart Sensor,1,2,0,0,0,1,1,0,1,1,1,0,0,0,0,44,High
+Smart Speaker,1,0,0,0,1,0,0,2,0,0,0,1,0,0,1,35,High
+Camera,1,1,1,2,1,1,1,2,1,1,1,1,1,1,1,90,Very Low
+Smart Lock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,22,Critical
+Smart Lock,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,9,Critical
+Thermostat,1,0,0,2,1,2,1,1,0,0,1,0,1,1,0,53,High
+Thermostat,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Camera,1,1,0,1,1,0,0,2,1,0,1,1,0,0,1,54,High
+Smart Sensor,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Smart Lock,1,1,0,2,0,1,0,2,1,0,2,1,1,1,1,60,Medium
+Smart Sensor,1,2,0,1,1,1,1,1,0,1,1,1,0,1,1,65,Medium
+Smart Lock,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,10,Critical
+Camera,0,1,1,0,0,0,0,1,1,1,1,1,1,1,0,45,High
+Camera,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,0,0,1,0,0,1,0,0,0,1,1,0,0,1,28,Critical
+Smart Sensor,1,2,1,2,1,1,0,1,1,0,1,0,1,1,1,74,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,1,0,2,1,2,1,2,1,1,1,1,1,1,0,81,Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Thermostat,0,1,0,1,0,1,0,2,0,1,2,1,0,0,1,40,High
+Thermostat,1,0,0,2,1,1,0,0,1,1,0,1,0,1,1,60,Medium
+Smart Lock,1,2,1,0,1,1,1,2,0,1,0,1,1,1,1,74,Medium
+Smart Sensor,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,13,Critical
+Camera,0,1,0,0,0,0,0,2,0,0,2,0,0,0,0,16,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Thermostat,1,0,0,1,0,2,1,0,1,1,0,0,0,0,1,46,High
+Smart Sensor,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,9,Critical
+Smart Sensor,0,1,1,0,0,0,1,0,0,0,0,1,0,1,0,25,Critical
+Smart Speaker,1,1,1,2,1,1,1,2,1,1,2,1,1,1,1,92,Very Low
+Smart Sensor,1,2,0,1,1,1,1,1,0,1,1,0,0,1,0,58,Medium
+Smart Speaker,1,2,1,0,0,0,0,0,0,1,0,0,1,0,0,38,High
+Thermostat,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,11,Critical
+Smart Lock,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,22,Critical
+Thermostat,0,0,0,0,1,0,1,2,1,0,2,0,0,1,1,40,High
+Smart Sensor,1,1,1,2,0,1,1,1,1,0,2,1,1,0,0,64,Medium
+Smart Speaker,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Camera,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,0,1,1,1,0,1,83,Low
+Smart Sensor,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Smart Sensor,1,0,0,2,1,2,1,2,1,1,1,1,1,1,1,80,Low
+Thermostat,1,2,1,1,1,1,1,2,0,1,1,1,0,1,1,79,Low
+Smart Lock,1,2,1,2,1,0,0,2,1,0,1,0,1,0,1,71,Medium
+Smart Speaker,0,1,0,1,1,1,0,1,0,0,1,1,1,1,0,38,High
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,24,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,9,Critical
+Smart Sensor,1,0,0,0,0,0,1,2,0,1,1,0,1,0,0,34,Critical
+Camera,0,2,1,0,1,1,0,0,1,1,0,1,1,0,0,54,High
+Smart Lock,1,2,1,2,1,2,1,1,1,0,2,0,1,0,1,81,Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,1,2,0,0,1,1,1,1,1,1,2,0,0,0,1,63,Medium
+Smart Sensor,0,2,0,1,0,0,1,2,1,0,0,0,1,1,0,38,High
+Thermostat,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,16,Critical
+Smart Speaker,1,2,0,2,0,1,1,2,1,1,1,1,1,1,1,74,Medium
+Smart Lock,1,0,1,1,0,1,0,1,1,0,0,0,0,1,1,47,High
+Smart Lock,1,1,0,2,0,0,0,1,0,0,0,0,1,1,0,33,Critical
+Camera,0,1,0,2,0,0,1,1,1,0,2,1,1,0,0,40,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,1,1,2,0,1,1,0,1,1,0,0,1,0,0,60,Medium
+Thermostat,1,1,1,2,1,2,1,1,0,1,2,0,0,1,1,78,Low
+Smart Sensor,1,2,0,2,1,1,1,1,1,1,2,1,1,1,0,79,Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Smart Lock,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,16,Critical
+Smart Sensor,1,2,1,0,0,2,1,2,1,1,2,0,1,1,1,76,Low
+Smart Sensor,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,18,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,0,95,Very Low
+Thermostat,1,2,1,0,1,1,0,1,1,1,1,1,0,1,1,74,Medium
+Thermostat,1,1,0,0,0,1,0,2,0,1,1,0,0,1,0,39,High
+Thermostat,0,0,0,2,1,1,1,0,1,0,2,1,0,0,0,44,High
+Thermostat,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,26,Critical
+Smart Sensor,1,0,1,0,0,1,1,1,1,1,1,1,1,0,1,59,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Lock,0,2,0,0,1,1,0,1,0,1,2,1,0,1,0,45,High
+Smart Sensor,0,2,1,0,1,0,0,0,0,0,1,1,0,0,0,34,Critical
+Smart Sensor,1,2,1,2,1,2,1,1,1,0,2,1,1,1,1,88,Low
+Thermostat,0,2,1,1,1,2,1,2,1,0,2,1,1,0,0,71,Medium
+Smart Lock,1,2,1,1,1,2,1,1,1,1,2,1,1,1,1,91,Very Low
+Smart Sensor,1,0,1,2,0,1,0,2,0,1,1,0,1,0,1,57,Medium
+Smart Sensor,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,20,Critical
+Smart Sensor,1,1,1,1,1,0,1,0,1,1,1,1,0,0,0,65,Medium
+Smart Speaker,1,0,0,2,0,1,0,0,1,0,0,1,0,1,1,42,High
+Thermostat,1,0,0,0,1,2,1,1,0,0,1,0,1,0,1,43,High
+Smart Speaker,1,1,1,0,1,2,1,2,1,1,1,1,1,1,0,81,Low
+Camera,0,1,0,2,0,2,1,1,1,0,2,0,1,1,0,47,High
+Smart Lock,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,37,High
+Smart Speaker,0,0,0,1,1,2,0,1,0,0,1,1,1,1,0,38,High
+Smart Lock,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,86,Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Thermostat,1,2,1,0,0,0,1,0,0,0,2,0,1,0,0,38,High
+Smart Sensor,1,1,0,2,1,1,1,2,1,1,1,1,1,1,1,80,Low
+Thermostat,0,0,0,2,1,2,1,2,1,0,0,0,0,0,0,48,High
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,0,1,93,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Lock,1,2,1,2,0,0,0,2,1,1,2,1,1,1,1,78,Low
+Smart Lock,0,1,1,1,1,1,0,2,1,0,1,0,1,0,0,53,High
+Camera,0,1,0,1,0,1,0,1,0,0,2,1,0,1,0,28,Critical
+Camera,1,2,1,1,1,2,1,1,1,1,2,0,1,0,1,84,Low
+Camera,1,0,1,1,1,0,1,1,1,0,2,1,0,1,0,62,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Thermostat,0,2,1,1,0,1,0,0,1,1,1,1,1,0,1,54,High
+Smart Speaker,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Camera,1,1,1,2,0,2,1,2,1,1,1,1,1,1,0,81,Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,1,0,1,1,94,Very Low
+Thermostat,1,0,1,2,1,0,1,1,1,0,1,0,1,1,1,66,Medium
+Smart Lock,1,0,1,2,1,1,0,1,0,0,2,0,1,0,0,54,High
+Thermostat,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0,36,High
+Smart Speaker,0,0,0,1,1,0,0,2,1,0,1,1,0,0,0,37,High
+Smart Sensor,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,19,Critical
+Thermostat,0,0,1,1,1,1,1,1,0,1,2,0,0,0,0,49,High
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,0,0,1,0,1,1,1,0,0,1,1,0,1,0,36,High
+Smart Speaker,1,0,1,1,1,0,1,2,0,0,2,0,0,1,0,54,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,0,0,94,Very Low
+Smart Lock,0,1,0,0,1,2,0,0,0,1,2,0,1,0,0,36,High
+Smart Lock,1,1,0,2,0,1,0,2,0,0,2,0,0,0,0,40,High
+Smart Sensor,0,0,1,0,0,1,1,0,0,0,1,1,0,0,1,27,Critical
+Smart Sensor,1,2,1,2,1,2,0,2,1,1,2,1,1,1,0,93,Very Low
+Camera,1,0,0,1,0,1,1,0,0,1,2,1,1,0,0,41,High
+Camera,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,63,Medium
+Thermostat,0,2,1,1,1,2,0,1,1,0,1,1,0,1,0,62,Medium
+Smart Sensor,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,94,Very Low
+Thermostat,0,2,1,2,0,1,1,1,1,1,2,0,0,0,0,60,Medium
+Smart Speaker,1,0,0,2,1,2,1,1,1,1,1,1,0,1,1,74,Medium
+Smart Sensor,0,0,0,1,0,0,1,2,0,1,0,0,0,0,0,25,Critical
+Thermostat,0,2,0,1,0,0,0,0,1,1,1,0,0,0,0,31,Critical
+Smart Lock,1,2,1,1,1,2,0,0,0,1,2,1,1,1,1,75,Low
+Smart Speaker,1,2,1,1,1,0,1,2,0,1,2,1,1,0,1,76,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,1,0,1,0,2,1,2,0,1,2,1,1,0,0,57,Medium
+Smart Speaker,0,0,0,0,1,2,0,1,1,0,2,0,1,0,1,39,High
+Camera,0,1,0,2,1,2,0,2,0,0,1,1,0,1,0,49,High
+Thermostat,1,2,0,2,1,1,0,2,1,1,1,1,1,0,0,74,Medium
+Smart Speaker,1,2,1,2,1,1,1,1,1,1,1,0,1,1,0,83,Low
+Smart Speaker,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1,15,Critical
+Smart Speaker,1,1,0,0,0,1,0,1,1,0,1,0,1,1,1,40,High
+Smart Sensor,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12,Critical
+Smart Sensor,1,1,0,2,1,1,0,2,1,1,1,1,0,1,0,71,Medium
+Smart Speaker,1,2,1,2,1,2,0,1,1,1,2,1,1,1,1,92,Very Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Smart Sensor,0,1,0,1,0,0,0,2,0,0,0,0,1,1,1,25,Critical
+Smart Lock,1,1,0,0,0,2,0,2,1,1,1,0,0,0,0,48,High
+Smart Sensor,0,0,0,2,1,2,0,0,1,0,2,0,1,0,0,42,High
+Camera,1,0,0,1,0,1,1,0,1,1,0,0,1,0,1,44,High
+Thermostat,1,0,1,2,1,1,0,1,1,1,1,1,1,0,1,75,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,0,0,1,1,94,Very Low
+Thermostat,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Lock,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,14,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Lock,0,1,0,0,1,1,0,0,0,0,0,1,1,0,1,27,Critical
+Smart Sensor,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,16,Critical
+Smart Sensor,0,2,0,0,0,1,0,1,0,1,0,0,1,1,0,29,Critical
+Smart Speaker,1,1,0,1,1,1,0,1,1,0,1,0,0,1,0,50,High
+Smart Speaker,0,0,0,0,1,1,1,2,0,1,0,0,0,0,1,37,High
+Camera,1,2,1,2,1,2,1,1,0,1,1,1,1,1,1,86,Low
+Camera,0,2,1,2,1,2,1,1,1,1,2,1,1,1,1,86,Low
+Camera,1,0,0,1,0,1,0,1,1,1,1,0,0,0,0,41,High
+Camera,1,0,1,2,0,1,1,2,1,1,1,1,1,1,1,76,Low
+Thermostat,0,1,0,1,0,0,1,2,0,1,1,1,0,1,0,38,High
+Smart Speaker,1,1,0,1,1,0,0,2,0,0,2,1,1,0,0,47,High
+Thermostat,0,0,0,2,0,2,0,0,1,1,2,1,0,1,0,45,High
+Smart Sensor,0,0,0,2,0,0,0,0,0,0,1,0,1,1,0,17,Critical
+Thermostat,1,0,0,1,0,1,1,0,1,0,2,0,1,1,0,40,High
+Smart Lock,1,0,1,1,0,2,1,0,1,0,0,1,1,0,0,51,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,16,Critical
+Thermostat,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,22,Critical
+Camera,1,0,0,1,1,2,1,1,1,0,1,0,1,0,1,56,Medium
+Smart Speaker,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,17,Critical
+Smart Speaker,0,0,1,0,1,2,1,1,0,0,0,0,0,1,0,39,High
+Thermostat,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Smart Sensor,1,2,0,2,0,1,0,1,0,1,1,1,0,1,0,53,High
+Smart Sensor,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Smart Sensor,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8,Critical
+Camera,1,2,0,0,1,1,0,1,1,1,1,0,0,0,0,54,High
+Thermostat,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,26,Critical
+Smart Sensor,1,1,1,2,1,2,0,1,0,1,2,1,0,1,0,75,Low
+Smart Speaker,1,0,0,0,1,2,1,1,1,1,2,0,1,0,1,61,Medium
+Thermostat,1,0,0,0,0,1,1,0,1,1,2,0,0,1,0,41,High
+Smart Lock,1,0,1,0,1,2,1,2,1,1,1,0,1,0,0,70,Medium
+Thermostat,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,2,0,2,0,0,0,1,1,0,0,0,1,1,0,45,High
+Smart Speaker,1,0,0,1,0,0,0,0,0,1,2,0,0,0,0,27,Critical
+Smart Lock,0,0,1,1,1,1,1,2,1,1,1,0,1,1,1,67,Medium
+Thermostat,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,25,Critical
+Smart Sensor,1,0,1,0,0,0,0,0,1,0,1,1,0,0,1,37,High
+Smart Lock,0,1,0,0,1,1,0,2,1,1,1,0,1,1,0,49,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,1,0,0,0,1,0,2,1,1,2,1,1,0,1,45,High
+Smart Sensor,1,2,1,0,1,1,0,1,1,1,1,1,1,1,1,76,Low
+Camera,1,2,1,1,1,2,1,1,1,0,1,0,1,1,0,74,Medium
+Smart Sensor,1,2,1,2,0,0,1,1,1,1,2,0,0,1,0,69,Medium
+Smart Sensor,1,2,1,2,0,2,0,2,1,1,2,1,1,0,0,80,Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Camera,0,2,0,2,1,2,1,2,0,1,2,1,0,1,1,70,Medium
+Thermostat,1,1,0,1,1,0,0,1,0,0,1,1,1,1,0,44,High
+Smart Lock,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,12,Critical
+Smart Speaker,0,1,0,0,1,1,0,1,1,1,2,1,1,1,0,51,High
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,1,0,93,Very Low
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Sensor,0,1,1,1,0,1,1,2,1,1,1,0,0,0,1,56,Medium
+Smart Speaker,1,1,0,2,1,0,1,2,1,0,2,0,1,1,0,63,Medium
+Camera,1,0,0,0,1,1,0,0,0,0,2,1,1,0,1,37,High
+Smart Speaker,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,18,Critical
+Smart Lock,1,0,0,1,0,0,0,1,0,1,0,0,0,1,1,33,Critical
+Smart Speaker,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,1,1,0,0,1,2,1,0,1,1,2,1,1,0,1,65,Medium
+Smart Lock,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Camera,1,0,0,1,0,1,0,2,1,1,1,1,1,0,0,51,High
+Smart Sensor,1,0,1,2,1,1,0,2,0,0,1,1,1,1,0,63,Medium
+Smart Lock,1,0,0,0,0,1,1,1,0,1,0,1,0,0,0,34,Critical
+Smart Sensor,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,16,Critical
+Smart Speaker,1,1,1,2,0,1,0,1,1,1,1,0,1,1,0,65,Medium
+Smart Sensor,1,1,0,0,1,2,1,2,1,0,2,0,0,1,1,62,Medium
+Smart Speaker,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,28,Critical
+Camera,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,11,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,0,0,0,1,1,0,1,1,0,0,0,1,0,0,38,High
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,Critical
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,Critical
+Camera,1,0,1,1,0,0,1,1,0,0,1,1,1,1,1,47,High
+Thermostat,1,2,1,2,1,1,0,2,1,1,2,1,1,1,1,92,Very Low
+Smart Speaker,0,2,0,1,1,2,0,0,1,1,1,1,0,0,0,53,High
+Smart Lock,0,0,1,0,0,0,0,2,0,1,2,0,0,0,1,33,Critical
+Thermostat,1,1,0,2,0,0,1,1,1,1,1,1,0,1,0,57,Medium
+Thermostat,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,56,Medium
+Thermostat,1,1,0,1,1,1,0,0,1,1,2,0,0,0,0,53,High
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Camera,1,2,1,0,1,1,1,1,1,0,2,1,1,1,1,74,Medium
+Smart Lock,1,2,1,2,1,1,0,1,0,1,2,1,0,0,1,75,Low
+Smart Speaker,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Thermostat,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,26,Critical
+Smart Lock,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12,Critical
+Camera,1,2,1,2,1,2,1,1,1,1,1,1,1,1,1,94,Very Low
+Camera,1,2,1,2,1,2,1,1,1,1,2,0,1,1,1,92,Very Low
+Camera,1,2,0,0,0,1,1,0,0,1,2,0,1,0,0,40,High
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,0,0,1,0,1,1,1,1,1,0,0,0,58,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,14,Critical
+Thermostat,1,2,1,2,1,1,1,1,1,0,2,1,0,1,1,82,Low
+Smart Lock,0,2,1,0,1,2,1,0,1,1,1,0,1,1,1,66,Medium
+Camera,1,0,0,2,1,2,0,2,1,1,1,0,1,1,1,72,Medium
+Smart Lock,0,2,1,2,1,2,1,2,0,0,2,0,1,0,0,64,Medium
+Smart Lock,1,2,1,2,1,1,1,1,1,1,2,1,1,1,0,89,Low
+Smart Speaker,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,8,Critical
+Smart Speaker,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,12,Critical
+Smart Sensor,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,28,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,1,2,1,1,1,0,0,1,1,1,0,0,0,66,Medium
+Camera,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,1,0,1,1,1,1,1,0,1,1,1,0,0,1,1,67,Medium
+Thermostat,0,2,1,2,1,1,1,2,1,1,2,1,1,1,1,86,Low
+Camera,0,2,0,2,1,0,1,0,0,0,2,1,1,0,1,45,High
+Smart Speaker,0,0,0,0,1,2,0,0,0,0,2,0,0,0,1,25,Critical
+Camera,1,2,0,1,1,1,1,0,1,1,1,1,0,0,0,63,Medium
+Smart Lock,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,19,Critical
+Smart Lock,1,0,0,1,0,0,0,1,1,1,2,0,0,0,0,39,High
+Smart Speaker,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,54,High
+Smart Sensor,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Lock,1,1,0,2,1,2,0,1,1,1,1,0,1,1,0,69,Medium
+Camera,1,2,1,2,1,1,1,1,1,1,2,1,1,0,1,89,Low
+Smart Speaker,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,15,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,Critical
+Camera,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,12,Critical
+Smart Sensor,0,0,0,1,0,1,1,1,0,1,2,1,0,1,0,36,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,30,Critical
+Smart Sensor,1,2,0,0,1,1,0,1,0,0,0,0,0,0,0,36,High
+Camera,1,1,0,2,1,1,1,2,1,1,2,1,1,1,0,79,Low
+Smart Sensor,0,2,0,0,1,2,0,1,0,0,1,0,0,1,0,35,High
+Smart Speaker,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Camera,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,0,1,0,2,1,1,0,1,0,0,0,0,1,0,1,37,High
+Camera,1,2,1,2,0,1,0,2,1,1,2,1,1,1,0,79,Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,0,0,0,0,2,0,0,0,1,0,0,0,0,1,19,Critical
+Camera,0,0,1,1,0,0,1,0,0,1,2,0,0,1,0,34,Critical
+Smart Lock,1,0,0,0,0,2,0,1,1,1,2,1,1,0,1,51,High
+Thermostat,1,2,1,2,1,1,0,2,1,1,2,1,1,1,1,92,Very Low
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,11,Critical
+Smart Speaker,0,2,1,2,1,2,1,1,1,1,2,1,1,1,1,86,Low
+Camera,1,1,1,2,1,1,1,1,1,1,2,0,1,1,0,81,Low
+Smart Sensor,1,1,0,1,0,1,1,1,0,1,1,0,1,0,0,43,High
+Smart Speaker,0,1,0,0,1,0,1,1,0,0,2,1,1,0,1,35,High
+Smart Lock,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Camera,1,0,1,1,1,1,0,2,1,1,0,1,1,1,1,75,Low
+Thermostat,1,1,1,2,0,2,1,2,1,0,1,1,0,1,1,74,Medium
+Smart Lock,1,1,1,0,1,2,0,1,0,0,0,0,0,0,0,46,High
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,0,1,0,1,2,0,0,0,1,0,1,0,1,0,43,High
+Thermostat,0,1,0,1,0,2,1,0,0,0,0,1,0,1,0,28,Critical
+Thermostat,1,0,0,0,1,1,0,2,0,1,1,0,1,1,0,47,High
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,0,1,1,1,1,1,1,0,1,0,1,0,0,0,59,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,2,1,2,0,2,1,1,1,1,2,0,1,1,1,82,Low
+Smart Lock,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13,Critical
+Camera,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,14,Critical
+Smart Speaker,1,1,0,2,1,2,1,1,0,1,2,1,0,1,1,72,Medium
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,1,1,2,1,1,1,1,0,1,2,1,1,1,1,80,Low
+Smart Sensor,0,1,0,1,0,1,1,1,1,1,2,1,1,1,0,50,High
+Camera,1,2,1,2,1,2,1,1,1,0,1,1,1,1,1,86,Low
+Smart Lock,1,1,0,2,1,2,0,2,1,1,2,1,1,0,1,79,Low
+Thermostat,1,1,1,2,0,1,1,0,1,1,1,1,0,1,1,70,Medium
+Smart Sensor,1,2,1,1,0,1,1,0,0,1,0,0,0,1,1,55,Medium
+Smart Lock,1,1,0,1,1,2,1,1,1,1,1,1,0,0,0,67,Medium
+Thermostat,0,1,0,2,0,1,0,0,0,0,1,1,0,1,1,30,Critical
+Smart Lock,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,22,Critical
+Camera,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,21,Critical
+Thermostat,1,2,1,2,0,2,1,1,1,0,2,1,0,0,0,70,Medium
+Smart Sensor,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,8,Critical
+Smart Speaker,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,27,Critical
+Smart Sensor,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,16,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Speaker,1,0,1,1,0,1,0,2,1,0,0,0,0,1,0,48,High
+Camera,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Thermostat,1,1,0,1,1,2,1,0,1,1,1,0,1,0,1,64,Medium
+Camera,1,2,1,1,1,1,1,1,0,0,2,1,0,0,0,63,Medium
+Smart Speaker,0,1,0,2,1,1,0,2,1,0,2,1,1,0,1,57,Medium
+Smart Lock,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,12,Critical
+Smart Lock,1,0,1,2,1,1,1,2,1,1,1,1,1,0,1,83,Low
+Camera,1,1,1,2,0,0,1,2,0,1,2,1,1,0,1,67,Medium
+Smart Speaker,1,2,1,0,0,1,1,2,0,1,2,1,0,1,0,63,Medium
+Smart Lock,1,2,0,1,0,2,1,0,1,1,1,1,0,1,1,63,Medium
+Smart Speaker,1,2,1,2,1,1,1,1,0,1,2,1,1,1,1,84,Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,1,1,2,1,0,0,2,1,1,1,0,0,0,0,70,Medium
+Camera,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,26,Critical
+Thermostat,0,0,0,0,0,0,1,0,1,0,2,0,1,1,0,21,Critical
+Thermostat,1,1,1,2,1,2,0,1,1,0,1,1,0,1,1,76,Low
+Thermostat,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,25,Critical
+Smart Lock,0,0,1,0,0,0,1,1,1,1,1,0,0,1,1,42,High
+Smart Lock,1,0,1,1,1,2,0,0,1,1,1,1,0,0,1,68,Medium
+Smart Sensor,0,0,0,0,1,0,0,0,0,0,2,1,0,0,0,18,Critical
+Smart Speaker,0,1,1,0,1,0,1,0,0,0,2,0,0,0,1,35,High
+Smart Speaker,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,19,Critical
+Thermostat,1,1,0,0,0,1,0,1,1,0,1,0,0,0,1,35,High
+Thermostat,1,0,0,0,1,1,0,0,0,0,2,1,1,0,0,34,Critical
+Camera,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Camera,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Camera,0,2,0,1,1,0,1,1,1,0,1,0,1,1,0,46,High
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,2,1,2,1,1,1,2,0,1,1,0,0,1,1,80,Low
+Smart Sensor,1,2,1,2,1,1,1,1,1,0,0,0,1,0,1,73,Medium
+Smart Speaker,1,2,1,2,0,0,1,1,1,1,2,0,1,1,1,74,Medium
+Thermostat,0,1,0,2,0,0,1,1,0,0,0,0,0,1,0,25,Critical
+Smart Speaker,0,1,0,1,1,2,0,1,0,0,1,1,1,0,0,39,High
+Smart Speaker,0,0,1,0,1,1,1,0,0,0,1,1,0,0,0,34,Critical
+Smart Speaker,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,12,Critical
+Camera,1,2,1,2,1,1,1,1,1,1,1,0,1,1,1,86,Low
+Camera,1,1,0,1,1,1,0,0,0,0,2,1,0,1,1,47,High
+Camera,1,0,0,2,1,2,0,0,1,0,1,1,1,0,1,57,Medium
+Camera,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,0,0,0,1,0,1,1,0,0,2,0,0,0,1,35,High
+Camera,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,Critical
+Smart Lock,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,36,High
+Smart Lock,0,0,0,2,1,1,1,1,1,1,1,0,0,1,0,53,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,0,95,Very Low
+Thermostat,1,2,0,0,0,0,1,1,0,0,0,0,0,1,0,29,Critical
+Smart Speaker,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,Critical
+Smart Sensor,0,0,1,0,1,0,1,0,0,1,0,1,1,0,1,41,High
+Smart Sensor,1,2,0,2,1,0,1,2,1,1,2,0,1,1,1,78,Low
+Camera,1,0,0,2,0,0,1,1,0,0,1,1,1,0,0,36,High
+Thermostat,0,0,0,1,1,1,0,0,0,1,2,0,0,0,0,31,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Sensor,1,1,1,2,0,0,0,2,1,1,2,0,0,0,0,62,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Camera,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Camera,1,2,1,2,1,2,1,1,1,1,2,0,1,1,1,92,Very Low
+Thermostat,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,19,Critical
+Smart Speaker,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,12,Critical
+Thermostat,1,0,0,1,1,0,1,2,1,0,1,1,1,1,1,59,Medium
+Camera,1,2,1,2,1,2,1,1,1,1,1,1,1,1,1,94,Very Low
+Smart Lock,0,0,0,0,1,2,1,2,1,0,1,1,0,0,0,44,High
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,0,1,1,1,1,1,1,90,Very Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,0,0,0,0,1,0,0,2,0,0,0,1,0,1,0,25,Critical
+Smart Sensor,1,1,0,1,1,0,0,1,0,0,0,0,1,1,0,38,High
+Smart Lock,1,2,1,2,1,2,0,2,1,0,2,1,0,0,1,83,Low
+Thermostat,0,1,0,0,0,2,0,0,1,1,1,0,0,0,0,30,Critical
+Smart Sensor,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,20,Critical
+Smart Speaker,1,0,1,0,0,0,0,0,1,1,2,1,0,0,1,47,High
+Smart Lock,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,15,Critical
+Thermostat,1,2,1,1,1,1,0,0,1,1,1,1,0,0,1,72,Medium
+Smart Speaker,0,2,0,2,0,1,0,1,0,1,1,1,0,0,0,40,High
+Smart Sensor,0,0,0,0,0,2,1,0,0,1,2,0,1,0,1,29,Critical
+Smart Sensor,0,2,1,1,0,2,1,2,0,0,1,0,0,1,1,51,High
+Smart Speaker,0,2,1,0,1,1,1,1,0,0,2,0,1,1,0,49,High
+Camera,0,2,0,1,0,0,1,1,1,0,1,1,0,1,0,38,High
+Camera,1,2,0,1,0,0,1,1,1,0,2,1,0,0,0,47,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Lock,1,2,0,0,0,1,0,2,0,0,2,1,0,1,1,44,High
+Camera,1,2,1,1,1,2,0,2,1,1,2,1,0,1,1,89,Low
+Thermostat,1,0,0,0,0,0,1,1,1,0,2,0,0,0,0,30,Critical
+Thermostat,1,2,1,2,1,1,0,2,1,1,2,1,0,1,1,90,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,0,0,1,0,0,1,0,1,2,0,0,1,0,43,High
+Smart Lock,0,2,1,1,1,0,1,2,1,1,0,1,1,1,0,70,Medium
+Camera,1,1,1,0,0,2,0,1,0,0,2,0,1,0,0,42,High
+Smart Lock,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Thermostat,1,2,1,1,1,1,1,0,1,1,1,0,1,0,1,74,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,0,2,0,1,0,2,0,1,1,0,1,1,1,54,High
+Smart Speaker,1,0,1,2,1,2,0,1,0,0,2,0,1,0,1,61,Medium
+Smart Sensor,0,1,0,1,1,0,0,0,0,1,1,1,0,0,0,33,Critical
+Smart Speaker,1,0,1,1,0,2,0,1,1,0,1,0,1,0,1,52,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,27,Critical
+Smart Speaker,0,2,1,1,0,2,1,1,1,1,2,1,1,1,0,68,Medium
+Thermostat,0,0,1,1,0,0,0,1,1,0,1,1,0,1,1,39,High
+Smart Speaker,1,0,0,1,1,1,0,1,0,1,1,1,1,0,1,52,High
+Smart Sensor,0,2,0,0,1,1,0,1,0,0,0,1,0,0,0,30,Critical
+Smart Speaker,0,2,0,2,1,0,0,1,0,1,2,1,0,1,0,51,High
+Camera,1,0,0,2,0,1,1,0,0,0,1,0,1,0,0,32,Critical
+Smart Lock,1,0,0,1,1,1,1,1,0,0,1,0,1,0,0,41,High
+Smart Speaker,1,0,0,1,1,2,1,1,1,1,1,1,0,1,1,69,Medium
+Smart Speaker,1,2,0,1,1,0,1,0,0,1,1,0,0,0,1,50,High
+Smart Lock,0,1,1,0,0,1,1,2,0,0,1,1,1,1,1,44,High
+Thermostat,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,12,Critical
+Smart Speaker,1,2,1,0,0,1,0,1,1,0,2,0,0,0,0,48,High
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Lock,0,1,0,1,1,0,1,0,1,1,2,1,1,1,1,55,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Thermostat,1,2,1,2,1,1,0,2,0,1,1,1,1,1,1,82,Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Camera,1,0,1,1,0,1,0,0,1,0,2,0,1,0,1,46,High
+Camera,0,2,0,0,1,0,1,1,1,1,1,0,1,0,0,46,High
+Smart Sensor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Sensor,1,1,1,2,1,2,0,1,1,1,2,1,1,0,1,85,Low
+Smart Lock,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,25,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Sensor,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,1,2,1,1,1,1,1,0,1,0,1,0,1,0,1,66,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,0,1,1,2,1,1,1,1,0,0,1,0,1,52,High
+Thermostat,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,27,Critical
+Thermostat,1,0,0,1,1,1,1,0,1,1,0,0,1,0,0,51,High
+Smart Lock,1,0,1,0,1,0,0,1,1,0,0,1,0,1,0,49,High
+Smart Lock,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,20,Critical
+Camera,1,1,1,2,0,2,0,2,1,1,2,0,1,1,1,78,Low
+Smart Speaker,1,1,1,2,0,2,1,1,0,0,2,0,0,0,1,57,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,0,1,2,0,2,1,2,1,1,1,1,1,1,1,80,Low
+Camera,0,1,0,2,1,0,0,0,1,0,0,1,0,1,1,42,High
+Camera,1,0,1,1,0,1,0,2,0,1,1,1,0,0,0,51,High
+Thermostat,0,1,0,1,1,2,0,2,0,0,2,1,1,0,0,45,High
+Camera,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,24,Critical
+Smart Lock,1,1,0,0,1,2,0,1,0,1,0,1,0,0,1,51,High
+Thermostat,1,2,1,0,0,1,1,1,1,1,2,1,1,0,1,69,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Sensor,1,0,1,1,1,0,0,1,1,1,2,1,1,1,1,71,Medium
+Smart Sensor,1,1,0,1,1,2,1,1,1,0,0,0,0,1,0,56,Medium
+Smart Speaker,0,1,0,0,1,2,1,2,1,0,2,1,0,0,1,53,High
+Smart Sensor,1,0,1,0,0,0,0,1,0,0,1,0,1,1,1,34,Critical
+Smart Speaker,1,1,0,2,1,2,1,2,1,1,2,1,1,1,0,83,Low
+Smart Speaker,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,0,1,1,1,92,Very Low
+Smart Sensor,1,0,1,1,1,1,0,2,1,1,1,0,0,0,1,68,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,1,1,1,1,0,95,Very Low
+Smart Lock,1,2,1,0,1,0,1,1,1,0,1,0,0,1,1,62,Medium
+Smart Sensor,1,2,1,1,1,2,1,2,1,0,2,1,1,1,1,87,Low
+Smart Sensor,0,2,1,2,1,1,1,1,1,1,1,1,1,0,1,77,Low
+Smart Lock,1,2,1,2,0,2,1,2,1,1,2,0,1,1,1,86,Low
+Camera,1,0,1,0,1,2,1,2,1,1,1,1,1,1,1,80,Low
+Smart Lock,1,0,1,0,1,2,1,0,0,1,2,1,1,0,0,60,Medium
+Smart Lock,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,21,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,0,1,2,0,0,0,1,1,1,2,0,0,0,1,47,High
+Smart Lock,1,2,0,0,1,1,0,0,0,1,2,0,1,0,1,49,High
+Thermostat,0,1,1,2,1,1,1,1,0,1,0,1,1,0,1,63,Medium
+Smart Speaker,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,20,Critical
+Smart Sensor,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,93,Very Low
+Smart Lock,0,0,0,1,0,0,1,1,1,1,2,1,0,0,0,37,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,0,0,1,0,0,1,0,1,0,0,2,0,0,0,1,25,Critical
+Smart Sensor,0,0,0,2,1,0,0,1,0,0,0,0,0,1,0,27,Critical
+Thermostat,0,1,1,0,1,1,1,0,0,1,1,1,0,0,1,49,High
+Smart Speaker,0,0,0,2,1,0,1,1,0,0,0,1,1,0,0,34,Critical
+Smart Speaker,0,1,0,0,0,1,1,2,0,0,0,1,0,0,1,27,Critical
+Thermostat,0,0,1,1,1,0,0,0,0,0,1,0,0,1,1,33,Critical
+Smart Sensor,1,1,0,2,1,1,0,1,0,0,2,0,1,0,1,51,High
+Thermostat,1,0,0,0,0,2,0,1,0,0,1,1,0,0,0,28,Critical
+Camera,1,1,0,0,1,1,1,1,0,1,1,1,0,1,0,53,High
+Smart Lock,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,45,High
+Thermostat,1,1,0,1,0,2,1,0,0,0,0,0,1,0,0,33,Critical
+Smart Sensor,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,27,Critical
+Smart Sensor,1,2,0,0,1,0,1,0,0,1,2,0,1,0,0,46,High
+Smart Speaker,1,0,1,0,0,0,0,1,1,0,0,0,1,1,0,37,High
+Smart Speaker,1,2,0,2,1,0,0,2,1,1,0,0,0,1,0,65,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Thermostat,1,2,1,2,0,1,1,2,1,1,2,1,1,0,1,83,Low
+Camera,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,48,High
+Smart Speaker,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,14,Critical
+Smart Lock,0,0,0,1,1,1,0,0,0,0,1,1,0,0,1,28,Critical
+Smart Lock,0,1,0,0,0,0,0,0,1,0,2,0,1,1,1,24,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Thermostat,1,0,0,0,1,1,1,1,1,0,1,0,0,0,0,42,High
+Smart Speaker,1,1,1,1,1,1,0,1,0,1,0,1,1,0,0,61,Medium
+Thermostat,1,1,1,1,1,1,0,2,1,1,2,1,1,0,1,80,Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,1,2,1,2,1,2,0,1,0,1,2,1,1,0,1,81,Low
+Camera,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,12,Critical
+Smart Speaker,1,2,0,2,1,1,1,1,0,1,1,1,1,1,0,69,Medium
+Smart Sensor,1,1,0,0,0,1,1,1,0,0,1,1,0,0,1,35,High
+Smart Sensor,1,0,1,1,0,0,0,0,0,0,2,0,0,0,1,32,Critical
+Camera,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,22,Critical
+Camera,1,0,0,0,1,1,1,0,0,1,0,1,0,1,0,43,High
+Smart Lock,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,17,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,33,Critical
+Thermostat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Smart Lock,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,12,Critical
+Smart Sensor,1,1,0,2,0,1,0,1,1,1,1,1,1,1,1,62,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Camera,1,1,1,2,1,1,1,1,1,1,2,0,1,1,1,84,Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,0,1,1,0,93,Very Low
+Smart Lock,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,30,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,11,Critical
+Thermostat,1,2,0,1,1,1,0,2,1,1,1,1,1,1,1,75,Low
+Smart Sensor,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,43,High
+Camera,0,1,1,0,0,0,0,0,0,1,1,0,1,1,1,32,Critical
+Camera,1,1,0,2,0,0,1,1,0,1,1,1,1,1,0,51,High
+Smart Sensor,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,20,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Camera,1,2,0,2,0,1,1,1,0,0,1,1,0,1,1,52,High
+Smart Sensor,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,17,Critical
+Smart Speaker,1,0,1,2,0,1,1,1,1,0,1,1,1,0,1,61,Medium
+Smart Sensor,1,1,1,1,1,0,0,1,1,1,0,0,0,0,1,62,Medium
+Thermostat,1,1,0,1,1,0,1,2,0,0,1,0,1,0,0,45,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,1,0,1,1,2,1,1,1,0,1,1,0,1,1,65,Medium
+Smart Sensor,1,2,1,1,1,2,1,1,0,1,1,0,1,1,1,77,Low
+Smart Lock,1,2,1,2,1,2,0,2,1,0,2,1,1,1,1,88,Low
+Smart Speaker,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,31,Critical
+Thermostat,1,1,0,2,1,2,0,2,1,1,2,1,0,1,1,80,Low
+Camera,1,1,0,1,0,2,0,2,0,1,0,1,0,0,0,47,High
+Smart Sensor,1,1,0,2,1,0,1,0,1,1,2,1,1,0,1,67,Medium
+Camera,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,21,Critical
+Thermostat,1,1,1,0,0,2,1,2,1,1,1,1,0,1,1,72,Medium
+Thermostat,1,1,0,1,0,0,0,1,1,0,0,1,0,0,1,38,High
+Smart Speaker,1,2,1,2,0,2,1,1,1,1,1,1,1,1,1,84,Low
+Smart Sensor,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,94,Very Low
+Smart Lock,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,0,2,1,2,1,1,1,1,2,1,0,1,1,84,Low
+Smart Lock,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,9,Critical
+Smart Speaker,1,2,1,1,1,2,1,1,1,0,2,1,0,0,1,78,Low
+Smart Sensor,0,2,0,0,0,1,1,0,0,0,0,0,0,1,1,22,Critical
+Camera,1,2,0,0,0,1,1,0,1,0,0,0,0,1,0,37,High
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Lock,0,1,0,2,1,2,1,1,0,0,2,1,0,0,0,48,High
+Smart Speaker,1,0,0,2,1,0,0,2,1,1,1,0,1,1,0,61,Medium
+Camera,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Smart Sensor,0,2,0,1,1,2,1,1,1,0,2,1,0,0,0,55,Medium
+Thermostat,0,2,0,1,0,2,1,0,1,1,1,1,1,1,1,55,Medium
+Thermostat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,7,Critical
+Smart Lock,1,0,1,2,0,2,0,0,0,1,1,0,1,1,1,56,Medium
+Smart Sensor,1,2,1,2,1,1,0,2,1,1,2,1,1,1,1,92,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,0,0,92,Very Low
+Thermostat,0,2,1,1,1,1,1,0,0,0,2,1,1,0,1,54,High
+Smart Speaker,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,32,Critical
+Thermostat,1,1,0,1,0,1,1,1,0,0,0,1,0,0,1,38,High
+Smart Lock,1,2,1,1,1,2,1,1,1,1,2,1,0,0,0,83,Low
+Thermostat,1,1,1,2,1,1,1,0,1,1,2,1,1,1,0,81,Low
+Smart Speaker,0,1,1,2,1,1,1,2,1,1,2,1,1,1,1,82,Low
+Smart Sensor,1,2,0,0,1,1,1,1,1,1,1,0,0,0,0,58,Medium
+Thermostat,0,2,1,2,0,1,0,1,1,1,2,0,1,1,1,64,Medium
+Camera,1,2,0,2,1,1,1,1,0,1,0,0,1,0,1,63,Medium
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Thermostat,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,17,Critical
+Smart Lock,1,1,0,2,0,0,1,2,1,1,1,0,0,0,1,57,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,1,2,0,1,1,0,0,0,1,0,1,0,0,0,0,43,High
+Smart Lock,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,48,High
+Camera,1,1,0,0,1,0,1,2,1,1,2,0,0,1,1,62,Medium
+Smart Sensor,0,1,1,2,1,1,1,0,1,1,0,0,0,1,1,64,Medium
+Smart Speaker,0,1,0,1,0,0,1,2,1,1,1,0,1,0,1,44,High
+Thermostat,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,19,Critical
+Smart Speaker,1,0,0,0,1,1,0,0,0,0,1,0,0,1,1,32,Critical
+Smart Lock,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Thermostat,1,2,1,1,1,1,1,2,1,1,2,1,1,1,1,91,Very Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,1,1,1,1,0,95,Very Low
+Camera,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,Critical
+Smart Speaker,1,1,0,2,1,2,1,1,1,1,2,1,1,1,1,82,Low
+Thermostat,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,26,Critical
+Smart Sensor,1,2,0,2,1,2,1,1,1,1,1,0,1,1,1,80,Low
+Camera,1,1,0,2,1,1,1,1,1,1,1,1,1,1,0,73,Medium
+Smart Lock,1,0,1,0,1,1,1,1,0,0,1,1,1,0,0,50,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Sensor,1,0,1,2,0,1,1,1,1,0,2,1,1,0,1,63,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Sensor,0,2,1,1,0,0,1,0,1,0,2,0,1,1,1,47,High
+Smart Speaker,1,2,0,2,1,1,1,1,1,1,1,1,1,0,0,74,Medium
+Thermostat,1,1,1,1,1,2,1,0,1,1,1,0,0,1,0,72,Medium
+Thermostat,0,2,0,1,0,0,1,2,0,0,0,0,1,1,1,33,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Lock,1,1,1,0,0,1,0,2,1,1,1,0,1,0,1,59,Medium
+Thermostat,0,1,1,0,0,1,1,0,1,0,1,0,1,1,1,40,High
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,7,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,1,1,2,0,1,0,2,1,1,2,1,0,1,1,76,Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,0,2,1,2,0,1,1,2,0,1,0,1,0,0,1,59,Medium
+Smart Speaker,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,89,Low
+Smart Speaker,1,0,1,1,1,2,0,0,1,1,1,1,0,1,1,71,Medium
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,29,Critical
+Thermostat,0,0,1,0,0,2,0,0,0,0,2,0,1,0,0,24,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,1,0,0,1,1,1,0,1,0,0,2,1,1,1,1,49,High
+Thermostat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,32,Critical
+Thermostat,1,0,0,0,1,2,0,0,1,1,0,0,1,0,0,46,High
+Thermostat,0,0,0,0,0,2,0,0,1,0,1,0,0,0,1,21,Critical
+Smart Sensor,1,2,1,1,1,0,0,2,0,0,0,1,1,0,1,60,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,1,1,2,1,2,1,1,1,1,2,1,1,0,1,89,Low
+Thermostat,1,0,0,0,0,0,1,2,1,1,0,0,1,0,0,40,High
+Smart Lock,1,1,1,1,1,1,1,1,1,1,2,1,0,1,1,81,Low
+Thermostat,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,8,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Sensor,0,2,1,2,0,1,1,0,1,0,1,0,1,1,1,54,High
+Smart Speaker,1,1,0,1,0,0,0,2,1,1,1,0,1,1,1,53,High
+Smart Lock,0,0,0,0,1,1,0,0,1,1,2,0,0,0,1,37,High
+Camera,1,1,0,2,1,0,0,0,0,1,0,0,0,1,0,45,High
+Smart Speaker,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,11,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,1,2,1,0,1,1,0,2,1,0,1,0,1,0,0,62,Medium
+Smart Lock,0,2,0,2,0,0,1,0,1,0,1,1,1,1,0,41,High
+Thermostat,1,1,1,2,1,1,0,0,1,1,2,1,1,1,1,80,Low
+Thermostat,0,2,0,2,0,0,0,1,1,1,1,1,1,0,1,49,High
+Thermostat,1,1,1,1,1,2,1,2,1,1,2,0,1,1,1,87,Low
+Thermostat,0,2,0,1,1,0,0,0,0,0,1,1,1,0,1,34,Critical
+Smart Lock,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Thermostat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Smart Speaker,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,87,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,1,2,0,2,1,2,1,1,1,1,1,0,1,0,1,77,Low
+Thermostat,1,2,1,1,1,2,1,2,1,1,2,1,1,1,0,92,Very Low
+Thermostat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Smart Lock,0,1,1,2,1,1,0,2,0,1,1,0,1,1,0,61,Medium
+Smart Lock,0,2,1,2,1,2,1,2,1,1,1,1,1,0,1,85,Low
+Thermostat,0,1,0,2,1,1,1,2,0,1,1,0,1,0,1,55,Medium
+Smart Lock,1,2,1,2,0,1,1,2,0,0,1,1,1,1,0,65,Medium
+Camera,1,2,1,1,1,1,1,2,1,1,2,1,1,1,1,91,Very Low
+Smart Speaker,0,2,0,0,0,0,0,0,1,0,0,0,0,1,1,22,Critical
+Smart Lock,1,1,1,2,1,2,1,2,1,1,0,0,1,0,1,85,Low
+Camera,1,1,0,0,0,1,1,0,1,1,1,0,1,0,0,42,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Lock,1,1,0,1,0,2,1,2,1,1,1,0,1,1,0,62,Medium
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Camera,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Camera,0,0,0,2,0,0,0,0,0,0,2,0,1,1,0,19,Critical
+Smart Sensor,1,2,1,2,1,0,1,1,1,1,2,1,1,1,1,88,Low
+Smart Speaker,0,0,1,0,1,0,1,1,1,0,0,0,1,0,1,41,High
+Smart Lock,1,0,1,0,1,1,0,1,0,0,0,0,0,1,0,41,High
+Smart Lock,0,0,1,1,1,0,0,0,0,1,2,0,0,1,1,43,High
+Thermostat,1,0,0,1,0,0,0,2,1,0,1,0,1,1,1,41,High
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,12,Critical
+Thermostat,0,2,1,2,1,2,1,2,1,1,1,0,1,1,1,84,Low
+Smart Lock,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6,Critical
+Thermostat,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,24,Critical
+Thermostat,1,2,1,0,0,2,1,1,1,1,1,0,1,1,0,67,Medium
+Smart Lock,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,14,Critical
+Camera,0,0,0,1,0,0,0,0,1,0,2,1,0,0,0,21,Critical
+Smart Lock,1,2,1,2,1,1,1,2,1,0,1,1,1,1,1,86,Low
+Thermostat,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,18,Critical
+Thermostat,1,2,1,2,1,1,1,1,1,0,2,1,1,1,1,84,Low
+Smart Lock,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,93,Very Low
+Smart Sensor,0,0,0,0,0,1,1,0,1,0,1,1,1,0,1,27,Critical
+Smart Sensor,0,1,0,0,1,0,0,1,1,1,1,0,1,0,1,41,High
+Smart Lock,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,8,Critical
+Thermostat,0,2,1,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,0,2,1,2,1,2,1,0,0,0,1,0,0,64,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Camera,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,11,Critical
+Smart Speaker,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,12,Critical
+Camera,1,0,0,1,0,1,0,1,1,1,1,0,0,0,1,44,High
+Smart Speaker,0,1,0,1,0,1,1,0,1,1,1,1,0,1,1,45,High
+Smart Speaker,0,2,0,0,1,2,1,2,0,0,2,0,1,0,0,44,High
+Camera,1,0,0,1,0,1,0,0,1,0,1,1,0,1,0,36,High
+Thermostat,1,0,0,0,0,2,1,0,0,0,2,1,1,1,0,35,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,0,1,1,1,94,Very Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,1,1,1,1,0,91,Very Low
+Smart Lock,1,2,0,2,1,1,0,0,0,0,2,1,0,1,1,56,Medium
+Smart Sensor,1,0,1,2,1,1,1,2,1,1,2,0,1,1,1,84,Low
+Smart Lock,1,2,0,0,0,1,0,0,0,1,2,1,1,0,0,40,High
+Smart Sensor,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Thermostat,0,0,1,2,1,1,0,0,1,1,0,1,1,1,1,62,Medium
+Smart Sensor,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,12,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,12,Critical
+Smart Lock,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,11,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,Critical
+Smart Lock,1,1,1,2,0,1,0,0,1,1,2,1,1,0,0,64,Medium
+Smart Sensor,0,1,1,1,1,2,0,2,1,1,2,1,1,0,1,74,Medium
+Thermostat,1,1,1,1,0,2,1,1,0,0,1,1,1,0,1,56,Medium
+Thermostat,0,2,0,0,1,0,0,1,0,1,1,0,1,0,0,34,Critical
+Smart Speaker,1,2,1,1,0,2,0,2,1,0,1,0,1,1,1,67,Medium
+Smart Speaker,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,26,Critical
+Smart Sensor,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,12,Critical
+Smart Speaker,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Thermostat,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,47,High
+Smart Lock,1,2,1,1,0,1,1,0,0,0,1,1,1,1,0,52,High
+Smart Sensor,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,24,Critical
+Thermostat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,0,2,0,2,0,0,1,0,0,0,1,0,1,1,0,29,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,0,0,1,95,Very Low
+Smart Sensor,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,9,Critical
+Smart Sensor,1,1,1,1,1,2,1,1,1,0,2,1,1,0,1,76,Low
+Smart Lock,1,0,1,0,0,1,1,0,1,0,1,0,0,1,0,41,High
+Smart Sensor,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,1,2,0,1,0,2,1,0,1,0,1,1,1,1,0,54,High
+Smart Sensor,1,0,0,2,1,2,0,0,0,0,0,0,0,0,0,38,High
+Smart Sensor,0,1,0,0,1,1,0,1,1,1,2,0,0,1,0,45,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,0,0,0,1,0,0,0,2,0,1,1,1,1,0,0,29,Critical
+Thermostat,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6,Critical
+Thermostat,1,1,0,1,0,0,1,0,0,0,1,1,0,1,1,35,High
+Smart Sensor,1,2,1,2,0,2,1,0,0,0,2,0,1,0,0,56,Medium
+Smart Lock,0,0,0,1,0,2,0,0,1,1,0,0,0,0,1,32,Critical
+Smart Sensor,1,2,0,0,0,0,0,0,0,1,2,0,1,0,0,32,Critical
+Smart Sensor,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,18,Critical
+Smart Lock,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,22,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,0,0,0,2,1,0,1,1,1,1,2,1,0,0,0,52,High
+Camera,1,2,0,1,0,1,1,1,1,1,0,0,0,1,0,54,High
+Camera,0,1,1,0,0,1,1,0,0,0,0,0,1,1,0,27,Critical
+Thermostat,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,42,High
+Smart Sensor,0,1,1,2,1,2,0,0,1,1,2,0,0,1,0,65,Medium
+Camera,0,0,1,1,1,0,0,1,1,1,1,1,0,1,0,54,High
+Smart Speaker,0,2,1,2,1,2,1,2,1,0,1,0,1,1,0,73,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Speaker,1,1,0,0,1,1,1,0,0,1,0,0,1,0,1,45,High
+Camera,1,1,0,2,0,2,1,1,1,1,2,0,0,1,0,63,Medium
+Smart Speaker,1,1,0,0,1,2,0,0,1,1,1,1,0,0,1,57,Medium
+Smart Speaker,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,12,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,1,1,2,1,2,1,1,0,1,1,1,1,1,1,82,Low
+Smart Lock,1,2,1,0,1,1,1,2,1,1,1,1,0,1,1,82,Low
+Camera,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,10,Critical
+Smart Lock,1,2,1,1,1,2,0,2,1,0,1,1,1,1,0,78,Low
+Smart Speaker,0,1,1,0,1,0,0,0,0,1,1,0,0,1,0,37,High
+Smart Speaker,1,0,0,1,0,1,1,2,0,1,0,1,1,0,0,45,High
+Smart Speaker,0,1,0,1,0,0,1,2,1,0,2,1,0,0,0,37,High
+Camera,1,0,0,0,0,1,1,2,0,1,0,1,1,1,0,43,High
+Camera,1,0,1,2,1,1,1,1,1,1,1,0,1,1,1,78,Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,1,0,1,0,1,1,2,0,1,2,0,1,1,1,55,Medium
+Camera,1,2,0,0,0,0,0,1,1,0,2,1,1,1,1,46,High
+Smart Lock,0,1,1,2,1,0,0,0,0,0,2,1,1,0,0,44,High
+Smart Lock,0,0,0,0,1,0,1,1,0,0,2,0,0,0,1,25,Critical
+Thermostat,1,1,1,2,1,0,1,2,1,0,1,1,0,0,1,73,Medium
+Smart Speaker,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,47,High
+Smart Speaker,1,0,0,2,0,1,0,2,0,0,2,1,0,0,1,43,High
+Smart Lock,1,2,0,0,1,0,0,1,0,0,2,0,0,0,1,39,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Thermostat,1,2,1,2,1,1,1,2,0,0,1,1,0,1,1,76,Low
+Camera,0,2,1,2,1,0,1,1,1,1,2,1,1,0,1,75,Low
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Lock,0,1,0,2,1,0,0,1,1,0,0,0,1,0,1,41,High
+Thermostat,1,1,1,0,1,0,0,1,0,0,1,1,0,0,1,47,High
+Camera,1,0,0,1,0,0,1,1,0,0,2,1,1,1,1,39,High
+Smart Lock,1,1,0,1,1,1,1,0,1,1,2,0,1,1,1,65,Medium
+Smart Lock,0,0,0,0,0,0,1,2,0,0,2,0,0,0,0,16,Critical
+Thermostat,1,2,0,2,1,2,0,2,1,1,2,1,1,1,1,86,Low
+Camera,1,2,0,0,0,0,1,1,1,0,0,0,1,1,1,42,High
+Camera,1,2,1,2,0,2,1,2,1,1,2,1,1,1,0,87,Low
+Smart Sensor,1,2,0,1,0,1,1,2,0,1,1,0,0,1,1,55,Medium
+Smart Speaker,1,2,1,2,0,2,1,1,1,1,2,1,1,1,1,86,Low
+Smart Sensor,1,1,1,2,0,1,0,2,0,1,2,0,1,0,0,60,Medium
+Smart Lock,1,1,0,0,0,1,0,0,1,0,1,0,1,0,1,33,Critical
+Camera,1,0,0,1,0,2,0,1,0,1,1,0,1,0,0,39,High
+Smart Sensor,1,2,0,1,1,1,1,2,1,1,2,1,1,1,1,81,Low
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,10,Critical
+Smart Speaker,0,1,0,0,0,2,1,0,1,0,0,1,0,1,0,31,Critical
+Smart Sensor,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,17,Critical
+Smart Speaker,1,1,1,0,0,2,0,1,1,1,1,1,1,0,0,60,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,0,1,95,Very Low
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,0,0,2,1,0,1,0,1,0,2,0,1,0,0,48,High
+Camera,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,14,Critical
+Smart Sensor,0,2,0,0,1,0,1,0,0,0,1,1,1,0,0,30,Critical
+Smart Lock,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,19,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,1,0,0,2,1,1,1,0,0,0,1,1,0,53,High
+Camera,1,1,1,0,0,2,1,1,0,0,1,1,0,1,1,52,High
+Smart Sensor,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,20,Critical
+Smart Speaker,0,0,0,2,0,2,0,2,0,1,1,1,0,1,0,43,High
+Camera,0,0,0,0,0,0,0,1,0,0,2,0,0,1,1,14,Critical
+Smart Speaker,1,1,1,0,0,0,1,1,0,0,1,0,0,0,1,37,High
+Camera,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,Critical
+Thermostat,1,1,0,2,1,0,1,1,1,0,0,1,1,1,1,62,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,2,1,0,0,1,1,2,0,1,1,1,1,1,1,66,Medium
+Smart Lock,1,2,0,1,0,1,1,1,1,0,1,0,0,0,1,48,High
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,5,Critical
+Thermostat,0,0,0,0,1,2,1,1,1,0,1,1,1,0,0,42,High
+Smart Speaker,1,1,1,2,1,2,1,0,1,1,1,0,1,1,1,82,Low
+Smart Speaker,1,1,1,1,0,1,1,2,0,1,1,0,1,0,1,60,Medium
+Smart Speaker,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,16,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Lock,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,12,Critical
+Thermostat,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,26,Critical
+Smart Sensor,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,37,High
+Thermostat,1,2,1,2,0,2,0,2,1,1,2,1,1,1,1,86,Low
+Smart Sensor,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,8,Critical
+Smart Speaker,1,1,1,2,0,1,0,2,1,1,2,1,1,1,1,78,Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Thermostat,0,0,0,2,1,0,0,0,1,0,2,0,0,1,0,35,High
+Smart Lock,1,2,0,1,0,0,0,2,0,0,2,0,1,1,1,43,High
+Smart Sensor,0,1,0,1,0,0,0,1,0,1,0,0,1,0,0,23,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Thermostat,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,14,Critical
+Smart Sensor,0,1,1,0,1,2,1,1,0,1,2,1,1,1,1,64,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,0,1,1,1,1,0,0,0,0,2,1,0,1,1,53,High
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Sensor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18,Critical
+Smart Speaker,1,0,1,2,1,1,1,1,1,0,2,1,1,1,0,73,Medium
+Smart Speaker,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,28,Critical
+Smart Sensor,1,1,0,2,1,1,1,1,1,1,2,1,0,0,1,73,Medium
+Smart Lock,1,2,1,1,1,2,1,2,0,1,1,0,0,1,0,76,Low
+Smart Sensor,1,1,0,2,1,1,0,1,0,1,1,1,1,1,1,64,Medium
+Smart Speaker,0,2,0,1,1,1,0,1,1,0,1,1,1,1,1,53,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,1,2,1,0,0,1,0,0,0,0,0,0,1,0,0,34,Critical
+Smart Lock,1,1,0,2,1,1,1,2,1,1,2,1,1,0,0,76,Low
+Thermostat,0,0,0,0,0,1,0,0,1,0,2,0,0,0,1,19,Critical
+Camera,1,2,1,1,1,1,1,2,1,1,0,1,0,1,1,85,Low
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,10,Critical
+Smart Speaker,1,0,0,1,0,1,1,1,0,1,0,0,1,1,0,40,High
+Thermostat,0,2,1,1,1,2,0,1,0,1,1,1,1,0,1,64,Medium
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Smart Sensor,1,1,1,1,0,1,1,1,0,0,1,1,0,0,1,50,High
+Camera,1,0,1,0,0,2,1,0,0,0,2,1,1,1,0,45,High
+Smart Sensor,0,0,0,1,0,1,1,1,1,0,0,0,1,1,1,33,Critical
+Smart Sensor,1,1,0,0,1,0,1,1,0,1,1,0,1,1,0,47,High
+Thermostat,1,2,1,2,1,2,0,2,1,1,1,1,1,1,1,94,Very Low
+Smart Sensor,1,0,0,1,1,1,1,0,0,0,1,1,1,1,1,47,High
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,17,Critical
+Smart Speaker,1,2,0,1,1,1,1,2,1,1,1,1,1,1,1,79,Low
+Camera,1,2,1,1,1,2,1,2,1,0,2,1,0,1,1,85,Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Thermostat,1,2,0,1,0,2,1,0,1,0,1,0,1,0,0,47,High
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,2,0,2,0,1,1,0,0,1,2,1,1,0,0,44,High
+Thermostat,1,2,0,1,0,1,1,2,1,1,1,0,0,0,0,57,Medium
+Smart Lock,0,0,0,0,0,1,0,0,1,0,2,0,0,1,0,19,Critical
+Thermostat,1,1,0,0,0,0,1,2,0,0,1,1,0,0,0,32,Critical
+Smart Speaker,1,0,0,0,1,0,1,2,0,1,1,1,1,0,1,51,High
+Smart Speaker,1,1,0,1,1,0,1,0,0,0,2,1,0,0,0,41,High
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,1,0,0,1,1,2,0,0,1,1,1,1,0,0,1,58,Medium
+Smart Sensor,1,1,0,0,1,2,1,1,1,0,2,0,1,1,0,57,Medium
+Smart Sensor,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,24,Critical
+Smart Lock,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,25,Critical
+Thermostat,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,13,Critical
+Smart Sensor,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,10,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Camera,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,28,Critical
+Smart Sensor,1,1,1,1,1,2,1,0,0,0,2,0,0,0,0,55,Medium
+Thermostat,1,2,0,1,1,2,1,1,1,1,1,0,1,1,1,75,Low
+Camera,1,1,0,1,0,1,0,1,1,1,1,1,0,0,0,49,High
+Smart Lock,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,27,Critical
+Camera,0,1,0,1,0,2,0,0,0,1,1,0,1,0,0,29,Critical
+Smart Lock,0,1,1,1,1,2,0,0,0,0,2,1,0,0,0,45,High
+Smart Speaker,1,2,0,2,1,2,0,2,1,1,1,1,0,1,0,79,Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,8,Critical
+Camera,0,1,0,0,1,1,1,1,0,0,2,0,1,0,1,35,High
+Smart Lock,1,2,1,1,1,0,1,1,0,0,0,0,0,0,0,51,High
+Camera,1,1,1,2,1,1,1,1,1,1,2,1,1,0,1,85,Low
+Smart Speaker,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,15,Critical
+Smart Lock,0,1,0,2,1,1,1,2,1,0,2,1,1,1,0,61,Medium
+Smart Lock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,0,1,0,1,0,1,0,0,0,1,1,0,1,1,46,High
+Smart Sensor,1,2,1,2,1,0,1,0,1,0,0,0,1,1,1,68,Medium
+Camera,0,1,0,2,1,0,0,0,0,0,2,1,1,1,1,40,High
+Camera,0,0,0,0,1,0,1,1,1,0,2,1,0,0,0,34,Critical
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,2,1,1,0,1,92,Very Low
+Thermostat,0,0,1,0,1,1,1,1,1,0,1,1,1,1,1,54,High
+Smart Sensor,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,7,Critical
+Smart Speaker,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,13,Critical
+Smart Speaker,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,67,Medium
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,2,1,1,0,1,93,Very Low
+Smart Lock,1,0,0,1,0,1,0,1,1,1,2,0,1,1,1,51,High
+Thermostat,0,1,0,0,0,1,1,2,0,0,2,0,0,0,0,24,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,0,0,2,0,0,1,2,0,0,2,0,0,1,0,29,Critical
+Thermostat,0,0,1,0,0,2,1,0,0,0,2,0,0,0,0,26,Critical
+Camera,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,15,Critical
+Camera,1,2,1,2,1,2,1,2,1,0,2,0,1,0,1,85,Low
+Smart Lock,1,2,0,0,0,1,0,0,0,1,0,1,0,1,1,40,High
+Smart Speaker,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,0,1,1,0,1,0,0,1,1,2,1,1,0,0,55,Medium
+Smart Speaker,1,1,1,2,0,1,0,2,1,0,1,0,1,1,1,64,Medium
+Smart Speaker,1,0,0,0,1,0,0,1,0,0,2,0,1,0,0,30,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,0,1,2,1,0,0,2,0,0,1,0,1,1,0,45,High
+Smart Lock,1,1,0,2,1,2,1,2,0,1,2,1,1,1,0,75,Low
+Smart Sensor,0,1,0,2,0,0,1,2,0,0,0,1,1,0,0,32,Critical
+Smart Speaker,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1,55,Medium
+Smart Sensor,1,2,1,1,1,1,1,2,1,1,1,1,0,0,1,84,Low
+Smart Lock,0,1,0,2,1,1,1,0,0,0,2,0,0,0,0,36,High
+Smart Sensor,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,26,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,0,1,1,96,Very Low
+Smart Sensor,1,0,0,0,1,1,1,0,1,0,1,1,0,0,0,42,High
+Smart Sensor,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,26,Critical
+Smart Sensor,0,1,1,2,0,1,0,1,1,1,0,1,0,1,0,55,Medium
+Smart Speaker,1,2,0,1,0,0,1,0,1,1,2,1,1,0,1,56,Medium
+Thermostat,1,2,1,2,0,2,1,2,1,0,0,1,0,1,1,76,Low
+Camera,1,2,0,0,0,1,0,1,0,0,2,0,0,0,1,33,Critical
+Thermostat,0,2,0,1,1,1,0,0,1,1,1,1,0,0,0,49,High
+Smart Sensor,0,2,1,0,1,1,1,0,1,1,0,1,1,1,0,61,Medium
+Smart Sensor,1,1,0,0,1,1,1,2,0,1,1,1,0,0,1,57,Medium
+Smart Sensor,1,0,0,1,1,2,0,2,1,0,2,0,0,1,0,56,Medium
+Smart Speaker,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Camera,1,0,1,0,0,0,1,2,1,1,1,1,0,0,1,57,Medium
+Thermostat,0,2,0,2,1,2,0,1,0,1,2,0,0,0,0,52,High
+Thermostat,0,1,1,2,1,1,1,2,1,1,1,0,1,1,0,73,Medium
+Camera,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,23,Critical
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,0,1,1,94,Very Low
+Smart Lock,1,2,1,1,1,2,0,1,1,1,2,1,0,0,1,82,Low
+Smart Speaker,1,0,1,2,1,2,0,1,1,1,2,1,1,0,1,81,Low
+Smart Speaker,0,1,1,1,0,2,0,0,0,0,0,1,1,0,1,36,High
+Camera,1,2,0,1,1,1,1,2,1,1,2,1,1,0,0,75,Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,23,Critical
+Thermostat,1,0,0,0,0,0,0,1,0,0,2,0,0,0,0,18,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Lock,1,0,0,0,1,1,0,0,1,0,0,1,0,1,0,39,High
+Smart Speaker,0,0,1,0,1,2,0,1,0,0,0,0,0,1,1,38,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,0,0,0,0,1,1,0,1,0,1,0,0,1,37,High
+Thermostat,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,9,Critical
+Camera,0,0,0,2,0,1,0,0,1,0,0,0,1,0,0,24,Critical
+Smart Sensor,1,2,0,1,1,2,1,1,1,0,1,1,1,0,0,65,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Speaker,1,2,0,0,0,0,0,0,0,0,1,1,1,1,1,32,Critical
+Thermostat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,0,2,1,1,1,2,0,1,0,0,1,0,1,0,1,52,High
+Camera,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,26,Critical
+Smart Speaker,0,1,1,0,1,2,1,0,1,1,0,0,0,0,0,52,High
+Thermostat,0,2,0,2,1,1,0,2,1,1,2,1,1,1,1,72,Medium
+Camera,0,0,0,2,1,2,1,0,1,0,1,1,1,1,1,54,High
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,1,0,1,93,Very Low
+Smart Lock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Speaker,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,9,Critical
+Smart Lock,1,2,0,1,1,2,0,1,1,1,1,1,1,0,1,72,Medium
+Smart Sensor,1,1,1,2,1,2,1,1,1,1,2,0,1,1,0,85,Low
+Smart Lock,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,55,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,5,Critical
+Smart Sensor,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,8,Critical
+Camera,1,2,0,2,1,1,1,1,0,1,1,1,1,1,0,69,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,4,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Lock,1,2,0,0,0,1,1,2,0,0,2,0,0,0,1,41,High
+Camera,0,1,0,2,0,2,1,0,1,1,2,0,0,0,0,46,High
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,2,1,1,1,0,92,Very Low
+Smart Sensor,1,0,0,1,1,0,0,0,1,0,1,1,0,1,0,42,High
+Smart Sensor,1,0,0,0,0,0,1,0,1,1,2,0,1,1,1,42,High
+Camera,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0,36,High
+Smart Speaker,1,2,0,2,1,2,1,1,0,0,2,1,0,1,1,68,Medium
+Thermostat,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,14,Critical
+Thermostat,1,2,1,1,1,1,0,1,1,1,0,0,1,1,1,75,Low
+Smart Speaker,0,1,1,0,0,0,0,1,1,0,2,1,0,0,0,34,Critical
+Thermostat,1,2,1,1,1,1,1,1,1,1,2,1,0,0,1,82,Low
+Thermostat,0,0,0,0,0,2,1,0,1,0,1,0,1,1,0,27,Critical
+Camera,0,2,1,2,0,1,1,1,1,1,0,0,1,0,0,58,Medium
+Thermostat,0,1,1,2,0,2,1,0,1,0,2,0,1,0,0,50,High
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,1,1,0,1,1,1,1,2,0,1,1,1,1,0,1,64,Medium
+Camera,1,2,1,2,1,2,1,2,0,1,0,1,1,1,1,88,Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,1,0,1,1,1,90,Very Low
+Camera,0,2,0,2,1,1,1,0,1,0,1,0,0,1,0,49,High
+Smart Sensor,1,2,1,1,1,1,0,1,1,0,1,0,1,1,1,69,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Lock,1,2,1,1,0,2,1,2,1,1,2,1,1,1,1,85,Low
+Smart Sensor,1,1,1,2,0,1,0,2,1,1,1,1,1,1,1,76,Low
+Smart Lock,1,1,1,2,1,0,1,1,1,0,2,0,1,0,1,69,Medium
+Camera,1,2,0,1,1,2,1,2,0,1,1,0,1,1,0,68,Medium
+Camera,1,2,0,2,1,2,1,1,1,1,2,1,1,1,1,86,Low
+Thermostat,1,0,0,2,0,1,0,2,0,1,2,1,0,0,0,48,High
+Smart Sensor,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Sensor,1,1,1,0,1,0,1,1,0,0,2,0,0,0,1,49,High
+Thermostat,1,1,1,2,1,1,1,2,1,1,2,1,1,1,1,92,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Lock,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Thermostat,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,26,Critical
+Thermostat,1,1,0,1,1,0,1,2,1,1,2,0,0,1,0,64,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,2,1,1,1,0,1,1,1,0,1,0,1,0,1,56,Medium
+Thermostat,1,1,1,2,1,1,1,1,1,1,1,0,1,1,1,82,Low
+Smart Sensor,0,0,0,0,1,2,0,1,1,1,0,1,0,0,1,45,High
+Thermostat,1,2,1,0,0,0,0,0,1,1,2,0,1,0,1,53,High
+Camera,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,20,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Lock,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,34,Critical
+Smart Lock,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,12,Critical
+Thermostat,1,2,1,2,0,1,0,2,1,1,1,0,0,0,0,68,Medium
+Smart Sensor,1,2,1,1,1,1,0,1,1,1,2,1,1,1,1,83,Low
+Smart Sensor,1,2,1,2,1,1,1,2,1,1,2,1,1,1,0,93,Very Low
+Smart Lock,1,0,1,2,1,0,1,2,0,1,1,1,0,1,0,69,Medium
+Camera,1,2,1,2,1,1,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Speaker,1,1,1,2,0,1,0,2,1,0,2,0,1,1,1,66,Medium
+Smart Lock,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,10,Critical
+Smart Sensor,1,0,0,2,1,2,1,0,1,1,1,1,0,0,0,64,Medium
+Smart Lock,1,2,1,2,1,1,1,2,1,0,1,1,1,0,1,83,Low
+Smart Lock,1,2,0,1,0,2,1,1,1,1,2,1,1,1,1,71,Medium
+Camera,1,1,0,0,0,2,0,1,1,0,1,0,1,0,1,41,High
+Smart Speaker,1,1,1,2,1,2,1,2,1,1,2,1,1,0,1,93,Very Low
+Thermostat,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,12,Critical
+Camera,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0,29,Critical
+Smart Lock,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,6,Critical
+Thermostat,1,0,0,2,1,0,0,2,0,1,1,0,0,1,0,51,High
+Smart Speaker,1,2,0,0,1,2,1,2,1,1,1,0,0,0,1,69,Medium
+Camera,1,1,1,1,1,0,1,2,0,1,0,1,1,1,1,71,Medium
+Thermostat,0,1,1,0,1,1,1,1,0,0,1,0,1,1,1,46,High
+Smart Sensor,1,2,1,2,1,1,1,1,0,0,2,1,0,1,0,71,Medium
+Smart Sensor,0,1,0,2,0,0,1,2,1,0,2,1,0,0,1,45,High
+Camera,1,1,0,1,0,0,0,1,0,1,1,0,0,1,0,36,High
+Smart Lock,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,16,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Thermostat,1,0,0,1,0,2,0,1,1,1,1,1,0,0,1,52,High
+Smart Sensor,0,1,0,1,0,2,0,2,0,1,1,1,0,0,1,42,High
+Camera,0,0,0,1,1,1,1,1,0,1,1,1,0,0,0,41,High
+Camera,0,0,0,0,1,2,1,0,1,1,2,1,1,0,1,51,High
+Smart Lock,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Critical
+Camera,1,2,0,2,1,2,0,2,1,1,0,1,1,1,1,82,Low
+Smart Lock,1,1,0,2,1,1,0,0,1,1,2,0,1,1,1,66,Medium
+Thermostat,1,0,0,0,1,0,1,2,0,0,0,1,0,0,0,36,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Sensor,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Lock,0,2,1,2,1,2,0,2,1,1,0,0,1,1,0,75,Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,0,0,0,0,0,2,0,0,0,0,0,0,0,26,Critical
+Smart Sensor,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,31,Critical
+Smart Lock,1,0,1,2,1,0,1,1,0,0,0,1,0,0,0,52,High
+Smart Sensor,0,1,0,2,0,1,1,2,0,1,2,1,1,1,0,51,High
+Thermostat,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,13,Critical
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13,Critical
+Smart Lock,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,24,Critical
+Thermostat,1,2,1,2,1,2,1,1,1,1,1,0,1,0,1,87,Low
+Smart Sensor,1,2,0,2,1,2,0,2,1,0,1,1,1,0,0,70,Medium
+Camera,0,2,1,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Thermostat,0,0,1,1,0,1,1,0,0,1,1,1,0,1,1,43,High
+Thermostat,0,2,1,1,1,2,1,2,1,1,2,1,0,1,1,83,Low
+Smart Speaker,0,1,0,0,0,1,1,0,1,0,1,0,0,0,1,25,Critical
+Camera,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Smart Lock,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,90,Very Low
+Thermostat,0,1,0,0,0,1,1,2,1,0,1,1,1,1,1,42,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Thermostat,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,21,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,0,1,1,1,94,Very Low
+Smart Sensor,0,1,1,2,1,2,1,1,1,1,2,0,0,1,0,73,Medium
+Smart Lock,1,2,1,2,1,2,1,2,0,1,2,0,0,0,1,83,Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,0,1,1,1,0,93,Very Low
+Smart Lock,1,2,1,2,1,2,0,2,1,1,2,1,1,0,1,93,Very Low
+Smart Lock,1,2,1,1,1,2,1,2,1,1,2,0,0,1,0,86,Low
+Camera,1,2,0,2,0,1,1,2,1,1,2,0,0,1,1,70,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Sensor,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1,29,Critical
+Smart Lock,1,0,1,2,1,2,1,2,1,1,2,1,1,0,1,89,Low
+Smart Speaker,1,0,1,0,0,1,1,0,1,0,0,1,0,1,1,46,High
+Smart Sensor,0,0,1,2,0,1,1,1,1,0,1,0,1,0,1,47,High
+Camera,1,0,0,2,1,2,1,0,0,0,0,0,0,0,1,45,High
+Thermostat,1,1,0,2,1,1,0,2,1,1,1,1,1,1,1,76,Low
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Lock,0,1,0,2,1,0,1,2,1,1,2,1,1,0,1,65,Medium
+Smart Lock,0,1,0,0,1,1,1,1,1,0,2,1,1,0,1,47,High
+Camera,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,22,Critical
+Smart Lock,1,2,0,2,1,1,0,2,1,0,2,1,0,1,1,72,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Camera,1,2,1,2,1,2,1,2,1,1,1,0,1,0,1,91,Very Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Lock,1,0,0,0,1,0,0,2,0,0,2,1,1,0,0,38,High
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,1,1,1,0,1,0,1,0,0,2,1,0,0,0,35,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,1,1,1,0,1,1,1,1,1,2,1,0,0,1,68,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,12,Critical
+Smart Lock,1,1,0,2,1,1,1,2,0,0,1,1,1,0,0,58,Medium
+Smart Lock,1,2,0,1,1,1,1,0,1,1,1,0,0,0,1,62,Medium
+Camera,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Sensor,1,1,0,1,0,2,1,2,1,0,2,1,0,0,1,58,Medium
+Thermostat,1,0,1,0,1,1,1,0,0,1,1,0,0,1,0,51,High
+Camera,0,1,0,0,1,0,0,0,0,1,0,1,1,1,1,34,Critical
+Smart Speaker,0,2,0,1,0,2,1,1,0,1,2,0,1,1,0,46,High
+Smart Lock,1,0,0,2,0,1,0,0,0,0,1,1,1,0,1,35,High
+Smart Speaker,0,2,0,1,1,1,1,1,1,1,0,1,0,0,1,58,Medium
+Camera,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,17,Critical
+Camera,1,2,1,0,1,0,0,0,0,0,1,1,1,0,0,46,High
+Thermostat,1,2,1,0,0,2,1,2,1,1,1,1,1,1,1,78,Low
+Smart Lock,1,2,1,2,1,0,0,2,1,1,1,1,1,1,1,86,Low
+Smart Speaker,0,1,0,0,0,2,0,2,0,0,1,1,0,0,0,26,Critical
+Thermostat,1,1,1,2,1,2,1,0,1,1,1,1,1,0,1,83,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,1,1,1,1,0,1,1,0,2,0,1,0,1,50,High
+Smart Sensor,0,2,0,0,1,0,1,2,1,1,1,0,0,0,1,51,High
+Thermostat,1,2,1,1,1,1,0,2,0,0,0,0,1,0,1,60,Medium
+Smart Sensor,0,1,0,1,1,1,0,0,1,0,1,1,0,1,0,40,High
+Smart Speaker,1,0,1,1,1,1,1,1,1,0,1,1,0,1,1,67,Medium
+Thermostat,0,0,0,0,0,0,1,0,0,0,2,1,1,1,0,17,Critical
+Thermostat,0,1,0,0,0,1,1,1,0,1,2,1,0,0,0,32,Critical
+Smart Lock,1,1,1,0,1,2,1,2,0,1,1,0,1,1,1,72,Medium
+Camera,1,1,1,0,0,2,1,1,1,0,1,0,1,1,1,58,Medium
+Smart Sensor,1,2,1,1,1,1,1,1,1,1,0,1,1,0,0,77,Low
+Thermostat,1,1,0,1,0,0,1,2,1,1,1,0,0,0,1,52,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,0,1,2,1,2,1,2,1,1,2,0,1,1,1,88,Low
+Thermostat,0,2,1,2,0,2,1,2,1,1,1,1,1,1,0,75,Low
+Camera,1,2,1,2,0,2,1,2,0,1,2,1,1,1,0,79,Low
+Smart Lock,0,2,0,0,0,2,1,1,1,1,1,0,0,0,0,42,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Sensor,1,2,1,2,1,0,1,2,1,1,1,1,1,1,1,90,Very Low
+Camera,1,0,0,1,1,0,0,0,1,1,1,1,0,0,0,47,High
+Thermostat,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,19,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Thermostat,1,0,1,1,1,1,0,1,0,1,0,1,0,0,1,58,Medium
+Camera,1,2,1,2,1,2,1,2,0,1,1,0,1,1,0,83,Low
+Camera,1,2,1,2,1,2,1,1,0,0,2,1,1,1,1,80,Low
+Thermostat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Camera,1,1,1,0,0,0,0,2,0,0,1,0,1,0,0,36,High
+Thermostat,1,2,1,1,0,2,0,1,1,1,2,1,0,1,1,75,Low
+Smart Lock,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Camera,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0,24,Critical
+Smart Lock,1,2,0,1,1,2,0,0,1,0,1,1,1,1,1,63,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,0,0,2,1,0,0,0,1,1,0,0,1,0,1,51,High
+Smart Lock,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,1,1,0,2,1,2,0,2,1,1,1,0,1,0,1,73,Medium
+Smart Lock,1,1,0,0,0,0,1,2,0,1,1,1,1,1,1,48,High
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,1,1,0,0,1,93,Very Low
+Smart Lock,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,21,Critical
+Smart Sensor,0,0,0,0,0,1,0,1,0,1,1,0,0,1,0,21,Critical
+Smart Speaker,0,0,1,2,0,0,0,0,1,0,0,0,1,0,0,30,Critical
+Smart Sensor,0,0,0,1,0,2,1,0,0,0,1,1,0,0,0,23,Critical
+Smart Speaker,1,0,0,2,1,0,0,2,0,1,1,0,1,1,0,53,High
+Thermostat,1,1,1,2,1,2,1,2,1,1,2,1,0,0,1,91,Very Low
+Thermostat,1,2,1,2,1,1,0,1,1,0,2,0,1,0,0,70,Medium
+Thermostat,1,1,1,2,1,0,1,1,1,1,1,0,1,1,1,78,Low
+Smart Lock,1,1,1,1,0,2,1,1,0,1,1,0,0,1,1,61,Medium
+Smart Sensor,1,2,0,1,1,2,0,1,0,1,1,0,0,0,1,58,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,0,0,0,1,0,0,1,2,0,0,1,0,1,0,0,21,Critical
+Smart Speaker,1,0,0,0,0,2,0,1,0,1,2,1,0,0,1,41,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,1,0,0,0,1,0,0,1,1,2,1,0,0,1,35,High
+Smart Sensor,1,1,1,2,1,1,1,2,1,1,2,1,1,1,1,92,Very Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Camera,0,0,0,2,0,1,1,1,0,0,1,0,0,1,0,27,Critical
+Thermostat,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,23,Critical
+Smart Lock,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Thermostat,1,1,1,1,0,1,1,1,0,0,2,1,1,1,0,54,High
+Smart Sensor,1,0,1,0,0,1,1,1,1,0,0,0,1,1,0,45,High
+Camera,0,0,1,0,1,0,0,1,1,0,1,1,1,0,1,43,High
+Smart Sensor,0,1,0,2,0,0,0,1,1,0,0,0,0,1,0,29,Critical
+Smart Sensor,0,1,1,1,1,2,1,1,0,1,2,1,1,1,1,69,Medium
+Camera,0,0,0,0,0,1,1,0,1,1,1,0,0,0,1,29,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,1,0,2,0,0,1,0,0,0,1,1,0,1,0,27,Critical
+Smart Lock,0,2,0,2,1,2,1,1,1,0,1,1,1,1,0,63,Medium
+Smart Sensor,0,1,0,0,0,0,0,2,0,0,1,0,0,1,1,20,Critical
+Smart Speaker,1,0,1,1,1,1,1,2,1,1,1,1,1,1,1,81,Low
+Smart Sensor,1,1,0,0,0,0,0,1,1,0,2,0,0,1,0,33,Critical
+Smart Speaker,1,1,1,1,0,1,1,1,1,1,2,1,1,0,1,70,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,30,Critical
+Thermostat,0,2,0,0,0,1,1,2,1,0,2,1,0,1,1,46,High
+Smart Sensor,1,2,1,2,1,1,1,1,0,0,1,1,1,0,0,68,Medium
+Smart Speaker,0,2,0,1,0,1,0,2,1,0,2,1,0,1,0,44,High
+Thermostat,0,0,1,1,0,2,0,1,1,0,2,0,1,0,1,44,High
+Smart Lock,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,20,Critical
+Smart Speaker,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,16,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,1,2,1,2,1,2,0,2,1,1,2,0,1,1,1,92,Very Low
+Smart Lock,1,0,0,2,1,0,1,1,1,0,2,1,1,1,1,62,Medium
+Smart Speaker,0,1,0,0,1,0,0,2,0,1,0,1,1,1,1,42,High
+Thermostat,1,1,0,2,0,1,1,1,1,0,2,0,1,1,1,56,Medium
+Camera,0,2,1,2,1,1,0,2,1,1,1,1,1,0,0,74,Medium
+Smart Sensor,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Thermostat,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,28,Critical
+Thermostat,0,1,0,2,0,1,0,0,0,1,1,1,0,0,1,35,High
+Smart Lock,0,0,1,2,1,2,1,1,0,1,0,1,1,1,1,66,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,0,1,2,0,0,1,1,0,0,0,0,1,0,1,43,High
+Thermostat,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Critical
+Smart Lock,1,2,1,1,1,2,1,2,1,1,2,0,1,1,0,88,Low
+Camera,0,0,1,0,1,2,0,1,0,0,0,1,0,0,0,36,High
+Smart Speaker,0,1,0,2,1,0,0,2,1,1,2,0,0,0,1,55,Medium
+Smart Lock,0,1,1,0,1,1,1,1,1,0,1,1,0,1,0,53,High
+Camera,1,1,0,0,0,0,0,2,1,0,1,0,0,1,0,35,High
+Thermostat,1,2,1,2,1,2,0,2,1,0,2,1,1,1,1,88,Low
+Thermostat,0,0,0,2,0,2,0,0,0,1,0,0,0,1,0,29,Critical
+Thermostat,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,30,Critical
+Smart Speaker,0,2,1,1,1,1,1,1,1,1,2,1,1,1,1,77,Low
+Smart Lock,1,2,1,1,1,2,1,2,0,1,2,1,1,1,1,87,Low
+Camera,1,2,1,1,1,2,1,2,0,1,2,1,1,1,1,87,Low
+Smart Lock,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,12,Critical
+Camera,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,9,Critical
+Smart Sensor,0,1,0,2,0,1,0,1,0,1,2,0,1,1,0,39,High
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,0,0,0,0,2,1,1,0,0,0,0,0,0,1,19,Critical
+Thermostat,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,24,Critical
+Smart Speaker,1,1,1,2,0,2,1,2,1,1,2,0,1,1,0,79,Low
+Camera,0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,26,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,1,0,2,0,1,0,0,1,0,1,0,1,1,0,33,Critical
+Thermostat,1,1,0,1,0,1,1,2,0,0,0,0,1,0,0,37,High
+Smart Lock,1,1,0,2,0,1,1,0,0,0,1,0,1,1,1,42,High
+Smart Lock,0,0,0,2,0,0,0,2,0,0,1,0,1,0,0,22,Critical
+Smart Speaker,0,0,0,2,1,1,1,2,1,1,2,1,1,1,1,68,Medium
+Smart Sensor,1,2,0,0,0,0,0,1,0,0,1,1,0,0,0,28,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Speaker,1,0,0,0,1,1,0,0,0,1,2,1,1,1,1,48,High
+Thermostat,1,2,0,2,1,2,1,2,1,0,1,0,0,0,1,71,Medium
+Thermostat,0,0,0,0,0,2,0,0,1,0,2,1,0,0,0,24,Critical
+Smart Sensor,0,2,1,2,1,2,1,2,1,1,2,0,1,1,1,86,Low
+Camera,1,1,0,1,0,2,0,1,1,1,2,0,1,0,0,53,High
+Smart Lock,1,1,0,0,1,1,0,1,0,0,2,1,1,1,0,45,High
+Thermostat,1,2,0,2,1,1,1,2,0,1,1,1,0,1,1,74,Medium
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Smart Sensor,0,0,0,0,0,1,0,0,0,1,2,0,1,0,0,18,Critical
+Camera,1,0,1,1,0,0,1,1,1,1,2,0,1,1,0,58,Medium
+Smart Speaker,0,0,0,2,0,0,0,0,1,0,1,0,0,1,0,23,Critical
+Camera,1,2,1,1,1,2,1,1,1,0,2,1,1,1,1,83,Low
+Smart Speaker,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,16,Critical
+Smart Sensor,1,1,0,2,1,1,0,1,1,1,1,1,0,0,1,67,Medium
+Camera,0,2,1,2,0,0,1,2,1,1,0,0,0,1,1,62,Medium
+Smart Lock,1,2,0,2,1,2,0,1,1,0,2,1,1,1,1,74,Medium
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,8,Critical
+Camera,1,0,0,0,0,1,1,1,0,1,0,1,0,0,0,34,Critical
+Smart Lock,1,2,1,1,1,1,1,2,1,1,2,1,0,1,1,89,Low
+Smart Sensor,0,0,0,0,1,1,0,1,0,1,2,0,0,1,0,33,Critical
+Smart Sensor,0,2,0,2,1,1,1,2,1,1,2,0,1,1,1,72,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,0,1,1,0,93,Very Low
+Camera,0,2,0,0,0,0,0,1,0,1,2,0,1,0,1,29,Critical
+Thermostat,1,2,0,0,1,1,1,1,1,1,2,1,1,0,1,69,Medium
+Smart Sensor,0,1,0,1,0,0,0,1,0,1,1,1,0,0,0,27,Critical
+Smart Sensor,0,0,1,1,1,1,1,1,1,0,1,0,1,0,1,52,High
+Smart Lock,0,2,0,2,1,2,0,2,0,0,2,0,1,0,1,53,High
+Thermostat,1,0,0,0,0,0,0,2,0,1,1,0,0,1,1,34,Critical
+Smart Speaker,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,32,Critical
+Smart Sensor,0,1,0,1,1,0,0,1,0,1,1,1,1,0,1,42,High
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,23,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,31,Critical
+Smart Speaker,1,1,1,1,1,2,1,2,1,0,1,1,1,0,1,78,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,0,0,1,1,94,Very Low
+Camera,0,0,0,2,0,1,1,1,0,0,0,0,1,0,1,27,Critical
+Smart Lock,0,2,1,1,1,0,1,2,0,1,0,1,0,1,1,63,Medium
+Smart Sensor,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,8,Critical
+Camera,1,2,1,2,0,2,1,2,1,0,2,1,1,1,1,82,Low
+Thermostat,1,1,1,2,1,2,1,1,1,1,2,1,1,0,1,89,Low
+Thermostat,1,2,0,0,1,2,0,2,1,1,2,1,1,0,0,70,Medium
+Thermostat,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,10,Critical
+Smart Sensor,0,2,0,2,1,2,0,0,0,0,0,1,1,0,1,45,High
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Thermostat,0,0,0,2,1,2,1,0,1,0,1,0,0,0,1,45,High
+Thermostat,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,11,Critical
+Camera,1,2,1,0,1,2,1,2,0,1,0,1,1,1,1,78,Low
+Smart Lock,1,0,1,1,1,0,0,2,1,0,0,1,1,0,1,60,Medium
+Smart Speaker,0,1,0,2,1,0,1,2,1,1,2,1,0,0,1,63,Medium
+Camera,0,0,0,0,1,0,0,2,0,0,2,0,1,1,1,30,Critical
+Camera,0,1,0,1,1,0,0,0,1,1,2,0,0,0,1,42,High
+Smart Lock,1,1,0,0,0,1,0,2,1,1,0,1,0,0,0,46,High
+Camera,1,0,0,1,0,1,0,0,1,0,1,0,1,1,0,34,Critical
+Smart Speaker,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,24,Critical
+Thermostat,0,0,0,0,0,1,0,0,0,0,2,0,0,1,0,11,Critical
+Smart Lock,0,1,0,0,0,0,0,0,0,0,2,0,1,0,0,10,Critical
+Smart Lock,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,16,Critical
+Camera,1,0,0,0,0,2,0,1,0,1,0,0,0,0,0,30,Critical
+Smart Speaker,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,21,Critical
+Thermostat,0,0,1,1,0,0,1,2,0,0,1,1,0,0,0,33,Critical
+Thermostat,1,0,0,0,0,1,0,2,0,1,1,0,1,0,1,37,High
+Smart Lock,0,1,0,0,0,1,1,1,1,0,2,0,0,0,0,28,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,10,Critical
+Smart Lock,1,2,1,2,1,2,0,1,1,1,2,1,1,1,1,92,Very Low
+Thermostat,1,2,1,0,0,2,1,2,1,0,2,0,1,1,0,65,Medium
+Camera,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,94,Very Low
+Smart Sensor,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,13,Critical
+Thermostat,1,1,1,2,1,0,0,0,0,0,0,1,0,1,0,51,High
+Camera,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,0,1,1,1,1,0,87,Low
+Thermostat,1,2,1,2,0,1,1,1,1,1,0,0,0,0,0,66,Medium
+Smart Speaker,1,1,0,0,0,1,1,1,0,0,1,0,0,1,0,31,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Thermostat,1,1,1,1,0,1,0,2,1,1,2,1,1,1,1,73,Medium
+Thermostat,0,2,0,0,1,0,1,2,0,1,1,1,1,0,1,49,High
+Camera,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,19,Critical
+Camera,0,0,0,2,1,2,1,0,0,0,1,1,1,1,1,46,High
+Smart Speaker,1,2,1,2,1,1,1,2,0,1,2,1,1,1,1,88,Low
+Smart Lock,1,0,1,1,0,2,0,0,1,0,2,1,1,1,0,54,High
+Smart Lock,1,1,0,1,0,2,1,1,1,1,2,1,1,1,1,67,Medium
+Smart Lock,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Lock,1,2,1,0,1,1,0,1,0,0,2,1,1,1,0,59,Medium
+Camera,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,21,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,0,1,1,1,1,0,1,0,1,0,1,1,0,56,Medium
+Smart Sensor,1,0,0,1,1,0,0,0,0,1,1,1,0,1,0,42,High
+Thermostat,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,28,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Sensor,0,0,0,0,1,0,1,2,0,0,1,0,1,0,0,26,Critical
+Smart Speaker,1,2,1,1,1,2,1,0,1,1,1,1,0,0,1,80,Low
+Smart Lock,0,0,1,0,0,1,0,1,1,0,1,0,0,0,1,31,Critical
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,1,2,0,0,1,0,0,2,1,1,1,0,0,1,1,60,Medium
+Smart Sensor,1,2,0,2,1,2,1,1,1,1,2,1,1,1,1,86,Low
+Thermostat,0,2,0,2,0,1,1,2,1,0,1,0,1,0,1,49,High
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Sensor,1,0,0,0,1,0,0,0,0,1,2,1,0,0,1,39,High
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,1,0,2,1,0,0,2,1,0,1,0,0,0,1,55,Medium
+Smart Lock,0,2,0,0,0,0,1,0,0,0,1,0,1,0,0,16,Critical
+Camera,1,0,0,2,0,1,0,0,0,0,0,0,1,0,1,29,Critical
+Smart Lock,1,2,1,0,0,1,0,2,1,0,1,1,0,0,0,54,High
+Smart Speaker,0,0,0,0,0,0,1,0,0,0,2,0,1,0,1,13,Critical
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,2,0,0,1,0,87,Low
+Smart Lock,1,0,1,0,1,2,1,0,1,0,1,1,1,1,0,61,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,2,1,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Lock,1,1,0,1,1,2,0,1,1,1,0,1,0,1,0,64,Medium
+Smart Speaker,1,1,1,2,0,2,1,1,1,1,1,1,1,1,1,80,Low
+Smart Speaker,1,2,1,2,1,1,0,2,1,1,2,1,1,1,1,92,Very Low
+Thermostat,1,2,0,2,0,1,1,2,1,1,2,1,0,0,0,68,Medium
+Smart Speaker,1,1,1,0,0,1,1,1,0,0,1,0,1,0,0,40,High
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Thermostat,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,17,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Speaker,0,1,0,1,0,0,1,1,1,0,2,0,1,0,1,34,Critical
+Smart Sensor,0,0,0,0,0,1,0,2,1,1,0,1,0,0,1,35,High
+Smart Lock,1,1,1,0,1,2,1,2,1,1,2,1,0,1,1,84,Low
+Smart Sensor,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,13,Critical
+Smart Speaker,1,1,0,0,0,0,1,0,0,0,2,0,1,0,1,27,Critical
+Smart Speaker,0,1,1,0,1,1,1,0,1,0,1,0,1,1,0,47,High
+Smart Speaker,1,1,0,2,1,2,1,2,1,1,1,1,1,1,0,81,Low
+Smart Speaker,1,1,1,1,1,2,1,2,1,1,1,0,1,1,1,85,Low
+Smart Lock,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,14,Critical
+Smart Lock,0,2,1,2,1,0,0,0,0,1,2,1,0,1,1,60,Medium
+Thermostat,1,2,1,2,1,2,0,2,1,1,2,1,1,1,0,93,Very Low
+Thermostat,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,88,Low
+Thermostat,1,1,0,0,0,2,0,2,1,1,0,1,0,1,1,56,Medium
+Smart Lock,1,2,0,2,1,2,1,2,1,1,1,0,1,0,1,81,Low
+Thermostat,1,2,1,0,1,1,0,2,1,0,1,1,0,1,1,70,Medium
+Smart Lock,1,1,0,2,0,0,0,0,0,0,0,0,1,1,0,29,Critical
+Smart Speaker,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,8,Critical
+Smart Speaker,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,27,Critical
+Camera,1,1,1,0,1,1,1,1,0,0,2,0,1,1,1,58,Medium
+Smart Speaker,1,0,0,1,1,2,1,2,0,1,1,0,1,1,0,60,Medium
+Thermostat,0,0,0,0,0,0,0,2,0,0,1,0,0,1,1,16,Critical
+Camera,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,12,Critical
+Smart Sensor,1,2,0,0,0,0,0,1,1,1,1,1,0,0,0,44,High
+Thermostat,1,2,0,1,1,2,1,2,1,1,2,1,0,1,1,83,Low
+Smart Speaker,1,2,1,1,1,2,1,2,1,0,2,1,0,0,1,82,Low
+Camera,1,2,1,1,0,0,1,1,1,1,0,1,0,1,1,67,Medium
+Thermostat,0,0,0,0,0,1,0,2,1,0,2,1,0,1,0,31,Critical
+Smart Speaker,1,2,1,2,1,0,1,2,0,1,2,1,1,1,1,84,Low
+Smart Speaker,1,1,1,0,0,1,0,0,1,1,0,0,1,0,1,49,High
+Smart Sensor,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,0,2,1,1,1,0,1,1,1,0,0,0,1,1,0,54,High
+Smart Lock,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,14,Critical
+Smart Sensor,0,2,0,1,0,1,1,0,1,0,2,1,0,0,0,37,High
+Smart Lock,1,2,1,2,1,2,0,1,1,1,2,1,1,1,1,92,Very Low
+Smart Speaker,1,2,0,2,1,2,1,1,1,1,1,0,0,0,1,75,Low
+Smart Lock,0,0,0,0,0,1,0,2,0,1,0,0,0,1,1,26,Critical
+Smart Lock,1,2,1,1,1,1,1,2,1,1,1,0,0,1,1,83,Low
+Smart Speaker,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,29,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,1,1,0,0,0,0,0,2,0,0,1,1,0,1,0,31,Critical
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,2,1,0,1,1,93,Very Low
+Smart Sensor,0,2,0,2,1,0,1,0,0,1,2,0,1,1,0,49,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Sensor,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,32,Critical
+Camera,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Smart Speaker,1,0,0,1,1,1,1,2,1,1,0,0,1,0,0,59,Medium
+Smart Speaker,1,2,1,2,1,1,1,2,0,1,2,0,0,0,0,76,Low
+Camera,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Camera,1,1,1,2,0,1,1,2,1,1,1,1,1,1,1,80,Low
+Smart Speaker,0,2,1,0,1,1,1,0,1,0,1,0,1,1,0,51,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Sensor,1,0,0,1,0,0,0,0,0,0,2,0,1,0,0,21,Critical
+Smart Lock,1,0,0,2,0,0,1,1,0,0,0,1,0,1,0,35,High
+Smart Speaker,0,1,1,1,1,0,0,0,1,1,0,1,0,0,0,49,High
+Smart Speaker,0,1,0,0,1,2,1,2,1,0,2,0,0,0,0,46,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,9,Critical
+Camera,1,1,0,1,0,2,1,0,0,0,0,1,0,1,0,38,High
+Smart Lock,0,2,0,1,0,1,1,2,0,1,1,0,0,0,0,39,High
+Camera,1,1,1,2,1,1,0,2,0,0,2,1,1,1,1,72,Medium
+Smart Lock,0,2,0,2,1,1,1,2,0,1,1,1,1,0,1,63,Medium
+Camera,1,1,0,0,0,1,1,2,0,0,0,0,1,1,0,35,High
+Smart Lock,0,1,1,1,1,2,1,1,0,1,2,1,1,1,1,69,Medium
+Camera,1,2,1,2,0,1,1,2,1,1,2,1,1,1,1,86,Low
+Camera,1,1,0,0,0,2,1,0,0,1,0,1,1,1,1,46,High
+Smart Sensor,0,2,1,2,0,0,1,1,1,0,2,1,1,0,1,57,Medium
+Smart Sensor,1,2,1,1,1,2,1,2,1,1,1,0,1,0,1,86,Low
+Thermostat,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,1,2,1,0,1,2,1,2,1,1,1,1,1,0,0,82,Low
+Smart Speaker,0,2,0,1,0,2,0,2,1,1,1,0,0,0,1,50,High
+Thermostat,1,2,1,2,1,1,1,2,1,1,2,1,1,0,1,93,Very Low
+Smart Speaker,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,10,Critical
+Smart Sensor,1,0,1,1,0,1,0,0,0,0,1,0,0,1,0,34,Critical
+Smart Lock,1,2,1,1,1,2,1,2,1,1,1,1,0,1,1,91,Very Low
+Smart Sensor,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,26,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,1,1,2,0,0,1,1,1,0,1,1,1,0,1,61,Medium
+Camera,0,2,1,1,0,2,0,1,1,1,2,1,1,1,0,64,Medium
+Thermostat,1,2,1,0,1,1,0,1,1,1,2,0,1,1,0,71,Medium
+Thermostat,1,1,1,2,0,1,0,1,1,1,2,1,0,0,1,69,Medium
+Thermostat,1,2,1,1,0,2,1,1,1,0,1,0,1,1,0,64,Medium
+Smart Lock,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7,Critical
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,0,1,0,1,1,0,0,0,0,1,1,0,1,1,46,High
+Thermostat,0,0,1,1,1,1,1,1,1,1,2,1,0,1,0,64,Medium
+Camera,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,19,Critical
+Camera,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,1,2,1,2,1,0,0,1,1,1,1,1,1,0,0,76,Low
+Smart Sensor,0,2,1,2,1,2,1,1,1,1,2,1,0,1,1,84,Low
+Thermostat,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,Critical
+Smart Lock,0,2,0,1,1,1,0,2,0,1,2,1,1,0,0,53,High
+Smart Lock,1,0,1,0,0,1,0,2,1,1,1,0,1,1,0,55,Medium
+Smart Sensor,1,2,1,1,1,2,0,2,1,0,2,0,0,1,1,77,Low
+Smart Speaker,0,0,0,0,1,2,0,0,0,0,2,0,1,1,0,27,Critical
+Thermostat,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,6,Critical
+Thermostat,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,23,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,93,Very Low
+Smart Speaker,1,2,1,1,1,1,1,2,1,1,2,1,0,1,1,89,Low
+Smart Speaker,1,2,0,0,0,1,1,2,1,0,1,1,1,1,1,56,Medium
+Smart Sensor,0,0,0,0,1,1,0,1,1,0,2,1,0,1,1,40,High
+Thermostat,0,1,0,1,0,2,0,0,1,0,0,0,0,0,0,25,Critical
+Thermostat,1,1,0,0,0,0,0,2,0,0,0,0,1,0,0,24,Critical
+Camera,0,1,0,1,1,0,1,0,0,0,2,0,1,0,0,29,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Lock,0,1,1,0,0,1,0,1,1,0,1,1,1,1,0,41,High
+Camera,1,2,1,0,1,1,1,2,1,1,2,1,1,0,1,83,Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,1,0,0,1,0,0,1,0,1,2,0,1,0,1,45,High
+Smart Lock,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,6,Critical
+Smart Sensor,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,23,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Thermostat,1,1,1,2,1,2,0,2,1,1,1,1,1,1,1,90,Very Low
+Smart Sensor,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,9,Critical
+Thermostat,0,2,1,1,0,1,0,2,1,1,0,1,1,1,1,63,Medium
+Smart Speaker,1,2,0,1,1,2,1,1,0,0,1,0,1,0,0,53,High
+Smart Speaker,0,1,0,2,1,1,1,2,1,0,2,1,1,0,1,61,Medium
+Camera,1,1,0,2,0,2,1,0,1,0,2,0,0,1,1,54,High
+Thermostat,1,1,1,1,1,0,0,2,1,0,1,1,1,1,0,66,Medium
+Camera,0,0,1,0,1,0,0,2,0,0,0,0,1,0,0,30,Critical
+Camera,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,17,Critical
+Smart Lock,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,25,Critical
+Smart Sensor,1,1,0,0,1,1,1,2,1,0,1,1,1,1,0,59,Medium
+Thermostat,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,2,1,2,1,2,0,1,1,1,2,1,1,0,1,89,Low
+Smart Speaker,1,1,0,2,1,1,1,2,1,1,2,0,0,0,1,73,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Lock,1,1,0,2,0,1,0,1,1,0,1,1,0,0,0,46,High
+Smart Lock,1,1,0,0,1,0,0,2,1,0,0,1,0,0,1,47,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,2,1,1,1,1,0,1,1,0,2,1,1,1,1,75,Low
+Thermostat,1,0,0,2,0,1,0,0,1,1,2,1,0,1,1,54,High
+Thermostat,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,22,Critical
+Smart Lock,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,26,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Speaker,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,17,Critical
+Smart Speaker,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,75,Low
+Smart Lock,1,1,0,0,0,0,1,0,1,1,1,0,1,0,0,38,High
+Smart Sensor,1,2,1,2,1,2,0,1,0,1,2,1,1,1,1,84,Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,1,1,1,1,1,2,0,0,0,0,2,0,0,1,1,57,Medium
+Smart Speaker,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,12,Critical
+Thermostat,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,0,2,1,0,1,2,0,1,1,0,2,1,1,0,1,61,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,1,0,0,1,1,92,Very Low
+Smart Sensor,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,24,Critical
+Smart Speaker,1,0,1,0,1,2,1,0,0,1,2,1,1,1,1,66,Medium
+Camera,1,1,0,1,1,1,1,1,0,0,0,1,0,1,1,51,High
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,2,1,1,1,1,0,2,1,1,1,1,0,0,1,80,Low
+Smart Sensor,1,2,1,2,1,2,0,2,1,1,2,1,0,1,1,94,Very Low
+Smart Speaker,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,25,Critical
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Sensor,1,2,1,2,1,1,1,2,0,1,2,0,0,1,1,82,Low
+Smart Lock,1,1,1,1,0,0,1,2,1,1,0,0,1,0,0,59,Medium
+Thermostat,1,2,0,1,0,2,1,2,0,0,2,0,0,0,1,50,High
+Thermostat,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,19,Critical
+Camera,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,23,Critical
+Thermostat,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,0,1,2,1,1,1,0,89,Low
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Sensor,1,2,1,2,1,1,1,1,1,1,1,1,0,1,0,85,Low
+Thermostat,0,2,1,2,1,1,0,0,1,0,2,0,0,0,0,54,High
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,13,Critical
+Camera,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,90,Very Low
+Smart Lock,1,2,0,1,0,0,1,0,1,0,0,0,1,0,0,37,High
+Thermostat,0,2,0,2,1,2,1,2,0,0,1,1,0,1,1,60,Medium
+Smart Lock,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,23,Critical
+Smart Sensor,1,2,0,2,0,1,1,2,0,1,1,1,1,0,0,60,Medium
+Thermostat,1,2,0,1,1,2,1,1,1,0,2,1,1,1,1,73,Medium
+Thermostat,0,1,0,1,0,0,0,1,0,1,1,0,0,1,0,26,Critical
+Camera,0,2,0,1,0,2,1,1,0,1,0,1,0,0,1,44,High
+Camera,1,2,0,2,1,1,1,0,1,1,2,0,1,0,1,71,Medium
+Thermostat,1,1,0,0,0,2,0,2,1,0,0,1,1,0,1,47,High
+Camera,0,0,0,2,0,2,1,2,1,0,1,0,0,0,1,43,High
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,0,2,0,0,1,0,1,0,1,1,1,0,0,1,0,43,High
+Camera,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,37,High
+Smart Speaker,1,2,1,2,1,2,0,1,0,0,1,1,1,1,1,74,Medium
+Smart Sensor,1,0,0,2,0,0,0,2,1,0,2,0,0,0,1,43,High
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Smart Speaker,1,1,1,2,1,1,1,2,0,1,0,1,1,1,1,80,Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Smart Speaker,0,1,0,0,0,2,1,0,0,1,2,1,1,1,0,37,High
+Smart Lock,1,2,1,2,1,2,0,0,0,1,2,1,1,1,1,80,Low
+Thermostat,0,0,1,2,1,1,1,2,1,1,2,0,0,0,0,66,Medium
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Camera,1,0,0,0,0,0,0,2,0,1,1,0,0,1,0,31,Critical
+Smart Sensor,1,2,1,0,1,1,0,0,0,1,0,1,1,1,1,62,Medium
+Smart Sensor,0,2,1,2,1,2,1,2,1,1,2,1,0,0,1,85,Low
+Camera,1,1,0,1,0,1,1,0,0,0,2,0,0,1,1,37,High
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Thermostat,0,2,1,1,0,1,1,2,1,1,2,1,0,1,1,69,Medium
+Smart Sensor,1,0,1,0,1,1,1,0,0,0,2,1,0,1,1,52,High
+Thermostat,1,0,0,1,1,1,0,2,1,1,2,1,1,0,0,63,Medium
+Thermostat,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,18,Critical
+Smart Speaker,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,22,Critical
+Camera,0,1,1,1,1,2,1,2,1,1,2,1,1,0,0,75,Low
+Smart Lock,1,2,1,2,1,1,0,1,1,1,2,0,1,0,1,81,Low
+Camera,1,0,1,2,0,0,0,2,0,0,2,1,1,1,0,51,High
+Thermostat,0,2,1,0,1,2,0,1,1,0,1,1,0,1,1,60,Medium
+Smart Sensor,1,1,1,2,1,2,1,1,1,1,1,0,1,1,1,86,Low
+Thermostat,1,0,0,2,1,0,0,2,1,1,0,1,0,1,1,64,Medium
+Smart Speaker,1,1,0,1,1,0,0,1,1,1,1,1,1,0,1,60,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,1,2,0,0,1,1,0,2,0,0,2,1,1,1,1,56,Medium
+Smart Sensor,1,0,0,2,1,2,1,1,0,1,1,1,0,1,0,63,Medium
+Smart Sensor,0,2,1,2,0,1,0,2,1,0,2,1,0,1,0,59,Medium
+Smart Lock,1,2,1,2,0,0,1,1,0,1,1,1,1,1,0,65,Medium
+Smart Sensor,0,0,1,2,1,0,0,0,1,1,1,1,0,0,0,52,High
+Smart Speaker,1,2,1,1,0,0,1,1,1,1,1,1,1,1,1,71,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Sensor,1,1,1,1,1,2,0,2,1,1,2,1,1,0,0,81,Low
+Smart Sensor,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,23,Critical
+Smart Sensor,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,20,Critical
+Smart Speaker,1,1,1,2,0,1,1,2,0,1,2,0,1,1,0,67,Medium
+Camera,1,1,1,2,1,2,1,1,0,0,2,0,1,1,0,69,Medium
+Thermostat,1,0,0,2,0,0,0,0,0,0,1,0,0,1,1,28,Critical
+Thermostat,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Camera,1,1,1,0,0,2,0,1,1,1,1,1,0,0,1,61,Medium
+Smart Lock,1,0,1,0,1,1,0,2,1,0,1,1,0,1,0,59,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Smart Lock,1,2,0,1,0,2,1,1,1,1,1,1,1,1,1,69,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Lock,1,0,1,2,0,1,1,1,1,1,1,1,0,0,0,64,Medium
+Thermostat,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,20,Critical
+Smart Lock,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,24,Critical
+Smart Speaker,1,1,0,1,0,0,0,2,0,0,0,1,0,1,1,37,High
+Smart Lock,1,0,1,1,1,0,0,2,1,1,2,0,1,0,0,65,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,0,1,0,1,93,Very Low
+Thermostat,1,1,0,2,1,1,0,1,0,0,1,0,0,0,1,47,High
+Smart Sensor,0,2,1,2,1,1,1,2,1,1,0,1,1,0,1,79,Low
+Smart Sensor,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,29,Critical
+Smart Sensor,1,1,0,1,0,2,0,1,1,0,0,1,0,1,1,49,High
+Smart Sensor,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,6,Critical
+Smart Lock,1,2,1,2,1,0,0,1,1,1,2,0,1,1,1,80,Low
+Smart Sensor,0,1,0,2,0,1,1,0,0,0,2,0,0,0,1,29,Critical
+Thermostat,0,1,0,1,0,2,1,0,0,0,1,0,1,0,0,25,Critical
+Camera,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Camera,1,2,1,2,0,2,1,1,0,0,1,1,1,1,1,68,Medium
+Smart Sensor,0,1,1,0,0,2,0,0,0,1,0,0,0,0,1,33,Critical
+Smart Sensor,1,0,0,0,1,2,0,2,1,0,2,0,1,1,0,53,High
+Smart Lock,1,2,0,1,0,1,0,1,0,0,0,0,0,1,0,34,Critical
+Smart Sensor,0,1,0,0,0,2,0,1,0,1,2,1,0,0,0,32,Critical
+Smart Lock,0,1,0,0,0,1,0,2,1,1,0,1,0,0,0,36,High
+Camera,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,12,Critical
+Smart Lock,1,2,0,0,0,1,0,0,0,0,2,0,0,0,1,29,Critical
+Smart Speaker,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Smart Lock,1,2,1,0,0,2,1,1,1,1,2,0,1,1,1,72,Medium
+Thermostat,1,1,0,0,1,0,0,0,1,0,2,0,0,0,1,39,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Speaker,1,2,1,1,1,2,1,0,1,0,2,1,0,0,0,71,Medium
+Smart Lock,1,2,1,2,0,0,1,1,1,0,1,1,1,1,1,68,Medium
+Camera,0,2,1,1,0,2,0,2,0,0,2,0,0,1,1,49,High
+Smart Sensor,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,40,High
+Smart Lock,1,1,1,2,0,2,1,1,0,1,2,1,1,1,1,74,Medium
+Camera,0,0,0,1,0,1,0,2,0,1,1,0,1,1,0,32,Critical
+Thermostat,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,12,Critical
+Thermostat,1,1,0,2,0,2,0,1,0,0,1,0,1,1,1,46,High
+Thermostat,1,2,0,2,0,2,1,2,1,1,2,0,1,1,0,73,Medium
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,0,0,1,2,1,0,1,1,1,0,1,0,1,63,Medium
+Camera,0,0,0,1,0,2,0,0,1,1,2,1,1,1,1,45,High
+Camera,1,2,1,2,1,1,0,1,1,1,0,1,1,1,1,84,Low
+Camera,1,1,0,2,1,1,1,2,1,1,2,1,0,0,0,74,Medium
+Thermostat,1,0,1,2,1,1,0,0,1,1,1,1,1,1,1,74,Medium
+Thermostat,1,2,1,0,0,2,1,1,0,1,1,1,0,0,0,58,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Lock,1,2,0,2,1,1,0,2,1,1,2,1,1,1,1,82,Low
+Thermostat,0,2,0,2,1,2,0,2,1,1,1,1,1,0,0,68,Medium
+Smart Speaker,1,2,0,2,1,1,1,1,1,1,2,0,1,1,1,78,Low
+Smart Lock,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,20,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,0,0,1,1,0,1,0,1,2,0,1,0,0,32,Critical
+Smart Sensor,1,2,0,1,1,1,0,2,0,0,1,1,1,0,1,56,Medium
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,0,1,93,Very Low
+Smart Lock,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,19,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Sensor,0,2,1,1,1,2,1,2,1,1,2,1,1,1,1,85,Low
+Smart Speaker,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,24,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Camera,0,1,0,2,0,1,0,0,0,1,0,1,0,0,0,30,Critical
+Camera,0,1,0,2,0,2,0,2,1,0,2,1,1,1,1,54,High
+Smart Sensor,1,2,1,2,1,1,0,1,1,1,2,1,0,1,0,83,Low
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Camera,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,7,Critical
+Smart Sensor,1,0,1,0,0,2,1,0,0,0,1,0,1,0,0,36,High
+Smart Speaker,0,0,1,1,1,2,0,1,1,1,1,1,0,0,1,62,Medium
+Thermostat,1,1,1,1,1,2,0,0,1,0,2,1,1,0,1,68,Medium
+Camera,1,2,1,1,1,2,1,0,1,1,2,1,1,0,1,84,Low
+Smart Speaker,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,18,Critical
+Smart Lock,1,2,0,2,1,0,1,2,0,0,1,1,1,1,1,64,Medium
+Thermostat,1,2,1,1,1,1,0,1,1,0,2,0,1,1,0,68,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,1,2,0,1,0,0,1,2,1,1,1,1,1,1,0,62,Medium
+Smart Speaker,1,1,1,2,1,2,1,1,1,1,1,1,0,0,0,82,Low
+Smart Speaker,1,1,1,2,1,2,1,2,1,0,2,1,1,1,1,88,Low
+Thermostat,1,2,0,2,1,1,1,1,0,0,1,1,0,0,0,56,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Smart Sensor,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,93,Very Low
+Smart Lock,0,0,1,0,0,2,0,2,0,1,2,1,0,0,0,42,High
+Smart Speaker,1,0,0,1,0,0,0,2,0,1,1,1,0,0,0,37,High
+Smart Sensor,1,2,1,1,1,1,1,0,0,1,2,1,0,0,1,70,Medium
+Smart Speaker,0,0,0,1,1,2,1,2,1,0,0,1,1,1,0,52,High
+Smart Speaker,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,26,Critical
+Camera,1,2,1,2,0,2,1,1,1,1,1,1,0,1,1,82,Low
+Camera,1,2,1,2,1,2,1,2,0,1,1,1,1,1,1,90,Very Low
+Smart Sensor,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,11,Critical
+Smart Speaker,1,0,1,0,0,0,0,2,0,1,1,1,0,0,0,42,High
+Smart Speaker,1,1,1,0,0,2,1,0,0,1,1,1,1,0,1,55,Medium
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,0,2,0,0,0,2,0,1,0,0,0,1,1,0,0,26,Critical
+Camera,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,15,Critical
+Smart Lock,1,1,1,2,1,1,1,2,0,1,2,1,1,1,0,81,Low
+Smart Lock,0,0,1,2,0,2,1,0,1,0,1,1,1,1,1,54,High
+Smart Speaker,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,21,Critical
+Smart Sensor,1,2,1,0,0,2,0,1,1,0,2,0,0,0,0,52,High
+Smart Lock,1,2,1,2,0,2,1,2,1,1,1,1,1,0,1,85,Low
+Thermostat,1,0,0,0,1,0,1,1,0,0,1,1,0,0,0,34,Critical
+Camera,0,1,1,1,1,1,1,0,0,1,1,0,1,1,0,52,High
+Smart Speaker,1,2,0,1,0,1,1,1,1,1,2,0,1,0,1,60,Medium
+Smart Sensor,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,0,1,0,0,0,2,0,1,1,0,0,0,1,0,0,26,Critical
+Camera,1,1,1,0,0,2,1,2,0,0,0,1,0,1,0,51,High
+Thermostat,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,94,Very Low
+Camera,1,2,0,2,1,2,1,1,0,0,2,1,1,1,1,70,Medium
+Smart Speaker,0,0,0,1,0,0,1,2,0,1,1,1,1,0,0,33,Critical
+Camera,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,31,Critical
+Smart Speaker,0,1,1,1,1,2,0,1,0,1,1,1,1,0,0,57,Medium
+Smart Lock,1,1,1,1,0,0,0,2,1,0,1,1,0,0,1,54,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,0,0,0,1,0,1,0,0,1,1,0,0,0,0,34,Critical
+Smart Speaker,1,2,1,1,1,0,0,2,1,1,2,1,0,1,1,81,Low
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,1,0,1,1,0,1,0,1,1,2,1,1,0,1,62,Medium
+Smart Speaker,0,1,0,1,1,2,0,0,0,1,1,1,1,1,0,46,High
+Smart Sensor,1,1,0,2,0,1,1,1,1,1,0,0,0,1,0,55,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,11,Critical
+Smart Sensor,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,1,2,1,2,0,1,0,1,1,1,0,0,1,0,1,67,Medium
+Smart Sensor,1,2,0,2,1,2,0,1,1,0,2,1,1,0,1,71,Medium
+Thermostat,1,0,1,1,0,0,0,0,0,0,2,0,0,0,0,29,Critical
+Camera,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,15,Critical
+Camera,1,1,0,2,1,0,1,1,1,1,2,1,0,1,1,72,Medium
+Smart Speaker,1,1,1,2,1,1,0,2,0,0,2,1,1,1,1,72,Medium
+Smart Lock,1,1,0,1,0,0,0,1,1,1,0,0,1,1,1,47,High
+Smart Speaker,1,1,1,1,0,1,1,2,1,0,1,1,0,0,1,62,Medium
+Smart Sensor,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Sensor,1,2,1,1,0,1,0,1,1,1,2,1,1,1,0,70,Medium
+Smart Speaker,0,0,0,1,0,2,1,2,1,0,0,0,0,1,1,39,High
+Smart Lock,1,1,0,1,0,1,0,0,0,0,2,1,1,0,0,33,Critical
+Smart Lock,0,0,1,1,1,1,1,0,0,1,1,1,0,1,1,53,High
+Thermostat,1,2,1,2,1,2,1,1,1,1,1,1,1,1,1,94,Very Low
+Smart Speaker,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,29,Critical
+Camera,1,0,1,2,0,2,0,1,1,0,1,1,1,0,0,58,Medium
+Smart Sensor,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,62,Medium
+Thermostat,1,1,1,0,1,1,0,0,0,0,1,1,1,1,0,49,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,0,95,Very Low
+Camera,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Thermostat,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,0,2,0,1,0,2,0,0,1,0,1,0,0,0,1,34,Critical
+Smart Sensor,1,1,0,2,0,2,1,2,1,1,1,1,1,1,1,74,Medium
+Smart Sensor,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,18,Critical
+Smart Speaker,0,1,0,1,1,2,0,1,0,1,0,0,0,1,1,45,High
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Sensor,0,1,0,1,1,2,0,2,1,1,2,1,1,1,0,64,Medium
+Thermostat,0,1,1,0,0,1,1,1,1,1,2,0,0,0,1,49,High
+Smart Sensor,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Smart Sensor,0,1,0,2,0,2,1,1,0,0,2,1,0,0,1,41,High
+Camera,1,0,1,2,1,1,0,0,0,0,1,1,0,0,1,53,High
+Smart Lock,1,1,1,2,1,2,0,1,1,1,2,1,0,1,1,86,Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,16,Critical
+Smart Sensor,1,2,0,2,1,1,1,0,0,1,1,1,0,0,0,60,Medium
+Thermostat,1,0,1,0,1,2,0,0,0,0,1,1,1,1,0,49,High
+Smart Sensor,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,1,1,1,2,1,0,1,2,1,1,1,1,1,0,0,80,Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,1,0,1,0,0,0,0,0,1,1,1,0,1,0,26,Critical
+Thermostat,1,1,0,2,1,1,0,0,0,1,0,1,1,1,0,55,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Speaker,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1,34,Critical
+Thermostat,0,0,1,1,0,2,0,1,0,1,1,1,0,1,1,47,High
+Smart Lock,1,0,0,2,0,0,1,0,1,0,0,0,1,0,1,37,High
+Smart Speaker,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Camera,1,1,1,2,1,2,1,0,0,1,2,1,1,0,1,77,Low
+Smart Speaker,1,2,1,1,1,1,1,1,0,1,1,1,1,1,1,77,Low
+Camera,1,2,1,2,0,2,0,1,1,1,2,1,1,1,1,82,Low
+Smart Sensor,1,2,1,2,1,2,1,0,1,1,1,0,0,1,0,81,Low
+Smart Sensor,0,2,1,0,1,2,1,2,1,1,1,1,0,0,1,73,Medium
+Smart Speaker,0,1,1,0,0,0,0,0,0,1,2,0,0,0,0,26,Critical
+Camera,1,1,1,2,1,0,0,0,0,1,0,0,0,1,0,55,Medium
+Camera,1,2,0,0,1,1,1,1,0,0,2,0,1,0,0,46,High
+Smart Sensor,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Thermostat,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,15,Critical
+Thermostat,1,0,1,2,1,1,0,1,1,1,1,0,1,1,0,71,Medium
+Smart Lock,1,0,0,1,1,0,0,1,0,1,2,0,1,0,0,43,High
+Smart Lock,0,2,1,1,1,1,0,2,0,1,1,0,0,0,0,55,Medium
+Smart Speaker,1,2,0,1,0,1,1,1,1,1,2,1,1,1,1,67,Medium
+Smart Lock,1,2,1,2,0,1,1,1,1,1,2,0,1,1,1,78,Low
+Smart Lock,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,87,Low
+Smart Lock,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,7,Critical
+Smart Sensor,0,1,1,2,1,0,1,0,0,1,0,1,0,1,1,56,Medium
+Camera,1,2,1,1,1,1,1,1,0,1,0,1,1,1,1,75,Low
+Smart Lock,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,22,Critical
+Smart Speaker,0,1,0,1,1,1,0,2,0,1,2,1,1,0,1,52,High
+Thermostat,1,2,0,0,0,2,0,1,0,0,0,0,1,1,0,35,High
+Smart Speaker,1,1,0,1,1,2,0,2,1,1,0,0,0,1,1,67,Medium
+Smart Sensor,1,1,0,2,0,1,1,1,1,0,0,1,0,1,0,51,High
+Camera,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,0,1,2,0,2,1,1,1,1,1,1,1,0,1,73,Medium
+Camera,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,32,Critical
+Camera,1,1,1,0,1,2,1,1,1,1,2,1,0,1,1,80,Low
+Camera,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,16,Critical
+Smart Lock,1,0,0,1,0,2,1,1,0,1,1,1,0,1,0,48,High
+Smart Speaker,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,24,Critical
+Thermostat,1,1,0,2,0,1,1,0,1,1,1,0,0,0,0,50,High
+Smart Sensor,0,1,0,2,1,1,1,2,0,1,1,1,1,1,1,62,Medium
+Smart Sensor,1,0,0,0,0,2,1,0,1,1,1,1,0,0,0,44,High
+Camera,1,2,0,2,1,2,1,1,1,1,2,1,1,1,0,83,Low
+Camera,0,2,0,1,0,0,1,2,0,1,1,1,1,1,1,47,High
+Smart Speaker,1,2,1,2,1,2,0,1,1,1,2,1,0,0,1,87,Low
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,7,Critical
+Camera,1,0,1,2,1,2,1,0,0,1,2,0,1,1,1,72,Medium
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,7,Critical
+Smart Lock,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,17,Critical
+Smart Speaker,1,2,1,2,0,0,1,2,0,0,2,0,0,0,0,54,High
+Smart Speaker,1,2,1,2,1,2,0,1,0,1,2,1,1,1,1,84,Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Thermostat,1,0,0,0,1,1,1,0,0,0,0,0,0,1,0,31,Critical
+Thermostat,1,1,1,0,0,0,1,1,0,0,2,0,1,0,1,41,High
+Camera,1,0,1,1,0,0,1,1,0,0,2,1,1,0,1,46,High
+Smart Lock,0,2,0,2,1,2,1,1,1,1,1,1,0,1,0,69,Medium
+Smart Sensor,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,19,Critical
+Camera,1,1,0,1,0,1,1,0,0,1,2,0,1,1,1,47,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,2,1,2,1,2,1,2,1,0,1,1,0,1,1,88,Low
+Smart Lock,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,23,Critical
+Smart Lock,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,62,Medium
+Thermostat,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Sensor,1,1,0,1,1,2,1,2,0,0,2,1,0,0,1,60,Medium
+Smart Lock,0,1,1,1,1,0,0,1,0,1,1,1,1,1,0,52,High
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Thermostat,1,1,0,1,0,2,0,0,1,0,1,0,1,0,1,42,High
+Smart Speaker,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,25,Critical
+Smart Sensor,0,0,0,0,1,1,1,0,0,1,1,1,0,1,1,38,High
+Thermostat,1,2,1,2,0,0,0,1,0,1,1,1,0,1,1,62,Medium
+Smart Lock,1,2,0,2,1,2,1,2,1,1,1,1,0,1,1,86,Low
+Smart Sensor,1,2,1,2,0,1,1,2,0,1,2,1,1,1,1,78,Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,0,1,0,0,0,0,0,2,1,0,2,0,0,0,0,24,Critical
+Smart Speaker,1,2,1,1,1,2,0,1,1,0,2,0,0,0,1,70,Medium
+Smart Sensor,1,1,0,1,0,2,1,2,1,1,2,0,0,0,1,62,Medium
+Camera,1,1,1,0,0,2,1,2,1,1,2,0,1,1,1,72,Medium
+Smart Speaker,1,2,0,1,0,1,0,1,0,0,2,1,0,1,1,45,High
+Smart Sensor,0,2,0,1,1,0,0,0,1,1,1,1,1,1,0,50,High
+Smart Lock,0,2,1,1,0,2,0,2,1,0,0,1,0,1,1,57,Medium
+Thermostat,1,2,1,1,1,1,1,2,1,1,2,1,1,1,0,88,Low
+Camera,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,14,Critical
+Smart Sensor,1,0,0,1,0,0,0,0,0,1,1,0,0,1,1,31,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,33,Critical
+Smart Speaker,1,1,1,2,1,1,0,2,1,1,1,0,0,1,1,80,Low
+Camera,1,2,1,0,0,2,1,2,1,1,0,1,1,1,1,76,Low
+Smart Lock,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,27,Critical
+Smart Lock,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,27,Critical
+Smart Lock,1,1,1,1,0,2,0,2,1,0,2,0,0,0,1,60,Medium
+Thermostat,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,12,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Thermostat,0,1,1,1,0,1,1,0,0,0,2,0,0,0,1,34,Critical
+Smart Lock,0,1,1,1,1,2,0,1,1,0,2,1,1,0,1,62,Medium
+Smart Sensor,0,0,1,0,0,2,0,0,0,0,0,0,0,0,1,21,Critical
+Smart Sensor,0,1,1,1,1,2,0,1,1,1,1,1,0,1,1,69,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,2,1,2,1,0,1,2,1,1,0,1,0,1,1,86,Low
+Smart Lock,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0,11,Critical
+Smart Speaker,1,2,1,1,0,2,0,1,0,1,1,0,1,1,0,60,Medium
+Thermostat,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,24,Critical
+Thermostat,0,0,0,0,0,1,0,1,0,0,0,1,1,1,0,17,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Smart Sensor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,1,2,1,2,1,1,1,1,1,1,1,0,1,1,1,86,Low
+Smart Speaker,1,2,0,2,0,1,0,2,1,0,2,1,1,1,0,61,Medium
+Smart Lock,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Camera,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Camera,1,2,0,1,0,2,1,0,0,1,1,0,0,0,0,45,High
+Camera,1,2,1,2,0,2,0,0,1,1,1,1,0,1,1,74,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,18,Critical
+Camera,0,1,0,2,0,2,0,1,0,1,1,0,0,1,1,42,High
+Smart Sensor,1,1,1,2,0,0,0,1,1,0,2,0,1,0,1,55,Medium
+Smart Sensor,0,2,1,0,1,2,1,1,1,0,1,0,0,1,1,60,Medium
+Smart Lock,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,29,Critical
+Smart Speaker,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,15,Critical
+Smart Speaker,0,1,1,0,1,1,1,0,0,1,1,1,1,0,0,48,High
+Smart Sensor,0,2,1,1,1,2,1,2,0,1,0,1,1,0,1,70,Medium
+Smart Speaker,1,0,0,0,1,1,1,2,0,0,2,0,0,0,1,43,High
+Smart Sensor,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,47,High
+Smart Speaker,0,2,0,0,1,0,1,2,0,0,2,0,1,0,1,39,High
+Smart Sensor,1,1,0,0,0,0,1,2,1,0,2,1,1,0,1,47,High
+Smart Sensor,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8,Critical
+Smart Sensor,1,2,1,2,1,1,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Lock,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,16,Critical
+Thermostat,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,20,Critical
+Smart Lock,1,1,0,1,1,1,1,2,1,1,2,0,1,0,1,70,Medium
+Camera,1,2,0,2,0,1,0,2,0,1,1,0,1,0,1,55,Medium
+Smart Sensor,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,36,High
+Smart Lock,1,2,0,2,1,2,1,2,1,1,1,1,0,1,1,86,Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Thermostat,1,2,0,1,0,0,1,1,0,1,1,0,1,1,1,49,High
+Smart Sensor,0,2,0,1,0,1,1,0,1,0,1,0,0,1,0,34,Critical
+Thermostat,1,2,1,1,1,2,0,1,0,1,2,0,1,1,0,72,Medium
+Smart Sensor,0,1,0,2,1,1,0,0,0,1,1,0,1,0,1,43,High
+Camera,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,65,Medium
+Smart Lock,1,2,1,2,0,1,0,2,0,1,2,0,1,1,0,67,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Sensor,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,27,Critical
+Thermostat,1,1,0,2,0,2,0,0,0,0,1,1,0,1,0,41,High
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,0,2,1,1,1,0,1,1,1,0,0,0,0,0,1,52,High
+Thermostat,0,1,0,1,1,1,0,1,0,0,0,0,1,0,0,29,Critical
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,1,0,1,1,1,89,Low
+Smart Speaker,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Smart Sensor,0,0,0,0,0,0,0,1,1,0,2,0,1,1,1,24,Critical
+Smart Speaker,1,0,1,0,1,1,1,0,0,1,2,1,0,0,1,57,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Lock,0,1,0,0,1,1,1,1,0,0,1,0,1,1,0,33,Critical
+Smart Sensor,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,13,Critical
+Camera,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Smart Sensor,1,0,0,0,1,0,0,1,0,1,2,0,0,0,0,36,High
+Smart Speaker,1,2,0,2,1,0,1,1,1,1,1,0,1,1,0,69,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,28,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,0,0,0,0,0,0,1,71,Medium
+Smart Sensor,0,0,0,0,0,1,0,1,1,0,2,0,0,0,1,23,Critical
+Thermostat,1,0,0,1,0,1,1,2,0,0,0,0,1,0,0,33,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Lock,1,0,0,1,1,2,0,0,0,1,1,0,0,0,1,46,High
+Thermostat,1,2,1,2,0,2,1,1,0,0,1,1,1,0,0,62,Medium
+Thermostat,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,23,Critical
+Smart Lock,1,0,0,0,0,1,1,0,0,1,1,1,1,1,1,40,High
+Smart Speaker,1,2,1,0,1,2,1,2,0,0,1,1,0,1,1,70,Medium
+Thermostat,1,2,1,1,0,1,1,1,1,1,1,0,1,1,1,71,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,10,Critical
+Smart Lock,0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,29,Critical
+Smart Speaker,1,2,0,2,1,2,1,2,1,1,1,1,1,0,1,85,Low
+Smart Lock,0,2,1,2,1,1,1,2,1,1,2,1,1,0,1,83,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Smart Speaker,1,2,0,2,1,2,0,2,1,1,2,1,0,1,1,84,Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,32,Critical
+Thermostat,1,0,1,0,0,1,1,1,1,1,0,0,0,1,0,51,High
+Smart Sensor,1,1,0,1,0,1,1,2,1,0,0,1,0,1,0,50,High
+Smart Lock,0,2,0,2,0,1,1,0,1,1,1,1,0,0,1,51,High
+Smart Sensor,1,1,0,2,1,0,1,2,1,1,2,0,1,1,1,74,Medium
+Smart Sensor,1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,34,Critical
+Smart Lock,1,1,0,1,1,2,0,1,0,0,1,0,1,1,0,48,High
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,0,0,0,0,1,0,1,2,1,0,0,1,1,1,0,39,High
+Thermostat,1,0,0,1,0,1,1,2,1,0,1,1,1,1,1,53,High
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,2,1,1,1,0,0,2,1,0,0,1,1,1,1,71,Medium
+Camera,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,18,Critical
+Smart Speaker,0,0,1,1,0,1,0,1,0,1,1,0,1,0,0,35,High
+Camera,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Camera,0,2,1,2,1,1,1,2,1,1,2,1,0,1,1,84,Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,1,2,1,2,1,1,1,1,1,1,2,1,1,1,1,92,Very Low
+Camera,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,41,High
+Smart Speaker,1,2,0,0,1,0,0,0,0,0,2,1,1,0,0,38,High
+Smart Sensor,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,27,Critical
+Smart Lock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Camera,1,2,0,0,1,2,0,1,0,1,0,1,0,1,1,58,Medium
+Smart Sensor,1,2,0,2,0,1,1,0,1,0,1,1,0,0,0,50,High
+Smart Sensor,1,2,1,1,1,0,0,1,1,1,2,0,1,0,1,72,Medium
+Camera,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,12,Critical
+Camera,1,2,1,1,0,2,1,1,1,1,1,0,0,1,1,73,Medium
+Thermostat,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,7,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,2,0,1,0,2,1,1,0,0,1,1,0,1,1,51,High
+Smart Lock,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,8,Critical
+Smart Lock,1,1,0,2,0,1,0,2,1,1,2,1,0,0,1,63,Medium
+Smart Lock,0,1,0,1,0,2,1,0,0,0,1,1,1,0,0,29,Critical
+Camera,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Smart Lock,0,1,1,2,1,2,0,1,1,1,2,1,0,0,1,73,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Smart Speaker,1,2,0,2,1,0,1,2,1,1,0,1,1,0,1,75,Low
+Smart Lock,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,93,Very Low
+Smart Sensor,1,2,1,1,1,1,0,1,1,1,1,0,1,1,1,77,Low
+Thermostat,0,0,0,0,1,2,0,1,0,1,1,0,1,0,0,34,Critical
+Smart Lock,1,1,1,2,0,2,1,2,1,1,2,1,0,0,1,81,Low
+Smart Lock,1,2,1,1,0,2,1,1,0,0,1,1,0,1,0,58,Medium
+Smart Lock,0,0,1,1,0,2,0,0,0,0,1,0,0,0,1,28,Critical
+Smart Lock,1,0,0,2,0,0,1,1,1,1,2,0,0,1,0,51,High
+Smart Sensor,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,0,93,Very Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Lock,1,1,1,2,1,1,0,1,1,0,2,0,1,0,1,69,Medium
+Camera,1,2,1,1,1,2,1,2,1,1,0,0,0,1,1,85,Low
+Smart Speaker,0,1,0,0,0,0,0,2,1,0,0,0,0,0,1,23,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,1,1,0,0,1,0,1,1,1,2,0,1,1,0,57,Medium
+Smart Speaker,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Thermostat,1,2,1,2,1,2,0,2,0,1,2,1,1,1,1,88,Low
+Smart Speaker,0,0,0,0,0,1,0,0,0,1,2,0,0,0,1,19,Critical
+Smart Speaker,0,0,1,2,0,1,0,0,0,1,1,0,0,1,0,37,High
+Smart Sensor,1,1,1,2,1,1,1,1,0,1,1,0,1,0,0,68,Medium
+Smart Sensor,1,2,0,2,1,0,1,0,1,1,1,1,0,0,1,67,Medium
+Camera,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,15,Critical
+Smart Sensor,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,25,Critical
+Thermostat,0,1,1,2,0,1,1,0,1,0,0,1,1,0,0,46,High
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Lock,1,2,1,2,0,2,1,2,0,1,2,1,0,0,1,77,Low
+Thermostat,0,2,0,0,0,0,1,0,0,0,0,0,1,0,0,14,Critical
+Thermostat,0,0,1,0,0,1,1,2,0,0,1,0,1,0,0,30,Critical
+Smart Sensor,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,13,Critical
+Smart Sensor,1,2,1,2,0,2,1,1,0,0,2,1,1,0,1,67,Medium
+Smart Speaker,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,13,Critical
+Smart Speaker,1,2,0,1,0,0,1,0,1,0,0,0,0,0,1,38,High
+Smart Sensor,0,0,1,1,1,0,0,0,1,0,1,1,0,1,0,42,High
+Smart Speaker,1,2,1,1,0,2,1,1,1,0,0,0,1,0,0,59,Medium
+Smart Sensor,1,2,1,2,1,2,1,1,0,1,2,1,1,0,1,85,Low
+Smart Speaker,0,0,1,1,0,2,0,2,1,0,1,1,1,1,1,53,High
+Smart Sensor,1,2,1,1,1,2,1,1,1,0,1,0,0,0,0,69,Medium
+Camera,1,2,1,2,1,0,1,2,0,1,2,1,1,1,0,81,Low
+Smart Lock,1,1,1,2,1,2,1,2,1,1,2,1,1,0,1,93,Very Low
+Smart Speaker,1,0,0,1,0,0,0,2,1,0,2,1,0,0,0,39,High
+Thermostat,1,0,0,0,0,1,1,1,1,1,1,0,1,1,1,48,High
+Smart Lock,1,1,0,0,0,2,1,1,1,1,2,0,1,1,1,58,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,30,Critical
+Thermostat,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,16,Critical
+Smart Speaker,1,0,1,1,1,0,0,2,1,1,2,0,0,0,0,63,Medium
+Smart Sensor,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,11,Critical
+Thermostat,1,2,0,2,1,1,0,1,1,0,2,0,1,0,1,63,Medium
+Smart Lock,0,2,1,2,1,2,1,2,1,0,2,1,1,0,0,76,Low
+Smart Speaker,1,0,0,0,0,0,0,2,0,0,2,0,0,0,0,22,Critical
+Smart Lock,1,0,1,1,1,0,1,1,1,1,1,0,0,0,0,61,Medium
+Smart Lock,1,0,0,2,1,0,1,1,1,0,1,0,0,0,0,48,High
+Smart Sensor,1,2,1,1,1,1,1,2,1,1,2,1,1,1,0,88,Low
+Camera,0,1,1,0,0,1,1,2,0,1,2,1,0,1,0,49,High
+Thermostat,1,1,1,2,1,2,1,2,1,1,2,1,0,1,0,91,Very Low
+Thermostat,1,2,1,2,1,2,1,2,0,1,2,1,1,1,1,92,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,2,1,2,0,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Camera,0,2,0,2,0,1,0,2,1,1,2,1,1,1,0,59,Medium
+Smart Sensor,1,1,1,2,1,1,1,2,0,1,2,0,1,1,1,80,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Smart Sensor,1,1,0,2,1,1,0,1,1,1,0,0,0,1,0,61,Medium
+Camera,1,2,0,2,1,0,1,1,0,1,0,0,1,1,0,59,Medium
+Camera,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,16,Critical
+Smart Lock,0,2,1,1,0,0,1,1,1,1,1,0,0,0,1,52,High
+Camera,1,2,1,1,1,2,1,2,1,0,2,1,1,1,0,84,Low
+Smart Speaker,1,1,0,1,1,0,0,0,0,0,0,1,1,1,1,41,High
+Smart Sensor,0,0,0,2,0,1,0,1,1,0,0,0,1,1,0,31,Critical
+Smart Lock,1,2,1,1,1,2,1,2,0,0,2,1,1,1,1,79,Low
+Smart Lock,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,93,Very Low
+Smart Lock,1,0,1,1,0,2,1,2,1,0,1,1,0,1,0,62,Medium
+Smart Speaker,1,0,1,2,1,1,0,1,1,0,2,1,0,0,1,67,Medium
+Thermostat,1,2,0,1,1,1,1,1,0,0,2,1,0,1,0,56,Medium
+Smart Lock,1,1,0,1,1,1,0,1,0,1,1,0,0,1,0,50,High
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6,Critical
+Smart Sensor,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,Critical
+Thermostat,0,1,0,0,0,0,1,1,0,0,0,0,0,1,1,18,Critical
+Smart Speaker,0,0,1,2,0,1,0,0,0,0,2,0,0,1,0,31,Critical
+Camera,1,2,1,2,1,1,1,1,1,0,2,0,0,1,1,78,Low
+Camera,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,18,Critical
+Smart Speaker,1,0,1,0,1,0,0,1,1,1,1,0,1,1,0,57,Medium
+Smart Lock,1,0,1,0,1,0,1,2,0,1,2,1,1,0,0,60,Medium
+Smart Lock,0,0,1,2,1,1,1,0,1,0,1,0,0,0,1,51,High
+Thermostat,0,1,0,1,1,1,0,1,1,1,1,1,1,1,0,54,High
+Thermostat,1,2,1,1,1,2,1,2,1,1,2,1,1,0,1,92,Very Low
+Thermostat,1,0,0,2,0,1,0,1,0,0,2,1,0,1,0,39,High
+Smart Sensor,1,2,0,0,1,2,0,1,1,1,1,1,1,1,0,67,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,0,1,1,1,96,Very Low
+Camera,1,2,1,2,1,1,1,2,1,1,2,1,0,0,1,91,Very Low
+Smart Speaker,0,0,1,0,0,2,1,1,1,1,1,0,1,1,0,49,High
+Camera,0,1,0,1,0,1,0,1,0,1,1,1,0,1,1,37,High
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,Critical
+Thermostat,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,19,Critical
+Smart Speaker,1,1,1,2,1,2,1,2,1,1,2,1,1,1,0,93,Very Low
+Smart Sensor,1,2,0,1,1,2,1,1,0,0,1,0,1,1,0,56,Medium
+Smart Sensor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Smart Lock,1,1,1,2,1,2,1,1,1,1,2,0,0,1,1,86,Low
+Camera,1,2,1,2,1,1,1,2,1,1,2,1,0,1,1,94,Very Low
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Smart Lock,1,1,0,2,0,0,0,2,1,0,0,0,1,1,1,48,High
+Smart Speaker,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Lock,1,2,1,2,1,2,1,1,1,1,1,1,1,1,1,94,Very Low
+Smart Sensor,1,1,1,2,1,2,0,2,0,1,1,0,1,1,1,78,Low
+Camera,1,2,1,2,0,2,1,2,1,1,2,1,0,0,0,82,Low
+Smart Lock,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,11,Critical
+Camera,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,14,Critical
+Thermostat,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Smart Speaker,1,1,1,2,1,1,1,2,1,1,2,0,1,1,0,85,Low
+Smart Lock,0,1,0,0,0,0,0,2,1,0,1,0,1,0,0,24,Critical
+Smart Speaker,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0,25,Critical
+Smart Sensor,1,0,0,2,0,0,0,1,0,1,2,0,1,0,0,38,High
+Camera,1,2,1,2,1,1,1,2,1,0,2,1,1,1,1,88,Low
+Smart Sensor,0,2,1,2,1,1,0,1,0,1,1,1,1,1,0,65,Medium
+Smart Lock,0,1,0,1,1,0,1,1,1,1,2,1,1,1,1,59,Medium
+Smart Sensor,1,1,0,1,0,0,1,1,1,1,1,0,1,1,0,50,High
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Speaker,0,0,0,1,1,0,0,0,1,0,2,0,0,0,1,30,Critical
+Smart Speaker,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,0,1,2,1,1,1,1,1,1,2,0,0,1,0,75,Low
+Smart Speaker,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,2,0,2,0,1,0,0,1,0,1,0,0,0,0,32,Critical
+Camera,1,1,1,2,1,1,1,2,1,0,2,1,0,0,0,76,Low
+Thermostat,0,2,1,1,1,1,0,2,0,1,1,0,0,0,1,58,Medium
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Critical
+Smart Sensor,1,2,0,0,0,0,1,2,1,0,2,0,1,0,0,44,High
+Thermostat,0,0,1,1,1,1,1,2,0,1,1,1,1,0,0,57,Medium
+Smart Lock,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,13,Critical
+Camera,1,2,1,2,1,0,1,1,1,1,2,0,1,0,1,81,Low
+Thermostat,1,2,1,2,1,2,1,2,0,1,1,0,1,0,1,83,Low
+Thermostat,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Smart Lock,1,2,0,2,1,1,1,2,0,1,2,1,1,1,1,78,Low
+Smart Lock,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,20,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,12,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,0,1,2,1,1,1,2,1,1,2,1,1,1,1,88,Low
+Thermostat,1,2,0,1,1,2,1,0,1,1,1,0,1,0,1,68,Medium
+Camera,0,2,0,2,1,1,1,2,1,1,2,0,1,1,1,72,Medium
+Smart Speaker,0,1,0,2,1,1,0,0,1,0,1,1,0,0,1,45,High
+Thermostat,0,0,0,1,1,2,1,2,0,0,2,0,1,0,0,41,High
+Thermostat,1,2,1,2,0,2,0,1,1,0,2,0,0,1,0,65,Medium
+Smart Speaker,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,1,1,2,1,1,1,0,0,0,2,0,1,1,0,61,Medium
+Smart Lock,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,17,Critical
+Camera,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,15,Critical
+Smart Sensor,1,1,1,1,0,2,1,1,1,1,1,0,1,0,1,68,Medium
+Camera,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,32,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,2,1,2,0,2,1,0,1,1,2,0,1,1,0,75,Low
+Smart Lock,1,1,0,0,0,1,1,1,0,1,1,0,1,0,0,38,High
+Thermostat,0,1,1,1,1,1,1,2,1,1,1,0,1,1,0,68,Medium
+Smart Speaker,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,8,Critical
+Thermostat,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,7,Critical
+Smart Sensor,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,16,Critical
+Smart Lock,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,24,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,0,1,0,95,Very Low
+Smart Speaker,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,1,1,1,2,1,1,0,1,0,0,2,1,1,1,0,65,Medium
+Smart Lock,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,32,Critical
+Thermostat,1,2,1,2,0,0,1,1,1,0,1,0,1,1,1,64,Medium
+Smart Lock,0,2,0,2,0,0,1,0,0,1,1,0,1,1,1,40,High
+Smart Sensor,1,0,1,0,0,0,0,0,0,1,2,0,0,0,1,35,High
+Thermostat,0,0,1,0,1,0,0,2,1,0,0,0,0,0,0,36,High
+Camera,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6,Critical
+Smart Speaker,0,2,0,1,0,0,1,1,0,0,0,0,1,1,0,26,Critical
+Smart Speaker,1,1,0,0,0,2,0,1,1,0,2,1,1,0,1,47,High
+Smart Sensor,1,0,0,1,1,0,0,2,0,0,2,1,1,0,0,43,High
+Thermostat,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,21,Critical
+Smart Speaker,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,6,Critical
+Smart Sensor,0,0,0,0,0,0,0,2,1,0,0,1,0,1,1,26,Critical
+Camera,1,1,0,1,1,1,0,1,1,1,1,0,1,1,0,60,Medium
+Camera,0,2,1,2,1,2,1,2,1,1,2,1,1,1,0,87,Low
+Smart Speaker,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,6,Critical
+Smart Sensor,1,0,1,0,0,0,0,1,0,0,2,0,0,0,0,28,Critical
+Smart Speaker,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,20,Critical
+Smart Speaker,1,1,0,0,0,0,0,2,0,0,0,0,1,1,1,30,Critical
+Smart Sensor,0,2,1,1,0,1,1,2,1,0,2,1,1,1,0,60,Medium
+Smart Sensor,0,2,0,1,1,1,1,1,0,0,1,0,0,0,1,40,High
+Camera,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10,Critical
+Smart Speaker,0,2,0,2,0,2,1,2,1,0,2,1,1,0,0,56,Medium
+Smart Lock,1,1,0,1,1,0,1,2,1,1,2,1,1,0,1,70,Medium
+Smart Sensor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Critical
+Smart Speaker,1,1,0,0,1,2,0,2,1,1,2,1,0,0,0,64,Medium
+Camera,1,1,1,2,0,1,1,1,0,0,0,0,0,0,0,46,High
+Smart Lock,1,2,0,2,1,2,0,2,1,0,1,1,1,1,1,76,Low
+Thermostat,1,1,0,0,1,1,0,2,1,1,0,0,0,1,0,55,Medium
+Camera,1,2,1,2,1,2,0,2,0,1,1,0,1,1,1,82,Low
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,2,0,2,1,0,1,2,1,1,2,1,0,0,0,74,Medium
+Thermostat,1,2,1,2,1,2,1,1,0,1,1,0,1,1,1,82,Low
+Thermostat,1,2,1,1,1,2,1,2,1,0,2,1,1,1,1,87,Low
+Smart Sensor,0,0,1,1,1,1,1,0,1,0,2,0,0,1,1,51,High
+Smart Sensor,1,1,0,2,0,0,0,2,0,1,1,0,1,0,1,47,High
+Thermostat,1,2,1,1,1,1,1,1,1,0,1,0,1,1,0,70,Medium
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,0,1,0,0,86,Low
+Camera,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,24,Critical
+Smart Speaker,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,61,Medium
+Smart Sensor,0,1,0,0,1,2,1,2,1,0,2,0,0,1,1,52,High
+Smart Lock,1,1,0,2,0,0,1,1,1,1,1,0,0,1,0,53,High
+Camera,0,1,0,0,1,0,0,1,1,1,0,0,1,1,1,42,High
+Smart Lock,1,2,1,2,0,2,1,2,0,0,2,1,1,1,0,71,Medium
+Camera,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,24,Critical
+Thermostat,1,2,0,1,1,1,0,1,1,1,0,0,0,0,0,57,Medium
+Smart Speaker,0,2,1,2,0,1,0,0,1,1,2,0,1,1,0,57,Medium
+Thermostat,0,0,0,0,1,2,0,0,0,1,1,1,0,0,0,32,Critical
+Smart Lock,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,12,Critical
+Thermostat,1,0,1,2,1,2,1,1,1,1,1,0,0,1,1,80,Low
+Camera,0,2,0,1,1,1,0,0,0,1,1,0,0,1,0,40,High
+Thermostat,0,1,0,0,0,1,1,0,0,0,2,1,0,0,0,20,Critical
+Camera,1,2,1,0,0,1,0,0,1,1,0,0,0,0,1,51,High
+Thermostat,1,2,1,0,0,1,1,0,1,1,0,0,1,0,0,54,High
+Camera,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,2,1,1,1,0,1,0,1,0,2,0,1,0,1,54,High
+Smart Speaker,0,2,1,2,1,0,0,1,1,1,0,1,1,1,0,67,Medium
+Thermostat,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,11,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Thermostat,1,0,1,1,1,0,0,0,0,1,2,0,0,0,0,47,High
+Camera,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,8,Critical
+Camera,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,18,Critical
+Smart Lock,1,2,0,2,0,2,1,2,1,1,1,1,1,1,1,78,Low
+Smart Sensor,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,10,Critical
+Smart Speaker,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,24,Critical
+Smart Lock,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,55,Medium
+Smart Speaker,1,2,1,2,1,2,0,1,1,1,2,1,1,0,1,89,Low
+Camera,0,2,1,0,0,1,1,1,1,1,0,0,0,0,0,46,High
+Smart Sensor,1,1,1,1,1,1,0,2,1,0,1,0,1,0,1,66,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Sensor,1,2,1,1,1,2,1,1,1,1,2,1,1,1,1,91,Very Low
+Smart Sensor,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,26,Critical
+Smart Speaker,1,2,0,1,1,1,0,1,1,1,1,1,0,1,0,66,Medium
+Thermostat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,8,Critical
+Smart Speaker,0,2,1,1,1,0,0,0,0,1,0,0,1,0,0,43,High
+Smart Sensor,1,1,0,1,0,0,0,0,0,1,2,0,0,0,1,34,Critical
+Smart Speaker,0,1,0,1,0,1,1,1,1,1,2,0,0,1,0,44,High
+Camera,1,2,1,2,0,2,1,2,0,1,2,1,1,1,1,82,Low
+Smart Speaker,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,8,Critical
+Smart Speaker,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,10,Critical
+Camera,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,18,Critical
+Thermostat,1,2,1,2,1,1,0,0,0,0,1,1,1,1,0,63,Medium
+Smart Lock,1,1,1,2,0,0,0,1,0,0,1,1,0,0,0,44,High
+Smart Speaker,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,15,Critical
+Smart Lock,0,2,0,2,1,1,0,1,1,1,0,0,0,0,0,52,High
+Smart Sensor,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,30,Critical
+Smart Speaker,1,1,1,2,1,1,0,2,0,1,1,0,0,0,0,66,Medium
+Smart Sensor,1,2,1,1,1,1,1,2,1,1,1,1,1,0,1,86,Low
+Smart Speaker,0,0,0,2,1,0,0,2,1,1,1,1,0,1,0,53,High
+Camera,1,2,1,2,0,2,0,2,1,0,2,0,1,1,1,74,Medium
+Thermostat,1,0,0,0,0,2,0,1,1,0,1,0,1,1,1,40,High
+Camera,0,0,0,2,0,0,1,0,1,1,0,1,0,0,1,37,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,23,Critical
+Thermostat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Lock,1,2,1,2,0,2,1,2,1,1,1,1,0,1,1,86,Low
+Thermostat,1,0,1,0,0,0,0,1,1,1,1,0,0,0,1,45,High
+Smart Lock,1,0,0,1,0,0,1,0,1,0,1,1,0,1,0,36,High
+Smart Lock,1,2,0,1,0,0,1,2,0,0,2,0,0,0,0,39,High
+Smart Sensor,1,2,1,2,1,1,1,2,0,1,2,1,1,1,1,88,Low
+Camera,0,2,1,2,1,1,0,1,0,1,1,0,0,0,0,56,Medium
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,2,1,2,1,1,0,1,1,1,2,1,1,1,1,88,Low
+Smart Speaker,1,0,1,2,1,2,1,1,0,0,1,1,1,1,0,67,Medium
+Smart Lock,1,1,0,1,0,2,0,1,1,0,0,0,0,1,0,42,High
+Smart Sensor,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,36,High
+Smart Sensor,0,2,0,1,1,1,1,1,1,0,1,1,1,0,1,54,High
+Thermostat,0,2,1,0,1,2,1,2,1,1,1,1,1,1,1,78,Low
+Smart Sensor,0,1,0,2,1,1,1,2,1,1,2,1,0,1,0,67,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,0,1,0,95,Very Low
+Camera,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,28,Critical
+Smart Speaker,0,1,1,2,1,2,1,2,1,0,1,1,1,1,0,73,Medium
+Smart Lock,1,1,1,2,0,2,0,1,1,1,1,0,1,1,0,69,Medium
+Smart Speaker,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,17,Critical
+Smart Sensor,0,2,1,2,0,0,0,1,0,0,2,0,1,1,0,41,High
+Smart Sensor,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Camera,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1,35,High
+Smart Lock,1,2,1,1,1,2,1,2,1,1,2,1,1,1,1,95,Very Low
+Smart Sensor,1,1,1,2,0,0,0,1,1,0,1,1,1,1,0,57,Medium
+Camera,1,1,1,2,1,1,0,2,0,0,1,1,0,0,1,65,Medium
+Smart Lock,0,1,0,1,0,2,0,1,0,1,1,1,1,0,1,40,High
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Lock,0,2,0,2,0,2,1,2,1,0,1,1,0,1,1,58,Medium
+Smart Lock,1,2,1,1,1,2,1,2,1,0,1,0,1,1,1,81,Low
+Smart Speaker,1,2,0,2,1,1,0,2,1,0,2,1,1,1,0,71,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,0,0,1,0,91,Very Low
+Thermostat,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,14,Critical
+Camera,0,0,0,2,1,1,0,1,0,1,1,1,1,0,0,44,High
+Smart Speaker,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,27,Critical
+Smart Speaker,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Camera,1,1,1,2,1,2,1,2,1,0,2,1,1,1,1,88,Low
+Smart Sensor,1,2,1,2,1,2,1,1,1,0,1,0,0,0,1,77,Low
+Camera,1,2,0,2,0,1,1,1,0,1,2,1,1,0,1,61,Medium
+Camera,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,14,Critical
+Camera,1,1,0,0,1,0,1,1,1,1,2,0,1,0,1,57,Medium
+Camera,1,0,0,1,0,0,1,1,1,0,2,1,0,1,1,45,High
+Thermostat,1,0,1,2,0,1,1,1,0,1,2,1,0,0,0,58,Medium
+Smart Sensor,0,0,0,1,0,1,0,0,1,0,2,0,0,1,0,24,Critical
+Smart Lock,1,0,0,1,1,1,0,1,1,1,1,1,0,0,1,58,Medium
+Smart Sensor,1,2,1,2,1,2,1,1,1,1,2,1,1,0,1,93,Very Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,Critical
+Camera,0,1,1,1,1,2,1,2,0,1,2,0,1,0,0,63,Medium
+Smart Sensor,1,2,1,2,1,2,0,1,1,1,1,0,1,1,0,83,Low
+Thermostat,1,2,1,2,1,1,1,2,1,1,2,1,1,1,0,93,Very Low
+Camera,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Camera,1,2,0,2,1,2,1,1,1,1,1,1,1,1,1,84,Low
+Camera,0,1,0,0,0,0,0,0,0,1,2,0,1,1,0,21,Critical
+Smart Lock,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,7,Critical
+Thermostat,0,1,1,2,1,0,1,0,1,0,2,1,1,1,1,62,Medium
+Camera,1,0,0,1,0,0,1,0,0,1,2,0,0,0,0,31,Critical
+Smart Sensor,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,14,Critical
+Thermostat,0,2,0,1,0,2,0,2,1,0,2,0,1,0,0,43,High
+Smart Lock,0,2,1,1,1,1,1,2,1,0,2,1,0,0,0,65,Medium
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Lock,1,1,1,0,1,1,0,0,0,1,0,1,0,0,1,53,High
+Smart Speaker,1,0,0,1,0,0,1,1,0,0,0,0,1,0,1,28,Critical
+Thermostat,1,1,1,2,0,1,0,0,1,0,0,1,1,0,1,55,Medium
+Smart Lock,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8,Critical
+Camera,1,2,0,2,1,2,1,1,1,1,2,1,1,1,1,86,Low
+Thermostat,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,22,Critical
+Smart Lock,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,4,Critical
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,1,2,1,1,1,2,1,2,1,0,2,1,0,1,1,85,Low
+Thermostat,0,1,1,2,1,0,1,2,1,1,2,1,0,1,0,73,Medium
+Smart Lock,1,0,0,0,1,1,0,0,0,0,1,0,1,0,0,28,Critical
+Thermostat,1,0,0,0,1,1,0,0,0,1,0,0,1,1,1,40,High
+Smart Lock,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,20,Critical
+Smart Lock,0,2,0,0,0,1,0,1,0,1,0,1,0,1,1,34,Critical
+Smart Speaker,1,2,1,2,1,2,0,2,1,0,2,1,1,1,1,88,Low
+Camera,1,0,0,1,1,0,1,2,0,1,0,0,0,0,1,48,High
+Thermostat,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Sensor,0,0,1,2,0,0,1,0,0,0,2,0,1,0,1,33,Critical
+Camera,0,0,1,0,0,2,0,0,0,0,2,0,0,1,1,28,Critical
+Smart Sensor,1,2,1,1,1,2,1,2,1,1,2,1,1,1,0,92,Very Low
+Smart Speaker,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,93,Very Low
+Smart Sensor,1,1,0,0,0,2,0,1,1,1,0,1,1,1,1,54,High
+Thermostat,0,0,1,1,0,2,0,0,0,0,2,1,0,0,1,34,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,24,Critical
+Camera,0,0,1,1,0,1,0,0,1,1,0,0,0,0,1,38,High
+Smart Sensor,0,1,0,1,1,0,0,1,1,1,1,1,0,1,1,51,High
+Camera,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,18,Critical
+Smart Sensor,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,10,Critical
+Smart Lock,1,2,0,1,1,0,1,2,1,1,1,1,0,1,0,70,Medium
+Smart Speaker,1,0,0,0,1,0,1,1,1,0,2,1,1,0,0,46,High
+Smart Sensor,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,28,Critical
+Smart Lock,1,2,1,2,1,0,0,0,0,1,2,1,0,1,1,70,Medium
+Camera,1,1,0,2,1,2,1,1,0,1,2,0,1,1,1,70,Medium
+Smart Speaker,1,1,0,0,0,1,1,0,0,1,1,0,1,1,0,37,High
+Thermostat,1,2,1,1,1,2,1,2,1,0,1,0,0,1,1,79,Low
+Smart Sensor,1,2,1,1,1,2,1,2,0,0,1,1,1,1,1,77,Low
+Camera,1,2,0,2,0,1,1,1,1,1,0,1,1,1,1,68,Medium
+Smart Lock,1,1,0,1,0,2,1,1,1,1,2,1,0,1,0,62,Medium
+Smart Lock,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,14,Critical
+Thermostat,1,2,1,1,1,1,1,2,1,1,1,1,1,0,1,86,Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Critical
+Smart Sensor,1,0,0,0,0,2,0,2,0,1,2,0,0,0,0,38,High
+Smart Speaker,1,1,1,2,0,1,1,2,1,1,2,0,0,1,0,73,Medium
+Smart Sensor,1,1,0,1,0,2,0,2,1,1,1,1,1,1,1,65,Medium
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,10,Critical
+Smart Lock,1,1,0,1,1,1,1,2,1,1,1,1,1,0,1,72,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,1,1,0,0,0,1,1,0,0,0,1,1,1,0,1,33,Critical
+Smart Speaker,1,2,1,1,1,1,0,2,1,1,2,1,1,1,1,87,Low
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,0,1,1,1,92,Very Low
+Thermostat,1,2,0,1,0,0,1,1,0,0,0,0,1,1,0,36,High
+Camera,1,0,0,0,1,2,1,2,1,1,2,0,0,1,0,63,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,1,2,0,1,0,0,1,0,1,1,0,1,0,1,1,53,High
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,1,1,1,1,1,98,Very Low
+Smart Speaker,0,1,1,1,0,1,1,2,0,0,0,0,0,1,0,38,High
+Smart Sensor,1,1,0,2,1,0,0,2,0,1,1,0,0,1,1,58,Medium
+Smart Speaker,0,0,0,1,1,2,1,1,0,1,2,0,1,1,0,48,High
+Smart Lock,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,0,1,2,1,0,0,1,87,Low
+Smart Sensor,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,7,Critical
+Smart Sensor,1,2,1,0,1,1,1,1,0,1,1,1,1,1,1,72,Medium
+Thermostat,1,0,0,0,0,1,1,0,0,0,0,1,0,1,1,28,Critical
+Smart Speaker,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,19,Critical
+Camera,1,2,1,2,1,1,0,2,1,1,1,1,1,1,1,90,Very Low
+Smart Speaker,0,2,0,2,1,2,1,2,1,1,0,0,1,1,1,72,Medium
+Thermostat,0,1,1,0,1,0,1,1,1,0,1,0,1,1,0,47,High
+Camera,0,1,0,0,0,1,1,2,0,0,0,0,0,0,0,20,Critical
+Smart Lock,1,2,1,2,1,0,1,2,1,1,1,1,0,1,1,88,Low
+Thermostat,0,2,0,1,0,0,0,1,1,1,2,1,1,1,1,49,High
+Smart Speaker,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,8,Critical
+Camera,1,1,0,0,0,2,0,0,0,1,1,1,0,1,1,42,High
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,2,0,1,1,1,0,0,0,1,0,1,0,1,0,42,High
+Smart Speaker,1,2,1,2,1,2,0,2,1,1,2,1,0,1,1,94,Very Low
+Smart Sensor,1,2,1,2,1,1,0,1,1,1,2,0,1,1,1,84,Low
+Smart Speaker,0,1,0,1,1,2,0,2,1,1,0,1,0,1,1,61,Medium
+Smart Lock,1,1,0,1,1,2,1,2,0,1,0,1,1,0,1,66,Medium
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,1,0,2,1,1,0,2,0,1,2,1,1,1,1,70,Medium
+Camera,1,2,1,2,1,1,1,2,0,1,1,1,0,1,0,81,Low
+Smart Speaker,0,2,0,2,0,2,1,0,1,1,1,1,1,1,0,57,Medium
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,Critical
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,Critical
+Smart Sensor,0,1,1,1,0,2,1,1,0,0,1,0,1,1,0,42,High
+Smart Lock,1,1,1,2,1,2,1,1,1,0,1,1,1,1,1,82,Low
+Smart Speaker,0,1,0,1,0,2,1,2,1,1,1,0,1,0,1,52,High
+Camera,1,2,0,0,1,1,1,2,0,0,0,1,1,1,0,53,High
+Thermostat,0,1,0,1,0,0,0,1,0,0,2,1,0,0,0,21,Critical
+Smart Sensor,0,2,1,0,1,1,0,2,1,0,2,0,1,1,1,60,Medium
+Thermostat,0,1,0,1,1,2,0,1,0,1,1,0,0,1,1,47,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,1,1,1,1,1,1,1,1,1,1,2,0,1,0,1,76,Low
+Thermostat,0,0,1,0,1,1,1,2,0,0,1,1,1,0,0,44,High
+Smart Sensor,1,0,1,1,0,0,1,0,0,0,1,1,1,1,0,40,High
+Camera,1,0,1,1,0,1,1,1,1,1,2,0,1,0,0,59,Medium
+Camera,1,2,0,2,1,1,1,1,1,1,1,1,1,1,1,80,Low
+Smart Lock,1,1,0,2,1,0,0,0,0,0,1,0,0,1,1,42,High
+Smart Speaker,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,23,Critical
+Smart Lock,1,1,0,0,1,0,0,2,0,0,2,0,0,0,1,39,High
+Camera,0,2,1,2,1,1,0,2,1,1,2,0,1,1,1,78,Low
+Thermostat,1,2,1,1,1,0,1,0,0,0,2,1,1,1,0,60,Medium
+Camera,1,1,0,1,0,2,0,1,1,1,1,1,0,1,0,56,Medium
+Smart Speaker,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,12,Critical
+Smart Sensor,1,1,0,2,1,2,1,1,0,1,2,1,1,1,0,71,Medium
+Thermostat,0,0,0,1,1,1,0,0,0,1,1,1,1,0,1,38,High
+Smart Speaker,1,2,0,0,1,2,1,1,1,1,2,1,0,1,1,74,Medium
+Thermostat,1,2,0,1,1,2,1,2,1,1,1,1,1,1,1,83,Low
+Smart Lock,0,1,0,0,1,0,1,1,1,0,1,0,0,0,0,32,Critical
+Camera,1,2,0,1,1,1,0,0,1,0,1,1,1,0,0,53,High
+Thermostat,1,1,0,0,1,0,1,0,1,1,2,1,1,1,0,57,Medium
+Smart Lock,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,0,1,0,1,1,2,0,1,1,0,1,0,0,1,0,44,High
+Smart Sensor,1,0,1,0,1,2,0,1,0,0,2,1,0,1,1,56,Medium
+Thermostat,1,1,1,2,1,0,1,1,1,1,1,0,1,1,0,75,Low
+Smart Lock,1,2,1,2,0,2,1,1,0,0,1,1,0,0,0,60,Medium
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,1,1,1,2,1,0,0,1,1,1,2,1,1,1,1,80,Low
+Smart Speaker,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0,33,Critical
+Camera,1,2,0,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Lock,1,1,0,0,0,1,0,2,0,0,1,0,0,0,1,31,Critical
+Camera,1,1,1,2,1,2,1,1,1,1,2,0,1,0,1,85,Low
+Smart Lock,0,2,1,2,1,2,1,2,1,1,1,1,1,0,1,85,Low
+Smart Speaker,1,1,1,2,1,2,1,1,1,1,2,1,1,1,0,89,Low
+Thermostat,0,0,0,1,1,1,0,2,1,0,0,0,0,1,0,38,High
+Smart Lock,1,0,1,2,1,2,0,0,1,1,2,1,1,1,1,80,Low
+Thermostat,0,0,1,1,1,2,0,0,1,0,0,1,0,1,0,48,High
+Camera,1,1,1,2,1,2,1,2,1,1,1,1,1,1,1,94,Very Low
+Smart Lock,1,2,1,2,1,0,1,2,1,1,1,0,1,1,0,83,Low
+Thermostat,1,2,1,2,1,2,0,0,0,0,1,0,1,0,0,60,Medium
+Smart Speaker,0,0,0,1,0,0,1,2,1,1,1,1,0,0,0,39,High
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Sensor,0,1,1,2,1,1,1,2,1,1,2,1,0,0,1,77,Low
+Smart Speaker,1,1,1,2,1,2,1,2,1,0,2,1,1,1,1,88,Low
+Smart Lock,0,1,0,1,0,1,1,1,0,0,1,0,1,0,1,28,Critical
+Smart Speaker,1,1,1,2,1,2,1,1,1,0,2,1,1,0,1,81,Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,1,0,2,0,2,1,1,1,0,1,0,1,0,0,42,High
+Smart Speaker,0,2,1,2,0,1,1,1,0,0,0,1,0,0,0,44,High
+Smart Speaker,0,1,0,0,0,2,0,1,1,0,0,1,0,1,1,34,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,2,0,1,0,2,0,1,1,0,2,1,1,0,1,46,High
+Thermostat,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,47,High
+Smart Sensor,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,13,Critical
+Smart Speaker,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8,Critical
+Thermostat,1,1,0,0,1,2,1,0,0,0,1,0,0,1,0,41,High
+Smart Sensor,1,2,0,0,1,1,1,0,0,1,1,0,1,1,0,51,High
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Sensor,0,2,1,2,1,2,1,2,1,1,0,0,0,1,1,80,Low
+Smart Lock,1,0,0,2,1,1,1,1,0,0,1,0,1,0,0,46,High
+Smart Speaker,0,1,1,0,0,2,1,1,0,0,2,1,0,0,1,41,High
+Camera,0,1,0,1,0,0,1,1,0,0,0,1,0,0,0,21,Critical
+Smart Speaker,1,0,0,2,1,1,0,2,1,0,1,1,0,1,1,62,Medium
+Camera,0,2,0,0,0,1,1,2,1,1,2,0,1,0,1,49,High
+Camera,1,1,0,2,1,1,1,2,0,1,2,0,0,0,0,62,Medium
+Camera,1,2,0,1,1,1,0,0,0,0,1,1,0,0,0,43,High
+Smart Speaker,1,2,0,2,0,1,1,1,1,0,2,0,0,1,0,55,Medium
+Thermostat,1,2,1,1,1,1,0,0,1,0,0,1,1,0,1,64,Medium
+Smart Speaker,1,2,1,2,1,2,0,2,1,0,2,1,1,1,1,88,Low
+Smart Sensor,1,1,1,2,1,2,0,2,1,1,1,1,0,1,1,88,Low
+Camera,1,2,1,2,1,2,0,1,1,1,1,1,0,1,1,88,Low
+Smart Sensor,1,1,1,2,1,2,1,1,1,1,2,1,1,1,1,92,Very Low
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,1,0,1,1,0,1,0,0,1,1,0,0,0,0,33,Critical
+Thermostat,1,2,0,2,1,0,1,0,1,1,2,1,0,0,1,69,Medium
+Smart Lock,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,13,Critical
+Camera,1,1,0,2,1,2,0,1,0,1,2,1,1,0,0,64,Medium
+Smart Sensor,0,1,1,1,1,1,1,1,1,1,2,0,1,1,1,69,Medium
+Smart Speaker,1,1,1,0,1,1,0,2,1,0,1,1,0,1,1,66,Medium
+Smart Speaker,0,0,0,1,0,0,1,1,1,1,2,0,0,0,0,33,Critical
+Smart Speaker,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,25,Critical
+Smart Speaker,1,2,0,2,0,2,1,1,1,1,2,1,1,1,1,76,Low
+Smart Sensor,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,13,Critical
+Smart Speaker,1,1,1,1,1,2,0,2,1,1,2,0,1,0,0,77,Low
+Smart Sensor,0,2,1,2,1,2,1,2,1,1,1,1,1,1,1,88,Low
+Smart Lock,1,0,0,2,0,0,0,1,0,0,0,1,0,1,1,34,Critical
+Smart Sensor,1,2,0,2,1,0,1,1,1,1,1,1,1,1,0,73,Medium
+Smart Sensor,1,1,0,1,1,0,1,2,1,0,0,1,1,1,1,61,Medium
+Smart Speaker,1,2,1,2,1,2,0,0,1,1,0,0,0,0,1,75,Low
+Smart Speaker,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,13,Critical
+Smart Sensor,0,2,1,2,1,1,1,2,0,1,0,1,0,1,1,72,Medium
+Camera,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,37,High
+Smart Speaker,1,1,1,2,1,1,0,1,1,0,2,1,0,0,1,71,Medium
+Thermostat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,Critical
+Thermostat,1,2,0,1,0,1,1,0,1,0,2,0,1,0,1,48,High
+Thermostat,0,1,1,0,1,1,0,2,0,0,1,1,1,1,0,47,High
+Thermostat,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,12,Critical
+Smart Lock,1,2,1,1,0,1,1,0,1,0,2,1,0,1,0,60,Medium
+Smart Sensor,0,1,1,2,1,1,0,2,1,1,1,1,0,1,1,74,Medium
+Camera,1,1,1,1,1,2,1,2,0,1,2,1,1,1,1,83,Low
+Camera,1,1,0,1,0,0,0,0,0,1,1,0,0,1,0,32,Critical
+Smart Sensor,1,2,1,2,0,2,1,1,1,1,2,1,0,1,0,81,Low
+Thermostat,1,2,1,2,1,1,0,1,0,1,0,0,0,1,1,70,Medium
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,1,0,1,1,1,94,Very Low
+Smart Sensor,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,23,Critical
+Smart Lock,0,0,0,0,1,0,0,0,1,0,2,1,1,1,1,34,Critical
+Smart Sensor,1,1,1,0,1,2,0,2,1,1,1,1,1,1,1,80,Low
+Smart Speaker,1,2,1,2,1,1,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,0,0,0,0,1,0,1,1,1,1,1,0,1,0,43,High
+Smart Lock,1,2,1,2,1,2,1,2,0,1,1,1,1,1,1,90,Very Low
+Smart Lock,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,0,1,1,0,0,0,1,0,0,2,0,0,0,0,33,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Lock,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,Critical
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,1,2,0,2,1,1,1,0,1,1,2,1,1,1,1,78,Low
+Smart Speaker,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Smart Speaker,1,2,0,2,1,2,1,2,1,1,0,0,1,0,1,79,Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Speaker,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,13,Critical
+Thermostat,1,2,0,1,0,2,1,2,1,1,2,0,0,1,0,66,Medium
+Smart Lock,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,16,Critical
+Smart Lock,1,0,0,2,1,1,1,1,0,0,0,0,1,0,1,47,High
+Smart Speaker,1,2,0,2,1,2,1,1,1,1,0,1,1,1,0,79,Low
+Smart Speaker,1,1,1,2,1,2,1,2,1,1,2,1,1,1,1,96,Very Low
+Thermostat,1,0,0,0,0,0,0,2,1,0,1,0,1,1,0,33,Critical
+Smart Sensor,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,14,Critical
+Camera,0,0,0,0,0,0,1,0,0,0,2,0,1,0,0,10,Critical
+Smart Sensor,1,2,1,2,1,1,1,2,1,1,1,1,1,1,1,94,Very Low
+Smart Sensor,1,2,1,2,1,2,1,2,1,1,2,1,1,1,0,97,Very Low
+Smart Lock,1,1,1,0,1,2,1,2,1,1,2,1,1,1,0,83,Low
+Thermostat,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Sensor,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,27,Critical
+Camera,1,0,0,2,1,2,1,1,1,1,2,1,1,1,1,78,Low
+Smart Sensor,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,23,Critical
+Thermostat,1,1,1,2,0,1,1,0,1,1,2,1,1,1,1,74,Medium
+Smart Speaker,1,2,1,2,1,2,1,1,1,1,2,0,1,1,1,92,Very Low
+Thermostat,1,0,0,0,0,0,0,0,1,0,2,0,0,0,0,22,Critical
+Thermostat,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,14,Critical
+Smart Sensor,1,2,1,2,0,2,1,2,1,1,0,1,1,1,0,83,Low
+Smart Lock,0,1,0,1,1,2,1,0,0,0,2,1,1,0,0,41,High
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Camera,0,1,0,1,1,1,1,1,0,1,1,0,1,0,0,43,High
+Thermostat,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,9,Critical
+Smart Lock,1,2,0,0,1,0,1,1,0,0,0,1,0,1,0,43,High
+Smart Speaker,1,2,1,2,0,0,0,0,0,0,1,1,1,0,1,49,High
+Smart Sensor,1,0,1,2,0,0,0,0,0,1,0,0,0,1,0,41,High
+Camera,1,1,1,0,1,2,0,2,0,0,1,1,0,1,1,62,Medium
+Smart Speaker,0,0,0,1,1,0,0,1,1,1,1,0,1,0,0,39,High
+Smart Sensor,1,2,1,1,1,0,1,0,1,1,2,0,1,1,1,75,Low
+Camera,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Critical
+Smart Sensor,1,2,0,1,1,1,0,2,1,1,2,1,1,1,1,77,Low
+Thermostat,1,2,0,2,1,1,0,1,1,1,2,1,0,1,0,73,Medium
+Camera,1,2,1,0,1,2,1,1,1,1,1,1,1,0,1,81,Low
+Thermostat,1,2,1,2,1,2,0,2,1,1,2,1,1,1,1,96,Very Low
+Camera,1,2,1,2,1,2,1,1,1,1,2,1,1,1,1,96,Very Low
+Smart Speaker,1,2,1,2,0,1,0,0,0,0,1,0,0,0,0,44,High
+Smart Speaker,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,0,1,1,98,Very Low
+Thermostat,1,2,1,0,1,1,1,0,1,1,2,1,1,1,0,75,Low
+Thermostat,1,1,0,0,0,1,0,0,0,1,2,0,0,0,0,30,Critical
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,2,1,2,1,2,1,2,1,1,2,1,1,1,1,90,Very Low
+Smart Speaker,1,0,0,1,1,2,1,0,0,0,1,1,1,0,1,48,High
+Camera,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,18,Critical
+Camera,1,0,1,1,1,1,1,1,1,1,2,1,1,1,1,79,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Sensor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Camera,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,2,0,0,0,0,0,0,1,0,2,0,1,1,1,28,Critical
+Smart Speaker,1,2,1,2,1,2,1,2,1,1,2,1,1,0,1,97,Very Low
+Smart Sensor,0,2,0,1,1,1,0,1,1,1,2,1,0,0,1,58,Medium
+Camera,1,2,1,1,0,2,0,1,1,1,2,1,0,1,1,75,Low
+Camera,1,2,1,1,0,1,0,0,1,0,1,0,0,0,0,47,High
+Smart Speaker,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,11,Critical
+Smart Lock,1,2,1,2,1,2,1,2,1,1,2,1,1,1,1,100,Very Low
+Smart Speaker,0,1,0,2,1,1,0,1,1,1,0,1,0,0,1,55,Medium
+Smart Speaker,1,2,1,2,1,2,0,1,1,0,2,0,1,1,0,77,Low
+Thermostat,0,1,0,2,0,2,0,2,0,1,2,0,1,1,0,47,High
+Smart Sensor,1,1,1,1,0,1,0,1,0,0,2,1,1,0,0,47,High
+Smart Sensor,1,1,0,1,1,0,1,1,1,0,0,1,0,0,1,52,High
+Smart Speaker,1,1,1,2,1,2,1,1,1,1,2,1,0,0,0,84,Low
+Thermostat,1,2,1,2,1,2,1,2,1,1,1,1,1,1,0,95,Very Low
+Thermostat,1,2,0,2,1,2,1,1,0,0,0,1,1,1,1,66,Medium
+Camera,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Critical
+Thermostat,0,0,0,2,0,2,0,1,0,0,2,1,1,1,1,38,High
